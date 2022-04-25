@@ -278,7 +278,7 @@ https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 http://46.174.83.66/MirBasketbola/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="motorsportv-tv" tvg-logo="https://iptvxpix.ml/motorsportv-tv.png",Моторспорт ТВ
-http://109.200.130.124:7000/play/a00z
+http://31.173.178.110:8205/play/a0by/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="start" tvg-logo="https://iptvxpix.ml/start.png",Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
@@ -305,7 +305,7 @@ https://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8
 https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=kOujd1J9z8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="extreme-sports" tvg-logo="https://iptvxpix.ml/extreme-sports.png",Extreme Sports
-http://109.200.130.124:7000/play/a010
+http://31.173.178.110:8205/play/a05f/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://www.kindpng.com/picc/m/387-3877078_hockeytv-hockey-tv-hd-png-download.png",Inhockey
 http://79.143.20.110:8000/play/a00g
@@ -1728,7 +1728,7 @@ http://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1705
 #EXTINF:-1 group-title="Music" tvg-logo="https://media-cdn.tripadvisor.com/media/photo-i/0e/95/19/cd/tudo-na-brasa.jpg",Brasa Music HD
 http://live.salto.nl/hls/sotv1_high.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://ritsatv.ru/files/poster/medium/900122.png",City TV
+#EXTINF:-1 group-title="Music" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/69916/143753430/S122x122Fit_2x",City TV
 https://tv.city.bg/play/tshls/citytv/3.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="http://uzon.tv/uploads/posts/2021-03/california-music-channel.jpg",CMC TV
@@ -1809,7 +1809,7 @@ https://v2.catcast.tv/content/33816/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://3.bp.blogspot.com/-gFrUU_a4lmY/VQdLL829M0I/AAAAAAAAAF4/Wg7CatYw9Qk/s1600/MGR%2BProfile%2Bpic.jpg",MGR TV HD
 https://vod.streams.ovh:3876/stream/play.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://ritsatv.ru/files/poster/medium/700815.png",MIX MY DAY TV HD
+#EXTINF:-1 group-title="Music" tvg-logo="https://assets.iptv2022.com/uploads/channel/10627/thumb_MIXM_%D0%BB%D0%BE%D0%B3%D0%BE.png",MIX MY DAY TV HD
 https://mmdtv.ddns.net:3400/live/mixmydaylive.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="3798" tvg-logo="http://epg.it999.ru/img/3798.png",Mooz Dance
@@ -1857,7 +1857,7 @@ https://eu1.servers10.com:8081/8066/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://tv.10dailythings.com/images/channels/UNS/music/normal.png",MusicPlus HD HU
 http://s02.diazol.hu:10190/stream.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://ritsatv.ru/files/poster/medium/900184.png",MUZ TV Azerbaijan
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.canli.life/wp-content/uploads/2021/02/muz-tv.png",MUZ TV Azerbaijan
 https://mfe01.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.telenet.hu/images/upload/channel_logo/c.jpg",NM TV
@@ -1935,7 +1935,7 @@ http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://ai-i1.infcdn.net/icons_siandroid/png/og/13639/13639521.png",Radio Ibiza TV
 http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://ritsatv.ru/files/poster/medium/900477.jpg",Radio Italia
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.tv14.net/wp-content/uploads/2013/04/Radio-Italia-TV-logo.jpg",Radio Italia
 https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://podcast-api-images.s3.amazonaws.com/podcast_logo_40908_300x300.jpg",Radio Javan TV
@@ -1989,7 +1989,7 @@ http://a3.smashmalta.com:82/live/smash/smash/8.ts
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.phonostar.de/images/auto_created/sonus_fm184x184.png",Sonus
 http://sonus.fm:1935/public/stream_in/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://ritsatv.ru/files/poster/medium/900176.png",Spirit TV
+#EXTINF:-1 group-title="Music" tvg-logo="https://televisor.top/uploads/posts/635636346346346.png",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/07/Steelbird-Music.jpg",Steelbird Music
@@ -2222,7 +2222,7 @@ http://st1.astra-uk.ru:81/eb52590b081ba51db901f5250df9482f/playlist.m3u8
 https://sc.id-tv.kz/EdaHD_34_35.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-planeta" tvg-logo="https://iptvxpix.ml/zhivaya-planeta.png",Живая планета
-http://37.193.229.234:81/udp/239.1.5.23:1234
+http://109.171.45.109:81/udp/239.54.5.166:1224
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-priroda" tvg-logo="https://iptvxpix.ml/zhivaya-priroda.png",Живая природа
 https://livetv.mylifeisgood.ml/channels/jivyapriroda
@@ -2462,7 +2462,7 @@ http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_CHERKS_9VOLNA-CHRK
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/abaitv/abaitv_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="almaty" tvg-logo="https://iptvxpix.ml/almaty.png",Almaty
-http://91.185.3.218:4000/play/108
+http://92.46.127.146:8080/Almaty/index.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://oskementv.kz/assets/regions/logo/altay.png?v=1",ALTAI TV
 https://stream.kaztrk.kz/regional/oskementv/index.m3u8
