@@ -2815,13 +2815,22 @@ http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
 
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://xn----dtbh7c.xn--p1ai/wp-content/uploads/2018/12/LOGO_ETV-272x270.png",Егорьевское ТВ
+https://video.platformcraft.ru/hls/etv/egorievsk-tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Региональные" tvg-id="enisey-region" tvg-logo="https://iptvxpix.ml/enisey-region.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Енисей регион
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
 
+#EXTINF:-1 group-title="Региональные" tvg-id="zhetysu" tvg-logo="https://iptvxpix.ml/zhetysu.png",Жетысу
+http://92.46.127.146:8080/Zhetysu-L3-TRANS/index.m3u8
+
 #EXTINF:-1 group-title="Региональные" tvg-id="zab-tv-24" tvg-logo="https://iptvxpix.ml/zab-tv-24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Заб.TV 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_CHITA_ZABTV/variant.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://zapad-24.ru/img/logo.png",Запад 24
+https://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="ivanovo-ot" tvg-logo="https://iptvxpix.ml/ivanovo-ot.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ивановское общественное телевидение
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
@@ -2972,7 +2981,7 @@ http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NW_MURM_NTV/variant.m3u8
 http://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="ntrk-ingushetia" tvg-logo="https://iptvxpix.ml/ntrk-ingushetia.png",НТРК Ингушетия
-http://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_sdhigh.m3u8
+http://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="nts-irkutsk" tvg-logo="https://iptvxpix.ml/nts-irkutsk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТС Иркутск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
