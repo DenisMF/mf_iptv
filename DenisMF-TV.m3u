@@ -1442,13 +1442,13 @@ http://50.7.188.186/JimJam/mono.m3u8
 https://v2.catcast.tv/content/38144/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-id="nick-jr" tvg-logo="https://iptvxpix.ml/nick-jr.png",Nick Jr
-http://st1.astra-uk.ru:81/dfd77f0790968b73e1fdccdf64a2804e/playlist.m3u8
+http://saveukraine.only4.tv/814/index.m3u8?token=saveUkrain
 
 #EXTINF:-1 group-title="Детские" tvg-id="nickelodeon-ru" tvg-logo="https://iptvxpix.ml/nickelodeon.png",Nickelodeon
 http://31.173.178.110:8205/play/a06b/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://iptvxpix.ml/nickelodeon-hd.png",Nickelodeon HD
-http://saveukraine.only4.tv/14106/video.m3u8?token=saveUkrain
+http://saveukraine.only4.tv/14106/index.m3u8?token=saveUkrain
 
 #EXTINF:-1 group-title="Детские" tvg-id="niki-junior" tvg-logo="https://iptvxpix.ml/niki-junior.png",Niki Junior HD
 http://saveukraine.only4.tv/5515/video.m3u8?token=saveUkrain
@@ -1620,12 +1620,6 @@ http://st1.astra-uk.ru:81/8b5b7c6f9686f2c9453491c57874a45b/playlist.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-rocks" tvg-logo="https://iptvxpix.ml/mtv-rocks.png",MTV 90s
 http://st1.astra-uk.ru:81/3516046391e5bb2283cdc020b974bfdc/playlist.m3u8
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="5481" tvg-logo="http://epg.it999.ru/img2/5481.png",MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="5482" tvg-logo="http://epg.it999.ru/img2/5482.png",MTV Block Party
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="1021" tvg-logo="http://epg.it999.ru/img/1021.png",MTV Dance
 https://mfe02.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd
@@ -1939,8 +1933,14 @@ http://190.2.155.162:8080/mtvfrance/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img/1021.png",MTV (Polska)
 http://193.32.37.17:8000/play/a00g/index.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img2/5481.png",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img2/5481.png",MTV Biggest Pop HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS05/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img2/5482.png",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img2/5482.png",MTV Block Party HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS06/master.m3u8
