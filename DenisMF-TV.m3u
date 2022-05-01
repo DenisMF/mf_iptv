@@ -1058,7 +1058,7 @@ http://50.7.188.186/cinema/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="2181" tvg-logo="https://iptvxpix.ml/filmbox-ru.png" tvg-rec="3",FilmBox
 http://50.7.188.186/FilmBox/mono.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="2182" tvg-logo="https://iptvxpix.ml/filmbox-arthouse.png" tvg-rec="0",Film Box Art House HD UA
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="2182" tvg-logo="https://iptvxpix.ml/filmbox-arthouse.png",Film Box Art House HD UA
 http://50.7.188.186/FilmBoxArthouse/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="filmbox-ru" tvg-logo="https://iptvxpix.ml/filmbox-ru.png",FilmBox Russia
@@ -1257,7 +1257,7 @@ https://pkvc-hls4.cdnvideo.ru/Pobeda/smil:Pobeda.smil/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="premialnoe-hd" tvg-logo="https://iptvxpix.ml/premialnoe-hd.png",Премиальное HD
 http://50.7.92.90/Kino_premium_HD/mono.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="6000" tvg-logo="http://epg.it999.ru/img2/6000.png" tvg-rec="0",Премьера T
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="6000" tvg-logo="http://epg.it999.ru/img2/6000.png",Премьера T
 http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_5.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="pro100" tvg-logo="https://iptvxpix.ml/pro100.png",Про100 ТВ
@@ -1610,26 +1610,23 @@ http://st1.astra-uk.ru:81/d0e1614ba9e630d36650b7167b2772c1/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="4654" tvg-logo="http://epg.it999.ru/img/4654.png",Mix M TV HD
 http://89.179.247.144/mixm.m3u8
 
-#EXTINF:-1 group-title="Музыкальные" tvg-id="1021" tvg-logo="http://epg.it999.ru/img/1021.png",MTV Россия
-http://st1.astra-uk.ru:81/72fb20d7cba8d4ed1b3133b64b85c935/playlist.m3u8
-
 #EXTINF:-1 group-title="Музыкальные" tvg-id="1021" tvg-logo="http://epg.it999.ru/img/1021.png",MTV 00s
-http://st1.astra-uk.ru:81/2d41cae6c123e436de4bdd88d1dfd1ea/playlist.m3u8
+http://50.7.188.186/VH1_Europe/mono.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="vh1-classic" tvg-logo="https://iptvxpix.ml/vh1-classic.png",MTV 80s
-http://st1.astra-uk.ru:81/8b5b7c6f9686f2c9453491c57874a45b/playlist.m3u8
+http://50.7.92.90/MTV_Dance/mono.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-rocks" tvg-logo="https://iptvxpix.ml/mtv-rocks.png",MTV 90s
-http://st1.astra-uk.ru:81/3516046391e5bb2283cdc020b974bfdc/playlist.m3u8
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="1021" tvg-logo="http://epg.it999.ru/img/1021.png",MTV Dance
-https://mfe02.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd
+http://50.7.188.186/MTVRocks/mono.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="1723" tvg-logo="http://epg.it999.ru/img/1723.png",MTV Hits
-https://mfe01.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
+http://50.7.188.186/MTV_hits/mono.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="382" tvg-logo="http://epg.it999.ru/img/382.png",MTV Live HD
-http://109.200.130.124:7005/play/a00e
+http://50.7.92.90/MTV_Live_HD/mono.m3u8
+
+#EXTINF:-1 group-title="Музыкальные" tvg-id="1021" tvg-logo="http://epg.it999.ru/img/1021.png",MTV Россия
+http://50.7.92.90/MTV_Russia/mono.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="2094" tvg-logo="http://epg.it999.ru/img/2094.png",Music HD
 http://live-planetaonline.cdnvideo.ru/http/smil:channel_4.smil/playlist.m3u8
@@ -2134,6 +2131,9 @@ https://stirr.ott-channels.stingray.com/107/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="5464" tvg-logo="http://epg.it999.ru/img2/5464.png",Stingray Hot Country HD
 https://stirr.ott-channels.stingray.com/108/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="4042" tvg-logo="http://epg.it999.ru/img/4042.png",Stingray iConcerts HD
+http://50.7.188.186/iConcertsHD/mono.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="5465" tvg-logo="http://epg.it999.ru/img2/5465.png",Stingray Pop Adult HD
 https://stirr.ott-channels.stingray.com/104/master.m3u8
@@ -4653,6 +4653,22 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3
 http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://i.imgur.com/WlrcyMe.png",Miami TV Jenny Live
 http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-id="4953" tvg-logo="http://epg.it999.ru/img/4953.png",PINK EROTICA 1
+http://54.36.123.36:8080/PinkErotic1/index.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-id="4954" tvg-logo="http://epg.it999.ru/img/4954.png",PINK EROTICA 2
+http://54.36.123.36:8080/PinkErotic2/index.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-id="4955" tvg-logo="http://epg.it999.ru/img/4955.png",PINK EROTICA 3
+http://54.36.123.36:8080/PinkErotic3/index.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-id="4956" tvg-logo="http://epg.it999.ru/img/4956.png",PINK EROTICA 4
+http://54.36.123.36:8080/PinkErotic4/index.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-id="4957" tvg-logo="http://epg.it999.ru/img/4957.png",PINK EROTICA 5
+http://54.36.123.36:8080/PinkErotic5/index.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-id="4958" tvg-logo="http://epg.it999.ru/img/4958.png",PINK EROTICA 6
+http://54.36.123.36:8080/PinkErotic6/index.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-id="4959" tvg-logo="http://epg.it999.ru/img/4959.png",PINK EROTICA 7
+http://54.36.123.36:8080/PinkErotic7/index.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-id="4960" tvg-logo="http://epg.it999.ru/img/4960.png",PINK EROTICA 8
+http://54.36.123.36:8080/PinkErotic8/index.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://img-ipad.lisisoft.com/imgmic/8/1/819-1-pinko-up.jpg",Pinko Club
 http://93.152.174.144:4000/play/pinkotv/index.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="2320" tvg-logo="http://epg.it999.ru/img/2320.png",Redlight HD
