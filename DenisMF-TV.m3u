@@ -361,19 +361,20 @@ http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 
-#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports" tvg-logo="https://iptvxpix.ml/setanta-sports1.png",Setanta Sports
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://iptvxpix.ml/setanta-sports.png",Setanta Eurasia HD
 http://50.7.92.90/SetantaEurasia/mono.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports" tvg-logo="https://iptvxpix.ml/setanta-sports1.png",Setanta Sports 1
 http://194.58.42.152:8000/play/setantasports1hd/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports" tvg-logo="https://iptvxpix.ml/setanta-sports1.png",Setanta Sports 1 HD
 http://134.0.113.120:8000/play/setantasports1hd/index.m3u8
 
-#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports-plus" tvg-logo="https://iptvxpix.ml/setanta-sports2.png",Setanta Sports+
-http://50.7.188.186/Setanta_SportsHD_UA/mono.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports-plus" tvg-logo="https://iptvxpix.ml/setanta-sports2.png",Setanta Sports 2
 http://134.0.113.120:8000/play/setantasports2hd/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports-plus" tvg-logo="https://iptvxpix.ml/setanta-sports2.png",Setanta Sports 2 HD
 http://194.58.42.152:8000/play/setantasports2hd/index.m3u8
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-ua" tvg-logo="https://iptvxpix.ml/setanta-ua.png",Setanta Sports Ukraine
+http://50.7.188.186/Setanta_SportsHD_UA/mono.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="viasat-sport" tvg-logo="https://iptvxpix.ml/viasat-sport.png",Viasat Sport HD
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
