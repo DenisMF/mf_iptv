@@ -1332,11 +1332,11 @@ https://hls.goodgame.ru/hls/153640.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-id="5135" tvg-logo="http://epg.it999.ru/img/5135.png",минимакс-ussr-фантастика HD
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13022/index.m3u
 
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://edemtv.my1.ru/avatar/Logo.png",СОК
-https://hls.goodgame.ru/hls/180212.m3u8
-
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="https://www.fulltv.com.ar/images/peliculas/m/ver-the-ninth.jpg",Российские сериалы
 http://140.238.127.147/streams/9.m3u8
+
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://edemtv.my1.ru/avatar/Logo.png",СОК
+https://hls.goodgame.ru/hls/180212.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://televizor.org/img/logopit/%D0%A3%D0%B6%D0%B0%D1%81%20HD.png",Ужас HD
 https://v2.catcast.tv/content/41000/index.m3u8
@@ -3393,6 +3393,12 @@ http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="http://ictv.cc/img/tbn.jpg",ТБН
 https://5d23269b3ec0c.streamlock.net/WEB_TBN/TBN.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://forum.podolsk.ru/download/file.php?avatar=44058_1343975192.jpg",ТВ Кварц
+https://video.quartztelecom.ru:18080/hls/2386168/71fe656b993c510f39a5/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://poisktv.ru/wp-content/uploads/2020/11/06.TV_POISK-300x169.jpg",ТВ Поиск (Клин)
+https://poisktv-live.cdnvideo.ru/poisktv/FullHD.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="Региональные" tvg-id="tvcentr" tvg-logo="https://iptvxpix.ml/tvcentr.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ Центр (Мурманск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_MURM_TVC/variant.m3u8
@@ -3412,12 +3418,6 @@ https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/vari
 #EXTINF:-1 group-title="Региональные" tvg-id="tv-in" tvg-logo="https://iptvxpix.ml/tv-in.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ-ИН (Магнитогорск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
-
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://forum.podolsk.ru/download/file.php?avatar=44058_1343975192.jpg",ТВ Кварц
-https://video.quartztelecom.ru:18080/hls/2386168/71fe656b993c510f39a5/playlist.m3u8
-
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://poisktv.ru/wp-content/uploads/2020/11/06.TV_POISK-300x169.jpg",ТВ Поиск (Клин)
-https://poisktv-live.cdnvideo.ru/poisktv/FullHD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="tvk-krasnoyarsk" tvg-logo="https://iptvxpix.ml/tvk-krasnoyarsk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВК Красноярск HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
@@ -3458,9 +3458,18 @@ http://91.207.106.1:8888/live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_KANAL16/variant.m3u8
 
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://xn--b1aqkdfik.xn--p1ai/tinybrowser/images/13123.jpg",ТРК Луч (Пуровск)
+http://live.trk-luch.ru/hls/live_hi.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://sakibibl.crm.muzkult.ru/media/2020/01/29/1250412689/Logo-200.png",ТРК Тонус (Саки)
+http://171.25.175.68:888/tonus
+
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://i10.fotocdn.net/s128/89c8bc0dbee67865/user_s/2913194496.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТРК Юганск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_YUGANSK/variant.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://old.cikpmr.com/images/cik/news/2020/05/200520-6.jpg",ТСВ (Приднестровье)
+https://iptv-hls.idc.md/hls/2/live2.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="tagil-tv-24" tvg-logo="https://iptvxpix.ml/tagil-tv-24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тагил-ТВ 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
@@ -3481,12 +3490,21 @@ http://89.232.125.186/online_tv_Tatarstan24/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
 
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://nstar-spb.ru/upload/resize_cache/iblock/old/user/274_175_1/1383308684,92.jpg",Теледом HD
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+
 #EXTINF:-1 group-title="Региональные" tvg-id="86-surgut" tvg-logo="https://iptvxpix.ml/86-surgut.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Телеканал 86 Сургут
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TELEKANAL86/variant.m3u8
 
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://goo.su/B6mNqWL",Телеканал ТВЖ | Аша
+http://37.79.254.224:1234/hls2/tvg.m3u8
+
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://i.mycdn.me/i?r=AzGBqNaF5OQp2lMpnhRx4DEFFv5miweljC8nWC4B7pAI3IOEyXTosgHTseoDGmOOwqw",Телплюс
 https://streaming.astrakhan.ru/telplushd/video.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-id="tivisi-hd" tvg-logo="https://iptvxpix.ml/tivisi-hd.png",ТиВиСи HD
+https://live-tvstv.cdnvideo.ru/tvstv/tvstv/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="tivikom" tvg-logo="https://iptvxpix.ml/tivikom.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тивиком HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
@@ -3495,6 +3513,12 @@ http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/e8c4f9ac70810bbed6d2b7c73d4e382b.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тобольское время
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TOBOLSKOEVREMYA/variant.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-id="toy-duman" tvg-logo="https://iptvxpix.ml/toy-duman.png",Той Думан
+https://sc.id-tv.kz/ToiDuman_34_35.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://sun9-29.userapi.com/c629204/u213891921/video/l_02a92e92.jpg",Ток ТВ (Коломна)
+https://toktvonline.ru/video/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="tolpartv" tvg-logo="https://iptvxpix.ml/tolpartv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Толпар-ТВ (Уфа)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
@@ -3507,6 +3531,12 @@ http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="tomskoe-vremia" tvg-logo="https://iptvxpix.ml/tomskoe-vremia.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Томское время
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_TOMSKVREMIA/variant.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://sun9-38.userapi.com/c638521/u35428/video/l_d4f367f0.jpg",Тосно ТВ
+https://tosnotv.ru/hlsshare/video.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.mycdn.me/i?r=AzEPZsRbOZEKgBhR0XGMT1RkiB3Q4gWjYsCbUQ5zjoCRvqaKTM5SRkZCeTgDn6uOyic",Туапсе 24 HD
+http://185.185.69.62:8084/hls/tuapse24.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/f198a77a832e8ce1f1e259fb20507cf5.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тува 24 (Кызыл)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
