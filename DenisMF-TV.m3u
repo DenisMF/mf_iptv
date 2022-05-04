@@ -1332,7 +1332,7 @@ https://hls.goodgame.ru/hls/153640.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-id="5135" tvg-logo="http://epg.it999.ru/img/5135.png",минимакс-ussr-фантастика HD
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13022/index.m3u
 
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://edemtv.my1.ru/avatar/Logo.png",ОК
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://edemtv.my1.ru/avatar/Logo.png",СОК
 https://hls.goodgame.ru/hls/180212.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="https://www.fulltv.com.ar/images/peliculas/m/ver-the-ninth.jpg",Российские сериалы
@@ -1667,6 +1667,9 @@ http://140.238.127.147/streams/6.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="radio-strana-fm-tv" tvg-logo="https://iptvxpix.ml/radio-strana-fm-tv.png",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://goo.su/RtbThmv",Танец ТВ HD
+https://efirtanectv-hls.cdnvideo.ru/hls/61c641b176face0001223636/playlist.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="tnt-music" tvg-logo="https://iptvxpix.ml/tnt-music.png",ТНТ Music
 https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
@@ -3297,6 +3300,9 @@ http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_STVBAYKAL/variant.m3u8
 
+#EXTINF:-1 group-title="Региональные" tvg-id="strk" tvg-logo="https://iptvxpix.ml/strk.png",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+
 #EXTINF:-1 group-title="Региональные" tvg-id="settv-xabarovsk" tvg-logo="https://iptvxpix.ml/settv-xabarovsk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СЭТ TV Хабаровск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://s97982.cdn.ngenix.net/hls/CH_R02_OTTS3TTV/variant.m3u8
@@ -3367,16 +3373,25 @@ http://stvserver.sibaytv.ru:10082/canals/canal1/stream.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://avt-7.foto.mail.ru/bk/region24/_avatar180?1354861013&mrim=1",Сибирь 24
 https://www.nsktv.ru:48906/hls/live.m3u8
 
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://simferopol24.ru/sites/default/files/header-logo.png",Симферополь 24
+https://simf.1tvcrimea.ru/show/simferopol24/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.ytimg.com/vi/srzONix9Ghc/mqdefault.jpg",Солнечногорское ТВ
+http://hls.solntv.cdnvideo.ru/solntv/solntv.sdp/playlist.m3u8
+
 #EXTINF:-1 group-title="Региональные" tvg-id="sochi24" tvg-logo="https://iptvxpix.ml/sochi24.png" tvg-name="Сочи24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Сочи 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 
-#EXTINF:-1 group-title="Региональные" tvg-id="strk" tvg-logo="https://iptvxpix.ml/strk.png",СТРК HD
-http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://avt-29.foto.mail.ru/mail/sttv39/_avatar180?",Советск-Тильзит ТВ
+http://109.239.208.82/tilsit/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="surgut-24" tvg-logo="https://iptvxpix.ml/surgut-24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Сургут 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://ictv.cc/img/tbn.jpg",ТБН
+https://5d23269b3ec0c.streamlock.net/WEB_TBN/TBN.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="tvcentr" tvg-logo="https://iptvxpix.ml/tvcentr.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ Центр (Мурманск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
@@ -3397,6 +3412,12 @@ https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/vari
 #EXTINF:-1 group-title="Региональные" tvg-id="tv-in" tvg-logo="https://iptvxpix.ml/tv-in.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ-ИН (Магнитогорск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://forum.podolsk.ru/download/file.php?avatar=44058_1343975192.jpg",ТВ Кварц
+https://video.quartztelecom.ru:18080/hls/2386168/71fe656b993c510f39a5/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://poisktv.ru/wp-content/uploads/2020/11/06.TV_POISK-300x169.jpg",ТВ Поиск (Клин)
+https://poisktv-live.cdnvideo.ru/poisktv/FullHD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="tvk-krasnoyarsk" tvg-logo="https://iptvxpix.ml/tvk-krasnoyarsk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВК Красноярск HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
@@ -3429,6 +3450,9 @@ http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://epg.domru.ru/chlogo/1576147839.png" tvg-name="ТОЛК" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТОЛК (Барнаул)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://goo.su/td1t0w",ТPK 555 (Алушта)
+http://91.207.106.1:8888/live
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://xn--80ae9ahd.xn----7sbbbkl2b5arjli2dva5g.xn--p1ai/media/1401944/k16_201x201.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТРК Канал-16 (Саров)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
@@ -4147,7 +4171,7 @@ http://edge-01-pub.persik.by:82/live/Ch032pub/index.m3u8
 http://edge-01-pub.persik.by:82/live/Ch033pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch034pub
 http://edge-01-pub.persik.by:82/live/Ch034pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch035pub
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://persik.tv/images/channels/logos/10750.png",Советские комедии HD
 http://edge-01-pub.persik.by:82/live/Ch035pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch036pub
 http://edge-01-pub.persik.by:82/live/Ch036pub/index.m3u8
