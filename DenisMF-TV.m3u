@@ -3899,8 +3899,6 @@ http://foreign-default.persik.by:82/live/Ch2/index.m3u8
 http://foreign-default.persik.by:82/live/Ch37/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://iptvxpix.ml/cnl-sibir.png",CNL
 http://foreign-default.persik.by:82/live/Ch5/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/images/channels/logos/3.png",ch206
-http://foreign-default.persik.by:82/live/Ch206/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://iptvxpix.ml/da-vinci.png",Da Vinci
 http://foreign-default.persik.by:82/live/Ch383/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10265.png",Euronews
@@ -3923,6 +3921,8 @@ http://foreign-default.persik.by:82/live/Ch226/index.m3u8
 http://foreign-default.persik.by:82/live/Ch334/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10210.png",National Geographic
 http://foreign-default.persik.by:82/live/Ch210/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10243.png",National Geographic HD
+http://foreign-default.persik.by:82/livehq/Ch241hd/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/946.png",Nick Jr
 http://foreign-default.persik.by:82/live/Ch267/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/45.png",Nickelodeon
@@ -3957,6 +3957,8 @@ http://foreign-default.persik.by:82/live/Ch247/index.m3u8
 http://foreign-default.persik.by:82/live/Ch38/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/118.png",Беларусь 1
 http://foreign-default.persik.by:82/live/Ch73/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10405.png",Беларусь 1 HD
+http://foreign-default.persik.by:82/livehq/Ch320hd/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/148.png",Беларусь 2
 http://foreign-default.persik.by:82/live/Ch64/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/883.png",Беларусь 3
@@ -3965,8 +3967,12 @@ http://foreign-default.persik.by:82/live/Ch71/index.m3u8
 http://foreign-default.persik.by:82/live/Ch81/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/932.png",Беларусь 5
 http://foreign-default.persik.by:82/live/Ch411/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10408.png",Беларусь 5 HD
+http://foreign-default.persik.by:82/livehq/Ch323hd/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10200.png",Беларусь 24
 http://foreign-default.persik.by:82/live/Ch200/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10712.png",Беларусь 24 HD
+http://foreign-default.persik.by:82/livehq/Ch200hd/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10948.png",Бокс ТВ
 http://foreign-default.persik.by:82/live/Ch418/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://iptvxpix.ml/v-gostiax-u-skazki.png",В гостях у сказки
@@ -3975,6 +3981,10 @@ http://foreign-default.persik.by:82/live/Ch416/index.m3u8
 http://foreign-default.persik.by:82/live/Ch371/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/139.png",ВТВ
 http://foreign-default.persik.by:82/live/Ch16/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10719.png",ВТВ HD
+http://foreign-default.persik.by:82/livehq/Ch16hd/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://iptvxpix.ml/domkino-premium.png",Дом Кино Премиум HD
+http://foreign-default.persik.by:82/livehq/Ch243hd/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://iptvxpix.ml/domashny.png",Домашний
 http://foreign-default.persik.by:82/live/Ch375/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://iptvxpix.ml/eurokino.png",Еврокино
@@ -4029,18 +4039,24 @@ http://foreign-default.persik.by:82/live/Ch36/index.m3u8
 http://foreign-default.persik.by:82/live/Ch255/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/276.png",Матч! ТВ
 http://foreign-default.persik.by:82/live/Ch102/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/276.png",Матч! ТВ HD
+http://foreign-default.persik.by:82/livehq/Ch102hd/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/346.png",Матч! Футбол 1
 http://foreign-default.persik.by:82/live/Ch39/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/346.png",Матч! Футбол 1 HD
 http://foreign-default.persik.by:82/live/Ch250hd/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10217.png",Матч! Футбол 2
 http://foreign-default.persik.by:82/live/Ch217/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10267.png",Матч! Футбол 2 HD
+http://foreign-default.persik.by:82/livehq/Ch251hd/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10218.png",Матч! Футбол 3
 http://foreign-default.persik.by:82/live/Ch218/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/176.png",МИР
 http://foreign-default.persik.by:82/live/Ch45/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/176.png",МИР HD
 http://foreign-default.persik.by:82/live/Ch280hd/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10283.png",МИР HD
+http://foreign-default.persik.by:82/livehq/Ch45hd/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://iptvxpix.ml/mir24.png",Мир 24
 http://foreign-default.persik.by:82/live/Ch413/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://iptvxpix.ml/muvitv.png",Муви ТВ
@@ -4061,8 +4077,12 @@ http://foreign-default.persik.by:82/live/Ch399/index.m3u8
 http://foreign-default.persik.by:82/live/Ch78/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/699.png",НТВ-Беларусь
 http://foreign-default.persik.by:82/live/Ch27/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/699.png",НТВ-Беларусь HD
+http://foreign-default.persik.by:82/livehq/Ch78hd/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/111.png",ОНТ
 http://foreign-default.persik.by:82/live/Ch74/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10409.png",ОНТ HD
+http://foreign-default.persik.by:82/livehq/Ch324hd/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://iptvxpix.ml/pervy.png",Первый канал HD
 http://foreign-default.persik.by:82/live/Ch31/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10273.png",Перец International
@@ -4083,16 +4103,22 @@ http://foreign-default.persik.by:82/live/Ch63/index.m3u8
 http://foreign-default.persik.by:82/live/Ch6/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://iptvxpix.ml/rossia1.png",Россия 1
 http://foreign-default.persik.by:82/live/Ch41/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://iptvxpix.ml/rossia1.png",Россия 1 HD
+http://foreign-default.persik.by:82/livehq/Ch41hd/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://iptvxpix.ml/rossia-24.png",Россия 24
 http://foreign-default.persik.by:82/live/Ch76/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://iptvxpix.ml/rtr-belarus.png",РТР Беларусь
 http://foreign-default.persik.by:82/live/Ch77/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://iptvxpix.ml/rtr-belarus.png",РТР Беларусь HD
+http://foreign-default.persik.by:82/livehq/Ch77hd/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/177.png",Русский иллюзион
 http://foreign-default.persik.by:82/live/Ch55/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://iptvxpix.ml/spas.png",Спас
 http://foreign-default.persik.by:82/live/Ch9/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/115.png",СТВ
 http://foreign-default.persik.by:82/live/Ch75/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10410.png",СТВ HD
+http://foreign-default.persik.by:82/livehq/Ch325hd/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://iptvxpix.ml/tv3-ru.png",ТВ3
 http://foreign-default.persik.by:82/live/Ch101/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/847.png",ТВ-3 Беларусь
@@ -4108,40 +4134,11 @@ http://foreign-default.persik.by:82/live/Ch49/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/440.png",Футбол
 http://foreign-default.persik.by:82/live/Ch272/index.m3u8
 
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch16hd
-http://foreign-default.persik.by:82/livehq/Ch16hd/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch41hd
-http://foreign-default.persik.by:82/livehq/Ch41hd/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch45hd
-http://foreign-default.persik.by:82/livehq/Ch45hd/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://iptvxpix.ml/rtr-belarus.png",РТР Беларусь HD
-http://foreign-default.persik.by:82/livehq/Ch77hd/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch78hd
-http://foreign-default.persik.by:82/livehq/Ch78hd/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch102hd
-http://foreign-default.persik.by:82/livehq/Ch102hd/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch200hd
-http://foreign-default.persik.by:82/livehq/Ch200hd/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch241hd
-http://foreign-default.persik.by:82/livehq/Ch241hd/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch243hd
-http://foreign-default.persik.by:82/livehq/Ch243hd/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch251hd
-http://foreign-default.persik.by:82/livehq/Ch251hd/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch320hd
-http://foreign-default.persik.by:82/livehq/Ch320hd/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch323hd
-http://foreign-default.persik.by:82/livehq/Ch323hd/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch324hd
-http://foreign-default.persik.by:82/livehq/Ch324hd/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch325hd
-http://foreign-default.persik.by:82/livehq/Ch325hd/index.m3u8
-
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch001pub
 http://edge-01-pub.persik.by:82/live/Ch001pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch002pub
 http://edge-01-pub.persik.by:82/live/Ch002pub/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/10758.png",Сериалы HD
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10758.png",Сериалы HD
 http://edge-01-pub.persik.by:82/live/Ch003pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch004pub
 http://edge-01-pub.persik.by:82/live/Ch004pub/index.m3u8
@@ -4201,7 +4198,7 @@ http://edge-01-pub.persik.by:82/live/Ch032pub/index.m3u8
 http://edge-01-pub.persik.by:82/live/Ch033pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch034pub
 http://edge-01-pub.persik.by:82/live/Ch034pub/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://persik.tv/images/channels/logos/10750.png",Советские комедии HD
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10750.png",Советские комедии HD
 http://edge-01-pub.persik.by:82/live/Ch035pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch036pub
 http://edge-01-pub.persik.by:82/live/Ch036pub/index.m3u8
