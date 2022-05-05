@@ -2363,7 +2363,7 @@ http://st1.astra-uk.ru:81/d86d811d284b57b9e10b7d230a23be24/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="ntv-style" tvg-logo="https://iptvxpix.ml/ntv-style.png",НТВ Стиль
 http://50.7.188.186/ntvstyle/mono.m3u8
 
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/marsaget/tv/master/pics/okino.png",О!Кино
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://smotret.tv/images/o-kino.webp",О, Кино!
 http://193.33.240.8:8080/nashe/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="otkryty-mir" tvg-logo="https://iptvxpix.ml/otkryty-mir.png",Открытый мир
@@ -2431,6 +2431,9 @@ https://strm.yandex.ru/kal/spas/spas0.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="tayna" tvg-logo="https://iptvxpix.ml/tayna.png",Тайна
 http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://smotret.tv/images/tv-tur.webp",ТВТУР
+https://live-planetaonline.cdnvideo.ru/http/smil:channel_2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="6036" tvg-logo="http://epg.it999.ru/img2/6036.png",ТВ Экстра HD
 http://live-1.otcnet.ru/tvextra720b/index.m3u8
@@ -2949,6 +2952,9 @@ http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/varia
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://goo.su/qzqqE",Лотос 24 HD
 https://streaming.astrakhan.ru/live/vgtrk/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://smotret.tv/images/lugansk-24.webp",Луганск 24 HD
+https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="metr" tvg-logo="https://iptvxpix.ml/metr.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МЭТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
@@ -3499,7 +3505,7 @@ http://89.232.125.186/online_tv_Tatarstan24/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
 
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://nstar-spb.ru/upload/resize_cache/iblock/old/user/274_175_1/1383308684,92.jpg",Теледом HD
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://smotret.tv/images/teledom.webp",Теледом HD
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="86-surgut" tvg-logo="https://iptvxpix.ml/86-surgut.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Телеканал 86 Сургут
