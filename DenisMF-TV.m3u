@@ -3625,7 +3625,7 @@ http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R01_TNT4_EKT/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
 
-#EXTINF:-1 group-title="Российские" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553852171156.png",Эфир 25 (Владивосток)
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553852171156.png",Эфир 25 (Владивосток)
 https://flussonic0.podryad.net/gorodtv/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="echotv" tvg-logo="https://iptvxpix.ml/echotv.png",Эхо TV
