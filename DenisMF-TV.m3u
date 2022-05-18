@@ -4717,7 +4717,7 @@ http://CDN.neonfilm.tv/vod/00058.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00059.mp4/video.m3u8
 #EXTINF:5580 tvg-id="48" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/48.jpg" ,Чужие против Хищника: Реквием
 http://CDN.neonfilm.tv/vod/00048.mp4/video.m3u8
-#EXTINF:6300 tvg-id="46" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/46.jpg" ,Тайна Коко
+#EXTINF:6300 tvg-id="46" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/46.jpg" ,Тайна Коко
 http://CDN.neonfilm.tv/vod/00046.mp4/video.m3u8
 #EXTINF:7380 tvg-id="69" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/69.jpg" ,Индиана Джонс и Королевство хрустального черепа
 http://CDN.neonfilm.tv/vod/00069.mp4/video.m3u8
@@ -4921,7 +4921,7 @@ http://CDN.neonfilm.tv/vod/00192.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00193.mp4/video.m3u8
 #EXTINF:9240 tvg-id="174" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/174.jpg" ,Трансформеры: Последний рыцарь
 http://CDN.neonfilm.tv/vod/00174.mp4/video.m3u8
-#EXTINF:7200 tvg-id="194" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/194.jpg" ,28 панфиловцев (4k)
+#EXTINF:7200 tvg-id="194" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/194.jpg" ,28 панфиловцев (4k)
 http://CDN.neonfilm.tv/vod/00194.mp4/video.m3u8
 #EXTINF:9240 tvg-id="191" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/191.jpg" ,Трансформеры 3: Тёмная сторона Луны
 http://CDN.neonfilm.tv/vod/00191.mp4/video.m3u8
@@ -4937,7 +4937,7 @@ http://CDN.neonfilm.tv/vod/00221.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00285.mp4/video.m3u8
 #EXTINF:5940 tvg-id="252" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/252.jpg" ,Соник в кино (4k)
 http://CDN.neonfilm.tv/vod/00252.mp4/video.m3u8
-#EXTINF:6000 tvg-id="277" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/277.jpg" ,Один вдох
+#EXTINF:6000 tvg-id="277" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/277.jpg" ,Один вдох
 http://CDN.neonfilm.tv/vod/00277.mp4/video.m3u8
 #EXTINF:6420 tvg-id="286" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/286.jpg" ,Секрет
 http://CDN.neonfilm.tv/vod/00286.mp4/video.m3u8
@@ -4945,9 +4945,9 @@ http://CDN.neonfilm.tv/vod/00286.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00256.mp4/video.m3u8
 #EXTINF:6240 tvg-id="257" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/257.jpg" ,7 часов на соблазнение
 http://CDN.neonfilm.tv/vod/00257.mp4/video.m3u8
-#EXTINF:7620 tvg-id="258" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/258.jpg" ,Аванпост
+#EXTINF:7620 tvg-id="258" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/258.jpg" ,Аванпост
 http://CDN.neonfilm.tv/vod/00258.mp4/video.m3u8
-#EXTINF:5580 tvg-id="287" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/287.jpg" ,Скуби-Ду
+#EXTINF:5580 tvg-id="287" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/287.jpg" ,Скуби-Ду
 http://CDN.neonfilm.tv/vod/00287.mp4/video.m3u8
 #EXTINF:7440 tvg-id="282" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/282.jpg" ,Плохие парни навсегда
 http://CDN.neonfilm.tv/vod/00282.mp4/video.m3u8
@@ -4971,7 +4971,7 @@ http://CDN.neonfilm.tv/vod/00228.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00291.mp4/video.m3u8
 #EXTINF:5700 tvg-id="229" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/229.jpg" ,Агент Лев
 http://CDN.neonfilm.tv/vod/00229.mp4/video.m3u8
-#EXTINF:9300 tvg-id="292" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/292.jpg" ,Томирис
+#EXTINF:9300 tvg-id="292" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/292.jpg" ,Томирис
 http://CDN.neonfilm.tv/vod/00292.mp4/video.m3u8
 #EXTINF:6240 tvg-id="260" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/260.jpg" ,Ведьмы
 http://CDN.neonfilm.tv/vod/00260.mp4/video.m3u8
@@ -4979,7 +4979,7 @@ http://CDN.neonfilm.tv/vod/00260.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00230.mp4/video.m3u8
 #EXTINF:5520 tvg-id="231" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/231.jpg" ,В одиночку
 http://CDN.neonfilm.tv/vod/00231.mp4/video.m3u8
-#EXTINF:6060 tvg-id="232" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/232.jpg" ,Гудбай, Америка
+#EXTINF:6060 tvg-id="232" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/232.jpg" ,Гудбай, Америка
 http://CDN.neonfilm.tv/vod/00232.mp4/video.m3u8
 #EXTINF:5940 tvg-id="222" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/222.jpg" ,Честный вор
 http://CDN.neonfilm.tv/vod/00222.mp4/video.m3u8
@@ -4987,7 +4987,7 @@ http://CDN.neonfilm.tv/vod/00222.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00195.mp4/video.m3u8
 #EXTINF:5580 tvg-id="233" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/233.jpg" ,Договор молчания
 http://CDN.neonfilm.tv/vod/00233.mp4/video.m3u8
-#EXTINF:6120 tvg-id="261" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/261.jpg" ,Вперёд
+#EXTINF:6120 tvg-id="261" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/261.jpg" ,Вперёд
 http://CDN.neonfilm.tv/vod/00261.mp4/video.m3u8
 #EXTINF:9900 tvg-id="253" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/253.jpg" ,Тёмный рыцарь: Возрождение легенды (4k)
 http://CDN.neonfilm.tv/vod/00253.mp4/video.m3u8
@@ -5017,23 +5017,23 @@ http://CDN.neonfilm.tv/vod/00196.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00207.mp4/video.m3u8
 #EXTINF:6060 tvg-id="296" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/296.jpg" ,Удивительное путешествие доктора Дулиттла
 http://CDN.neonfilm.tv/vod/00296.mp4/video.m3u8
-#EXTINF:6900 tvg-id="262" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/262.jpg" ,Вратарь Галактики
+#EXTINF:6900 tvg-id="262" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/262.jpg" ,Вратарь Галактики
 http://CDN.neonfilm.tv/vod/00262.mp4/video.m3u8
 #EXTINF:9120 tvg-id="225" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/225.jpg" ,Доктор Сон (4k)
 http://CDN.neonfilm.tv/vod/00225.mp4/video.m3u8
 #EXTINF:5460 tvg-id="263" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/263.jpg" ,Грейхаунд
 http://CDN.neonfilm.tv/vod/00263.mp4/video.m3u8
-#EXTINF:5700 tvg-id="264" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/264.jpg" ,Губка Боб в бегах
+#EXTINF:5700 tvg-id="264" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/264.jpg" ,Губка Боб в бегах
 http://CDN.neonfilm.tv/vod/00264.mp4/video.m3u8
 #EXTINF:5400 tvg-id="265" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/265.jpg" ,Зависнуть в Палм-Спрингс
 http://CDN.neonfilm.tv/vod/00265.mp4/video.m3u8
-#EXTINF:6240 tvg-id="266" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/266.jpg" ,Калашников
+#EXTINF:6240 tvg-id="266" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/266.jpg" ,Калашников
 http://CDN.neonfilm.tv/vod/00266.mp4/video.m3u8
-#EXTINF:9120 tvg-id="297" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/297.jpg" ,Фея
+#EXTINF:9120 tvg-id="297" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/297.jpg" ,Фея
 http://CDN.neonfilm.tv/vod/00297.mp4/video.m3u8
 #EXTINF:6240 tvg-id="239" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/239.jpg" ,Пара на праздники
 http://CDN.neonfilm.tv/vod/00239.mp4/video.m3u8
-#EXTINF:6780 tvg-id="298" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/298.jpg" ,Спутник
+#EXTINF:6780 tvg-id="298" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/298.jpg" ,Спутник
 http://CDN.neonfilm.tv/vod/00298.mp4/video.m3u8
 #EXTINF:6360 tvg-id="240" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/240.jpg" ,Побег из Претории
 http://CDN.neonfilm.tv/vod/00240.mp4/video.m3u8
@@ -5059,7 +5059,7 @@ http://CDN.neonfilm.tv/vod/00241.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00242.mp4/video.m3u8
 #EXTINF:6900 tvg-id="279" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/279.jpg" ,Охота
 http://CDN.neonfilm.tv/vod/00279.mp4/video.m3u8
-#EXTINF:5700 tvg-id="243" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/243.jpg" ,Путешествие на Луну
+#EXTINF:5700 tvg-id="243" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/243.jpg" ,Путешествие на Луну
 http://CDN.neonfilm.tv/vod/00243.mp4/video.m3u8
 #EXTINF:6180 tvg-id="269" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/269.jpg" ,Не отпускай
 http://CDN.neonfilm.tv/vod/00269.mp4/video.m3u8
@@ -5069,15 +5069,15 @@ http://CDN.neonfilm.tv/vod/00270.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00271.mp4/video.m3u8
 #EXTINF:7140 tvg-id="283" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/283.jpg" ,Плохие парни
 http://CDN.neonfilm.tv/vod/00283.mp4/video.m3u8
-#EXTINF:6180 tvg-id="244" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/244.jpg" ,Русский рейд
+#EXTINF:6180 tvg-id="244" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/244.jpg" ,Русский рейд
 http://CDN.neonfilm.tv/vod/00244.mp4/video.m3u8
-#EXTINF:6060 tvg-id="245" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/245.jpg" ,Стрельцов
+#EXTINF:6060 tvg-id="245" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/245.jpg" ,Стрельцов
 http://CDN.neonfilm.tv/vod/00245.mp4/video.m3u8
 #EXTINF:8640 tvg-id="197" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/197.jpg" ,Сияние (4k)
 http://CDN.neonfilm.tv/vod/00197.mp4/video.m3u8
 #EXTINF:6600 tvg-id="208" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/208.jpg" ,Еще по одной
 http://CDN.neonfilm.tv/vod/00208.mp4/video.m3u8
-#EXTINF:8100 tvg-id="212" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/212.jpg" ,Неадекватные люди 2
+#EXTINF:8100 tvg-id="212" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/212.jpg" ,Неадекватные люди 2
 http://CDN.neonfilm.tv/vod/00212.mp4/video.m3u8
 #EXTINF:5640 tvg-id="203" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/203.jpg" ,Дедушка нелегкого поведения
 http://CDN.neonfilm.tv/vod/00203.mp4/video.m3u8
@@ -5093,15 +5093,15 @@ http://CDN.neonfilm.tv/vod/00216.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00205.mp4/video.m3u8
 #EXTINF:6000 tvg-id="204" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/204.jpg" ,День курка
 http://CDN.neonfilm.tv/vod/00204.mp4/video.m3u8
-#EXTINF:8160 tvg-id="215" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/215.jpg" ,Подольские курсанты
+#EXTINF:8160 tvg-id="215" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/215.jpg" ,Подольские курсанты
 http://CDN.neonfilm.tv/vod/00215.mp4/video.m3u8
 #EXTINF:6540 tvg-id="198" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/198.jpg" ,Любовь и монстры (4k)
 http://CDN.neonfilm.tv/vod/00198.mp4/video.m3u8
-#EXTINF:6000 tvg-id="246" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/246.jpg" ,Хэппи-энд
+#EXTINF:6000 tvg-id="246" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/246.jpg" ,Хэппи-энд
 http://CDN.neonfilm.tv/vod/00246.mp4/video.m3u8
 #EXTINF:5700 tvg-id="247" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/247.jpg" ,Час истины
 http://CDN.neonfilm.tv/vod/00247.mp4/video.m3u8
-#EXTINF:5820 tvg-id="224" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/224.jpg" ,Angry Birds 2 в кино (4k)
+#EXTINF:5820 tvg-id="224" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/224.jpg" ,Angry Birds 2 в кино (4k)
 http://CDN.neonfilm.tv/vod/00224.mp4/video.m3u8
 #EXTINF:7380 tvg-id="248" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/248.jpg" ,Энола Холмс
 http://CDN.neonfilm.tv/vod/00248.mp4/video.m3u8
@@ -5113,7 +5113,7 @@ http://CDN.neonfilm.tv/vod/00280.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00273.mp4/video.m3u8
 #EXTINF:8460 tvg-id="281" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/281.jpg" ,Плохие парни 2
 http://CDN.neonfilm.tv/vod/00281.mp4/video.m3u8
-#EXTINF:4800 tvg-id="219" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/219.jpg" ,Самый Новый год!
+#EXTINF:4800 tvg-id="219" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/219.jpg" ,Самый Новый год!
 http://CDN.neonfilm.tv/vod/00219.mp4/video.m3u8
 #EXTINF:6720 tvg-id="217" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/217.jpg" ,Рождественские хроники 2
 http://CDN.neonfilm.tv/vod/00217.mp4/video.m3u8
@@ -5131,7 +5131,7 @@ http://CDN.neonfilm.tv/vod/00275.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00182.mp4/video.m3u8
 #EXTINF:8400 tvg-id="254" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/254.jpg" ,Бэтмен Начало (4k)
 http://CDN.neonfilm.tv/vod/00254.mp4/video.m3u8
-#EXTINF:5820 tvg-id="249" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/249.jpg" ,Angry Birds в кино (4k)
+#EXTINF:5820 tvg-id="249" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/249.jpg" ,Angry Birds в кино (4k)
 http://CDN.neonfilm.tv/vod/00249.mp4/video.m3u8
 #EXTINF:5700 tvg-id="284" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/284.jpg" ,Под водой
 http://CDN.neonfilm.tv/vod/00284.mp4/video.m3u8
@@ -5157,11 +5157,11 @@ http://CDN.neonfilm.tv/vod/00335.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00363.mp4/video.m3u8
 #EXTINF:7260 tvg-id="364" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/364.jpg" ,Дивергент глава 3: За стеной (4k)
 http://CDN.neonfilm.tv/vod/00364.mp4/video.m3u8
-#EXTINF:6540 tvg-id="355" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/355.jpg" ,Холоп
+#EXTINF:6540 tvg-id="355" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/355.jpg" ,Холоп
 http://CDN.neonfilm.tv/vod/00355.mp4/video.m3u8
 #EXTINF:9120 tvg-id="336" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/336.jpg" ,Доктор Сон
 http://CDN.neonfilm.tv/vod/00336.mp4/video.m3u8
-#EXTINF:5160 tvg-id="351" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/351.jpg" ,Семейка Аддамс
+#EXTINF:5160 tvg-id="351" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/351.jpg" ,Семейка Аддамс
 http://CDN.neonfilm.tv/vod/00351.mp4/video.m3u8
 #EXTINF:7800 tvg-id="337" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/337.jpg" ,Достать ножи
 http://CDN.neonfilm.tv/vod/00337.mp4/video.m3u8
@@ -5169,7 +5169,7 @@ http://CDN.neonfilm.tv/vod/00337.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00365.mp4/video.m3u8
 #EXTINF:8880 tvg-id="366" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/366.jpg" ,Начало (4k)
 http://CDN.neonfilm.tv/vod/00366.mp4/video.m3u8
-#EXTINF:6180 tvg-id="354" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/354.jpg" ,Холодное сердце 2
+#EXTINF:6180 tvg-id="354" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/354.jpg" ,Холодное сердце 2
 http://CDN.neonfilm.tv/vod/00354.mp4/video.m3u8
 #EXTINF:7140 tvg-id="331" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/331.jpg" ,1917
 http://CDN.neonfilm.tv/vod/00331.mp4/video.m3u8
@@ -5245,7 +5245,7 @@ http://CDN.neonfilm.tv/vod/00383.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00349.mp4/video.m3u8
 #EXTINF:6180 tvg-id="350" group-title="" tvg-logo="http://scr.neonfilm.tv/scr/350.jpg" ,Рождество на двоих
 http://CDN.neonfilm.tv/vod/00350.mp4/video.m3u8
-#EXTINF:5820 tvg-id="384" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/384.jpg" ,Эверест
+#EXTINF:5820 tvg-id="384" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/384.jpg" ,Эверест
 http://CDN.neonfilm.tv/vod/00384.mp4/video.m3u8
 #EXTINF:5400 tvg-id="397" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/397.jpg" ,SuperАлиби (4k)
 http://CDN.neonfilm.tv/vod/00397.mp4/video.m3u8
@@ -5285,7 +5285,7 @@ http://CDN.neonfilm.tv/vod/00389.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00388.mp4/video.m3u8
 #EXTINF:6360 tvg-id="396" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/396.jpg" ,Эдди Орел (4k)
 http://CDN.neonfilm.tv/vod/00396.mp4/video.m3u8
-#EXTINF:1080 tvg-id="386" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/386.jpg" ,Я тебя вижу
+#EXTINF:1080 tvg-id="386" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/386.jpg" ,Я тебя вижу
 http://CDN.neonfilm.tv/vod/00386.mp4/video.m3u8
 #EXTINF:6540 tvg-id="390" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/390.jpg" ,Бладшот (4k)
 http://CDN.neonfilm.tv/vod/00390.mp4/video.m3u8
@@ -5327,13 +5327,13 @@ http://CDN.neonfilm.tv/vod/00462.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00463.mp4/video.m3u8
 #EXTINF:5400 tvg-id="443" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/443.jpg" ,Коллекционер
 http://CDN.neonfilm.tv/vod/00443.mp4/video.m3u8
-#EXTINF:4620 tvg-id="444" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/444.jpg" ,Конь Юлий и большие скачки
+#EXTINF:4620 tvg-id="444" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/444.jpg" ,Конь Юлий и большие скачки
 http://CDN.neonfilm.tv/vod/00444.mp4/video.m3u8
 #EXTINF:8160 tvg-id="445" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/445.jpg" ,Космические чистильщики
 http://CDN.neonfilm.tv/vod/00445.mp4/video.m3u8
 #EXTINF:5520 tvg-id="446" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/446.jpg" ,Линия горизонта
 http://CDN.neonfilm.tv/vod/00446.mp4/video.m3u8
-#EXTINF:5280 tvg-id="447" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/447.jpg" ,Не лечи меня
+#EXTINF:5280 tvg-id="447" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/447.jpg" ,Не лечи меня
 http://CDN.neonfilm.tv/vod/00447.mp4/video.m3u8
 #EXTINF:8940 tvg-id="459" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/459.jpg" ,Трансформеры: Месть падших (4k)
 http://CDN.neonfilm.tv/vod/00459.mp4/video.m3u8
@@ -5341,7 +5341,7 @@ http://CDN.neonfilm.tv/vod/00459.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00448.mp4/video.m3u8
 #EXTINF:7380 tvg-id="449" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/449.jpg" ,Ребекка
 http://CDN.neonfilm.tv/vod/00449.mp4/video.m3u8
-#EXTINF:8160 tvg-id="450" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/450.jpg" ,Серебряные коньки
+#EXTINF:8160 tvg-id="450" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/450.jpg" ,Серебряные коньки
 http://CDN.neonfilm.tv/vod/00450.mp4/video.m3u8
 #EXTINF:8160 tvg-id="451" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/451.jpg" ,Звёздные войны: Эпизод 1 Скрытая угроза (4k)
 http://CDN.neonfilm.tv/vod/00451.mp4/video.m3u8
@@ -5367,7 +5367,7 @@ http://CDN.neonfilm.tv/vod/00525.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00493.mp4/video.m3u8
 #EXTINF:7500 tvg-id="494" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/494.jpg" ,Та ещё парочка
 http://CDN.neonfilm.tv/vod/00494.mp4/video.m3u8
-#EXTINF:5160 tvg-id="495" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/495.jpg" ,Тайная жизнь домашних животных 2
+#EXTINF:5160 tvg-id="495" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/495.jpg" ,Тайная жизнь домашних животных 2
 http://CDN.neonfilm.tv/vod/00495.mp4/video.m3u8
 #EXTINF:6780 tvg-id="526" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/526.jpg" ,Чудо (4k)
 http://CDN.neonfilm.tv/vod/00526.mp4/video.m3u8
@@ -5375,9 +5375,9 @@ http://CDN.neonfilm.tv/vod/00526.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00527.mp4/video.m3u8
 #EXTINF:7200 tvg-id="496" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/496.jpg" ,Хеллбой
 http://CDN.neonfilm.tv/vod/00496.mp4/video.m3u8
-#EXTINF:5400 tvg-id="482" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/482.jpg" ,Маугли дикой планеты
+#EXTINF:5400 tvg-id="482" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/482.jpg" ,Маугли дикой планеты
 http://CDN.neonfilm.tv/vod/00482.mp4/video.m3u8
-#EXTINF:5100 tvg-id="480" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/480.jpg" ,Королевский корги
+#EXTINF:5100 tvg-id="480" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/480.jpg" ,Королевский корги
 http://CDN.neonfilm.tv/vod/00480.mp4/video.m3u8
 #EXTINF:5760 tvg-id="528" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/528.jpg" ,Дать дуба в округе Юба
 http://CDN.neonfilm.tv/vod/00528.mp4/video.m3u8
@@ -5409,7 +5409,7 @@ http://CDN.neonfilm.tv/vod/00503.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00490.mp4/video.m3u8
 #EXTINF:5880 tvg-id="478" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/478.jpg" ,Игра Ганнибала
 http://CDN.neonfilm.tv/vod/00478.mp4/video.m3u8
-#EXTINF:6660 tvg-id="504" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/504.jpg" ,Салют-7 (4k)
+#EXTINF:6660 tvg-id="504" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/504.jpg" ,Салют-7 (4k)
 http://CDN.neonfilm.tv/vod/00504.mp4/video.m3u8
 #EXTINF:9240 tvg-id="505" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/505.jpg" ,Трансформеры 3: Тёмная сторона Луны (4k)
 http://CDN.neonfilm.tv/vod/00505.mp4/video.m3u8
@@ -5419,7 +5419,7 @@ http://CDN.neonfilm.tv/vod/00506.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00470.mp4/video.m3u8
 #EXTINF:7080 tvg-id="469" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/469.jpg" ,Анна
 http://CDN.neonfilm.tv/vod/00469.mp4/video.m3u8
-#EXTINF:5520 tvg-id="471" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/471.jpg" ,Букашки 2
+#EXTINF:5520 tvg-id="471" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/471.jpg" ,Букашки 2
 http://CDN.neonfilm.tv/vod/00471.mp4/video.m3u8
 #EXTINF:8220 tvg-id="507" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/507.jpg" ,Голодные игры: Сойка-пересмешница. Часть II (4k)
 http://CDN.neonfilm.tv/vod/00507.mp4/video.m3u8
@@ -5429,7 +5429,7 @@ http://CDN.neonfilm.tv/vod/00472.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00508.mp4/video.m3u8
 #EXTINF:5160 tvg-id="473" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/473.jpg" ,В упор
 http://CDN.neonfilm.tv/vod/00473.mp4/video.m3u8
-#EXTINF:5520 tvg-id="530" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/530.jpg" ,День города
+#EXTINF:5520 tvg-id="530" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/530.jpg" ,День города
 http://CDN.neonfilm.tv/vod/00530.mp4/video.m3u8
 #EXTINF:6720 tvg-id="509" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/509.jpg" ,Конан-варвар (4k)
 http://CDN.neonfilm.tv/vod/00509.mp4/video.m3u8
@@ -5485,7 +5485,7 @@ http://CDN.neonfilm.tv/vod/00486.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00523.mp4/video.m3u8
 #EXTINF:6600 tvg-id="481" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/481.jpg" ,Красивый плохой злой
 http://CDN.neonfilm.tv/vod/00481.mp4/video.m3u8
-#EXTINF:6000 tvg-id="479" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/479.jpg" ,История игрушек 4
+#EXTINF:6000 tvg-id="479" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/479.jpg" ,История игрушек 4
 http://CDN.neonfilm.tv/vod/00479.mp4/video.m3u8
 #EXTINF:7740 tvg-id="534" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/534.jpg" ,Мавританец
 http://CDN.neonfilm.tv/vod/00534.mp4/video.m3u8
@@ -5495,17 +5495,17 @@ http://CDN.neonfilm.tv/vod/00535.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00536.mp4/video.m3u8
 #EXTINF:6600 tvg-id="537" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/537.jpg" ,Поездка в Америку 2
 http://CDN.neonfilm.tv/vod/00537.mp4/video.m3u8
-#EXTINF:7260 tvg-id="538" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/538.jpg" ,Последний богатырь: Корень зла
+#EXTINF:7260 tvg-id="538" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/538.jpg" ,Последний богатырь: Корень зла
 http://CDN.neonfilm.tv/vod/00538.mp4/video.m3u8
 #EXTINF:5520 tvg-id="539" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/539.jpg" ,Преступить черту
 http://CDN.neonfilm.tv/vod/00539.mp4/video.m3u8
-#EXTINF:6660 tvg-id="542" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/542.jpg" ,Конёк-Горбунок
+#EXTINF:6660 tvg-id="542" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/542.jpg" ,Конёк-Горбунок
 http://CDN.neonfilm.tv/vod/00542.mp4/video.m3u8
-#EXTINF:6900 tvg-id="533" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/533.jpg" ,Космический джем: Новое поколение
+#EXTINF:6900 tvg-id="533" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/533.jpg" ,Космический джем: Новое поколение
 http://CDN.neonfilm.tv/vod/00533.mp4/video.m3u8
 #EXTINF:5040 tvg-id="540" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/540.jpg" ,Птица в клетке: Заражение
 http://CDN.neonfilm.tv/vod/00540.mp4/video.m3u8
-#EXTINF:6420 tvg-id="541" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/541.jpg" ,Райя и последний дракон
+#EXTINF:6420 tvg-id="541" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/541.jpg" ,Райя и последний дракон
 http://CDN.neonfilm.tv/vod/00541.mp4/video.m3u8
 #EXTINF:8520 tvg-id="553" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/553.jpg" ,Усадьба Говардс (4k)
 http://CDN.neonfilm.tv/vod/00553.mp4/video.m3u8
@@ -5529,7 +5529,7 @@ http://CDN.neonfilm.tv/vod/00546.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00547.mp4/video.m3u8
 #EXTINF:5700 tvg-id="557" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/557.jpg" ,Тёмная башня (4k)
 http://CDN.neonfilm.tv/vod/00557.mp4/video.m3u8
-#EXTINF:4560 tvg-id="558" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/558.jpg" ,Батя
+#EXTINF:4560 tvg-id="558" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/558.jpg" ,Батя
 http://CDN.neonfilm.tv/vod/00558.mp4/video.m3u8
 #EXTINF:6900 tvg-id="548" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/548.jpg" ,План побега (4k)
 http://CDN.neonfilm.tv/vod/00548.mp4/video.m3u8
@@ -5543,13 +5543,13 @@ http://CDN.neonfilm.tv/vod/00559.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00560.mp4/video.m3u8
 #EXTINF:5820 tvg-id="573" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/573.jpg" ,Злодей
 http://CDN.neonfilm.tv/vod/00573.mp4/video.m3u8
-#EXTINF:5520 tvg-id="561" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/561.jpg" ,Приворот. Черное венчание
+#EXTINF:5520 tvg-id="561" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/561.jpg" ,Приворот. Черное венчание
 http://CDN.neonfilm.tv/vod/00561.mp4/video.m3u8
 #EXTINF:7980 tvg-id="550" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/550.jpg" ,Через Вселенную (4k)
 http://CDN.neonfilm.tv/vod/00550.mp4/video.m3u8
 #EXTINF:5820 tvg-id="574" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/574.jpg" ,Отец
 http://CDN.neonfilm.tv/vod/00574.mp4/video.m3u8
-#EXTINF:5460 tvg-id="562" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/562.jpg" ,Love
+#EXTINF:5460 tvg-id="562" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/562.jpg" ,Love
 http://CDN.neonfilm.tv/vod/00562.mp4/video.m3u8
 #EXTINF:6000 tvg-id="563" group-title="" tvg-logo="http://scr.neonfilm.tv/scr/563.jpg" ,Аэронавты
 http://CDN.neonfilm.tv/vod/00563.mp4/video.m3u8
@@ -5557,7 +5557,7 @@ http://CDN.neonfilm.tv/vod/00563.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00564.mp4/video.m3u8
 #EXTINF:6120 tvg-id="565" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/565.jpg" ,Опасный соблазн
 http://CDN.neonfilm.tv/vod/00565.mp4/video.m3u8
-#EXTINF:7620 tvg-id="585" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/585.jpg" ,Белый снег
+#EXTINF:7620 tvg-id="585" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/585.jpg" ,Белый снег
 http://CDN.neonfilm.tv/vod/00585.mp4/video.m3u8
 #EXTINF:8520 tvg-id="566" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/566.jpg" ,По наклонной
 http://CDN.neonfilm.tv/vod/00566.mp4/video.m3u8
@@ -5565,7 +5565,7 @@ http://CDN.neonfilm.tv/vod/00566.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00567.mp4/video.m3u8
 #EXTINF:6060 tvg-id="544" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/544.jpg" ,Том и Джерри
 http://CDN.neonfilm.tv/vod/00544.mp4/video.m3u8
-#EXTINF:5400 tvg-id="543" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/543.jpg" ,Стендап под прикрытием
+#EXTINF:5400 tvg-id="543" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/543.jpg" ,Стендап под прикрытием
 http://CDN.neonfilm.tv/vod/00543.mp4/video.m3u8
 #EXTINF:6600 tvg-id="568" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/568.jpg" ,Тихоокеанский рубеж 2 (4k)
 http://CDN.neonfilm.tv/vod/00568.mp4/video.m3u8
@@ -5589,7 +5589,7 @@ http://CDN.neonfilm.tv/vod/00010.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00006.mp4/video.m3u8
 #EXTINF:6720 tvg-id="588" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/588.jpg" ,Дамбо
 http://CDN.neonfilm.tv/vod/00588.mp4/video.m3u8
-#EXTINF:6240 tvg-id="589" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/589.jpg" ,Домовой
+#EXTINF:6240 tvg-id="589" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/589.jpg" ,Домовой
 http://CDN.neonfilm.tv/vod/00589.mp4/video.m3u8
 #EXTINF:5880 tvg-id="590" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/590.jpg" ,В объятиях лжи
 http://CDN.neonfilm.tv/vod/00590.mp4/video.m3u8
@@ -5625,7 +5625,7 @@ http://CDN.neonfilm.tv/vod/00096.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00209.mp4/video.m3u8
 #EXTINF:7980 tvg-id="85" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/85.jpg" ,Изгой-один: Звёздные войны. Истории
 http://CDN.neonfilm.tv/vod/00085.mp4/video.m3u8
-#EXTINF:6900 tvg-id="210" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/210.jpg" ,Кольская сверхглубокая
+#EXTINF:6900 tvg-id="210" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/210.jpg" ,Кольская сверхглубокая
 http://CDN.neonfilm.tv/vod/00210.mp4/video.m3u8
 #EXTINF:6240 tvg-id="211" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/211.jpg" ,Крестная мама
 http://CDN.neonfilm.tv/vod/00211.mp4/video.m3u8
@@ -5679,15 +5679,15 @@ http://CDN.neonfilm.tv/vod/00322.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00308.mp4/video.m3u8
 #EXTINF:5760 tvg-id="325" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/325.jpg" ,Дрожь земли (4k)
 http://CDN.neonfilm.tv/vod/00325.mp4/video.m3u8
-#EXTINF:6480 tvg-id="302" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/302.jpg" ,Зверопой (4k)
+#EXTINF:6480 tvg-id="302" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/302.jpg" ,Зверопой (4k)
 http://CDN.neonfilm.tv/vod/00302.mp4/video.m3u8
-#EXTINF:6120 tvg-id="309" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/309.jpg" ,Камуфляж и шпионаж
+#EXTINF:6120 tvg-id="309" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/309.jpg" ,Камуфляж и шпионаж
 http://CDN.neonfilm.tv/vod/00309.mp4/video.m3u8
-#EXTINF:6660 tvg-id="310" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/310.jpg" ,Кома
+#EXTINF:6660 tvg-id="310" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/310.jpg" ,Кома
 http://CDN.neonfilm.tv/vod/00310.mp4/video.m3u8
 #EXTINF:8040 tvg-id="329" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/329.jpg" ,Красный круг (4k)
 http://CDN.neonfilm.tv/vod/00329.mp4/video.m3u8
-#EXTINF:7920 tvg-id="311" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/311.jpg" ,Лёд 2
+#EXTINF:7920 tvg-id="311" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/311.jpg" ,Лёд 2
 http://CDN.neonfilm.tv/vod/00311.mp4/video.m3u8
 #EXTINF:8160 tvg-id="324" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/324.jpg" ,Матрица (4k)
 http://CDN.neonfilm.tv/vod/00324.mp4/video.m3u8
@@ -5707,7 +5707,7 @@ http://CDN.neonfilm.tv/vod/00315.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00316.mp4/video.m3u8
 #EXTINF:7560 tvg-id="317" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/317.jpg" ,Тёмные воды
 http://CDN.neonfilm.tv/vod/00317.mp4/video.m3u8
-#EXTINF:5400 tvg-id="318" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/318.jpg" ,Тролли: Мировой тур
+#EXTINF:5400 tvg-id="318" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/318.jpg" ,Тролли: Мировой тур
 http://CDN.neonfilm.tv/vod/00318.mp4/video.m3u8
 #EXTINF:8040 tvg-id="304" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/304.jpg" ,Фантастические твари: Преступления Грин де Вальда
 http://CDN.neonfilm.tv/vod/00304.mp4/video.m3u8
@@ -5719,7 +5719,7 @@ http://CDN.neonfilm.tv/vod/00319.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00320.mp4/video.m3u8
 #EXTINF:7440 tvg-id="321" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/321.jpg" ,Человек-невидимка
 http://CDN.neonfilm.tv/vod/00321.mp4/video.m3u8
-#EXTINF:5820 tvg-id="407" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/407.jpg" ,Angry Birds в кино 2
+#EXTINF:5820 tvg-id="407" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/407.jpg" ,Angry Birds в кино 2
 http://CDN.neonfilm.tv/vod/00407.mp4/video.m3u8
 #EXTINF:6060 tvg-id="408" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/408.jpg" ,В высокой траве
 http://CDN.neonfilm.tv/vod/00408.mp4/video.m3u8
@@ -5761,13 +5761,13 @@ http://CDN.neonfilm.tv/vod/00432.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00420.mp4/video.m3u8
 #EXTINF:8220 tvg-id="421" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/421.jpg" ,Пустой человек
 http://CDN.neonfilm.tv/vod/00421.mp4/video.m3u8
-#EXTINF:5640 tvg-id="422" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/422.jpg" ,Сестренка
+#EXTINF:5640 tvg-id="422" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/422.jpg" ,Сестренка
 http://CDN.neonfilm.tv/vod/00422.mp4/video.m3u8
 #EXTINF:5400 tvg-id="423" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/423.jpg" ,Синяя бездна 2
 http://CDN.neonfilm.tv/vod/00423.mp4/video.m3u8
-#EXTINF:6360 tvg-id="424" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/424.jpg" ,Сторож
+#EXTINF:6360 tvg-id="424" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/424.jpg" ,Сторож
 http://CDN.neonfilm.tv/vod/00424.mp4/video.m3u8
-#EXTINF:7260 tvg-id="425" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/425.jpg" ,Тайна печати Дракона
+#EXTINF:7260 tvg-id="425" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/425.jpg" ,Тайна печати Дракона
 http://CDN.neonfilm.tv/vod/00425.mp4/video.m3u8
 #EXTINF:5880 tvg-id="433" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/433.jpg" ,Тепло наших тел (4k)
 http://CDN.neonfilm.tv/vod/00433.mp4/video.m3u8
@@ -5777,13 +5777,13 @@ http://CDN.neonfilm.tv/vod/00406.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00426.mp4/video.m3u8
 #EXTINF:7320 tvg-id="427" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/427.jpg" ,Эль Камино: Во все тяжкие
 http://CDN.neonfilm.tv/vod/00427.mp4/video.m3u8
-#EXTINF:6540 tvg-id="580" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/580.jpg" ,Гуляй, Вася! Свидание на Бали
+#EXTINF:6540 tvg-id="580" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/580.jpg" ,Гуляй, Вася! Свидание на Бали
 http://CDN.neonfilm.tv/vod/00580.mp4/video.m3u8
 #EXTINF:4980 tvg-id="581" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/581.jpg" ,Оборотень
 http://CDN.neonfilm.tv/vod/00581.mp4/video.m3u8
 #EXTINF:6540 tvg-id="582" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/582.jpg" ,Поступь хаоса
 http://CDN.neonfilm.tv/vod/00582.mp4/video.m3u8
-#EXTINF:6000 tvg-id="583" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/583.jpg" ,Родные
+#EXTINF:6000 tvg-id="583" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/583.jpg" ,Родные
 http://CDN.neonfilm.tv/vod/00583.mp4/video.m3u8
 #EXTINF:6300 tvg-id="584" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/584.jpg" ,Сила грома
 http://CDN.neonfilm.tv/vod/00584.mp4/video.m3u8
@@ -5791,7 +5791,7 @@ http://CDN.neonfilm.tv/vod/00584.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00586.mp4/video.m3u8
 #EXTINF:7380 tvg-id="594" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/594.jpg" ,Отель Мумбаи: Противостояние
 http://CDN.neonfilm.tv/vod/00594.mp4/video.m3u8
-#EXTINF:5400 tvg-id="595" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/595.jpg" ,Полицейский с Рублевки. Новогодний беспредел
+#EXTINF:5400 tvg-id="595" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/595.jpg" ,Полицейский с Рублевки. Новогодний беспредел
 http://CDN.neonfilm.tv/vod/00595.mp4/video.m3u8
 #EXTINF:7140 tvg-id="596" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/596.jpg" ,Снегоуборщик
 http://CDN.neonfilm.tv/vod/00596.mp4/video.m3u8
@@ -5809,11 +5809,11 @@ http://CDN.neonfilm.tv/vod/00601.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00602.mp4/video.m3u8
 #EXTINF:6660 tvg-id="603" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/603.jpg" ,100 вещей и ничего лишнего
 http://CDN.neonfilm.tv/vod/00603.mp4/video.m3u8
-#EXTINF:5220 tvg-id="604" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/604.jpg" ,Астерикс и тайное зелье
+#EXTINF:5220 tvg-id="604" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/604.jpg" ,Астерикс и тайное зелье
 http://CDN.neonfilm.tv/vod/00604.mp4/video.m3u8
 #EXTINF:9060 tvg-id="605" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/605.jpg" ,Балканский рубеж
 http://CDN.neonfilm.tv/vod/00605.mp4/video.m3u8
-#EXTINF:5100 tvg-id="606" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/606.jpg" ,Волшебный парк Джун
+#EXTINF:5100 tvg-id="606" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/606.jpg" ,Волшебный парк Джун
 http://CDN.neonfilm.tv/vod/00606.mp4/video.m3u8
 #EXTINF:7440 tvg-id="607" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/607.jpg" ,Игры разумов
 http://CDN.neonfilm.tv/vod/00607.mp4/video.m3u8
@@ -5821,7 +5821,7 @@ http://CDN.neonfilm.tv/vod/00607.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00608.mp4/video.m3u8
 #EXTINF:7920 tvg-id="609" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/609.jpg" ,Звонок мертвецу
 http://CDN.neonfilm.tv/vod/00609.mp4/video.m3u8
-#EXTINF:6240 tvg-id="610" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/610.jpg" ,Как приручить дракона 3
+#EXTINF:6240 tvg-id="610" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/610.jpg" ,Как приручить дракона 3
 http://CDN.neonfilm.tv/vod/00610.mp4/video.m3u8
 #EXTINF:7380 tvg-id="611" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/611.jpg" ,Капитан Марвел
 http://CDN.neonfilm.tv/vod/00611.mp4/video.m3u8
@@ -5829,7 +5829,7 @@ http://CDN.neonfilm.tv/vod/00611.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00612.mp4/video.m3u8
 #EXTINF:5940 tvg-id="613" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/613.jpg" ,Клаустрофобы
 http://CDN.neonfilm.tv/vod/00613.mp4/video.m3u8
-#EXTINF:6420 tvg-id="614" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/614.jpg" ,ЛЕГО Фильм 2
+#EXTINF:6420 tvg-id="614" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/614.jpg" ,ЛЕГО Фильм 2
 http://CDN.neonfilm.tv/vod/00614.mp4/video.m3u8
 #EXTINF:6360 tvg-id="615" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/615.jpg" ,Море соблазна
 http://CDN.neonfilm.tv/vod/00615.mp4/video.m3u8
@@ -5865,9 +5865,9 @@ http://CDN.neonfilm.tv/vod/00629.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00630.mp4/video.m3u8
 #EXTINF:7740 tvg-id="631" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/631.jpg" ,Вдовы
 http://CDN.neonfilm.tv/vod/00631.mp4/video.m3u8
-#EXTINF:5100 tvg-id="632" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/632.jpg" ,Гринч
+#EXTINF:5100 tvg-id="632" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/632.jpg" ,Гринч
 http://CDN.neonfilm.tv/vod/00632.mp4/video.m3u8
-#EXTINF:5760 tvg-id="633" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/633.jpg" ,Громкая связь
+#EXTINF:5760 tvg-id="633" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/633.jpg" ,Громкая связь
 http://CDN.neonfilm.tv/vod/00633.mp4/video.m3u8
 #EXTINF:6120 tvg-id="634" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/634.jpg" ,Грязь
 http://CDN.neonfilm.tv/vod/00634.mp4/video.m3u8
@@ -5881,7 +5881,7 @@ http://CDN.neonfilm.tv/vod/00637.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00638.mp4/video.m3u8
 #EXTINF:7920 tvg-id="639" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/639.jpg" ,В погоне за Бонни и Клайдом
 http://CDN.neonfilm.tv/vod/00639.mp4/video.m3u8
-#EXTINF:6720 tvg-id="640" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/640.jpg" ,Ральф против интернета
+#EXTINF:6720 tvg-id="640" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/640.jpg" ,Ральф против интернета
 http://CDN.neonfilm.tv/vod/00640.mp4/video.m3u8
 #EXTINF:6420 tvg-id="641" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/641.jpg" ,Репродукция
 http://CDN.neonfilm.tv/vod/00641.mp4/video.m3u8
@@ -5889,7 +5889,7 @@ http://CDN.neonfilm.tv/vod/00641.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00642.mp4/video.m3u8
 #EXTINF:6240 tvg-id="643" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/643.jpg" ,Рождественские хроники
 http://CDN.neonfilm.tv/vod/00643.mp4/video.m3u8
-#EXTINF:5760 tvg-id="644" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/644.jpg" ,Смолфут
+#EXTINF:5760 tvg-id="644" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/644.jpg" ,Смолфут
 http://CDN.neonfilm.tv/vod/00644.mp4/video.m3u8
 #EXTINF:7500 tvg-id="645" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/645.jpg" ,Тройная граница
 http://CDN.neonfilm.tv/vod/00645.mp4/video.m3u8
@@ -5899,7 +5899,7 @@ http://CDN.neonfilm.tv/vod/00646.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00647.mp4/video.m3u8
 #EXTINF:7680 tvg-id="648" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/648.jpg" ,Хроники хищных городов
 http://CDN.neonfilm.tv/vod/00648.mp4/video.m3u8
-#EXTINF:7020 tvg-id="649" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/649.jpg" ,Человек-паук: Через вселенные
+#EXTINF:7020 tvg-id="649" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/649.jpg" ,Человек-паук: Через вселенные
 http://CDN.neonfilm.tv/vod/00649.mp4/video.m3u8
 #EXTINF:5940 tvg-id="650" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/650.jpg" ,Щелкунчик и четыре королевства
 http://CDN.neonfilm.tv/vod/00650.mp4/video.m3u8
@@ -5913,7 +5913,7 @@ http://CDN.neonfilm.tv/vod/00653.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00654.mp4/video.m3u8
 #EXTINF:6900 tvg-id="655" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/655.jpg" ,Девушка, которая застряла в паутине
 http://CDN.neonfilm.tv/vod/00655.mp4/video.m3u8
-#EXTINF:6540 tvg-id="656" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/656.jpg" ,Завод
+#EXTINF:6540 tvg-id="656" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/656.jpg" ,Завод
 http://CDN.neonfilm.tv/vod/00656.mp4/video.m3u8
 #EXTINF:8160 tvg-id="657" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/657.jpg" ,Звезда родилась
 http://CDN.neonfilm.tv/vod/00657.mp4/video.m3u8
@@ -5921,13 +5921,13 @@ http://CDN.neonfilm.tv/vod/00657.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00658.mp4/video.m3u8
 #EXTINF:7440 tvg-id="659" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/659.jpg" ,Птичий короб
 http://CDN.neonfilm.tv/vod/00659.mp4/video.m3u8
-#EXTINF:4800 tvg-id="660" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/660.jpg" ,Снежная Королева: Зазеркалье
+#EXTINF:4800 tvg-id="660" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/660.jpg" ,Снежная Королева: Зазеркалье
 http://CDN.neonfilm.tv/vod/00660.mp4/video.m3u8
-#EXTINF:8340 tvg-id="661" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/661.jpg" ,Т-34
+#EXTINF:8340 tvg-id="661" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/661.jpg" ,Т-34
 http://CDN.neonfilm.tv/vod/00661.mp4/video.m3u8
-#EXTINF:6480 tvg-id="662" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/662.jpg" ,Тобол
+#EXTINF:6480 tvg-id="662" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/662.jpg" ,Тобол
 http://CDN.neonfilm.tv/vod/00662.mp4/video.m3u8
-#EXTINF:5400 tvg-id="663" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/663.jpg" ,Три богатыря и Наследница престола
+#EXTINF:5400 tvg-id="663" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/663.jpg" ,Три богатыря и Наследница престола
 http://CDN.neonfilm.tv/vod/00663.mp4/video.m3u8
 #EXTINF:5400 tvg-id="664" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/664.jpg" ,Ужастики 2: Беспокойный Хэллоуин
 http://CDN.neonfilm.tv/vod/00664.mp4/video.m3u8
@@ -5983,9 +5983,9 @@ http://CDN.neonfilm.tv/vod/00688.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00689.mp4/video.m3u8
 #EXTINF:7980 tvg-id="690" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/690.jpg" ,Мотылек
 http://CDN.neonfilm.tv/vod/00690.mp4/video.m3u8
-#EXTINF:6600 tvg-id="691" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/691.jpg" ,Непрощённый
+#EXTINF:6600 tvg-id="691" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/691.jpg" ,Непрощённый
 http://CDN.neonfilm.tv/vod/00691.mp4/video.m3u8
-#EXTINF:5400 tvg-id="692" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/692.jpg" ,Несокрушимый
+#EXTINF:5400 tvg-id="692" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/692.jpg" ,Несокрушимый
 http://CDN.neonfilm.tv/vod/00692.mp4/video.m3u8
 #EXTINF:5400 tvg-id="693" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/693.jpg" ,Отель «Артемида»
 http://CDN.neonfilm.tv/vod/00693.mp4/video.m3u8
@@ -5999,11 +5999,11 @@ http://CDN.neonfilm.tv/vod/00696.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00697.mp4/video.m3u8
 #EXTINF:5880 tvg-id="698" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/698.jpg" ,Ремнант: Всё ещё вижу тебя
 http://CDN.neonfilm.tv/vod/00698.mp4/video.m3u8
-#EXTINF:5640 tvg-id="699" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/699.jpg" ,Спасите Колю!
+#EXTINF:5640 tvg-id="699" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/699.jpg" ,Спасите Колю!
 http://CDN.neonfilm.tv/vod/00699.mp4/video.m3u8
-#EXTINF:5280 tvg-id="700" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/700.jpg" ,Спирит Непокорный
+#EXTINF:5280 tvg-id="700" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/700.jpg" ,Спирит Непокорный
 http://CDN.neonfilm.tv/vod/00700.mp4/video.m3u8
-#EXTINF:6900 tvg-id="701" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/701.jpg" ,Укрась прощальное утро цветами обещания
+#EXTINF:6900 tvg-id="701" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/701.jpg" ,Укрась прощальное утро цветами обещания
 http://CDN.neonfilm.tv/vod/00701.mp4/video.m3u8
 #EXTINF:8460 tvg-id="702" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/702.jpg" ,Человек на Луне
 http://CDN.neonfilm.tv/vod/00702.mp4/video.m3u8
@@ -6017,7 +6017,7 @@ http://CDN.neonfilm.tv/vod/00705.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00706.mp4/video.m3u8
 #EXTINF:4980 tvg-id="707" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/707.jpg" ,Выжившие
 http://CDN.neonfilm.tv/vod/00707.mp4/video.m3u8
-#EXTINF:6360 tvg-id="708" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/708.jpg" ,Гоголь. Страшная месть
+#EXTINF:6360 tvg-id="708" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/708.jpg" ,Гоголь. Страшная месть
 http://CDN.neonfilm.tv/vod/00708.mp4/video.m3u8
 #EXTINF:5340 tvg-id="709" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/709.jpg" ,Дыши во мгле
 http://CDN.neonfilm.tv/vod/00709.mp4/video.m3u8
@@ -6037,13 +6037,13 @@ http://CDN.neonfilm.tv/vod/00715.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00716.mp4/video.m3u8
 #EXTINF:6600 tvg-id="717" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/717.jpg" ,Логово монстра
 http://CDN.neonfilm.tv/vod/00717.mp4/video.m3u8
-#EXTINF:5820 tvg-id="718" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/718.jpg" ,Монстры на каникулах 3: Море зовёт
+#EXTINF:5820 tvg-id="718" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/718.jpg" ,Монстры на каникулах 3: Море зовёт
 http://CDN.neonfilm.tv/vod/00718.mp4/video.m3u8
 #EXTINF:6180 tvg-id="719" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/719.jpg" ,Небоскреб
 http://CDN.neonfilm.tv/vod/00719.mp4/video.m3u8
 #EXTINF:7140 tvg-id="720" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/720.jpg" ,Мейер Лански
 http://CDN.neonfilm.tv/vod/00720.mp4/video.m3u8
-#EXTINF:5760 tvg-id="721" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/721.jpg" ,Ночная смена
+#EXTINF:5760 tvg-id="721" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/721.jpg" ,Ночная смена
 http://CDN.neonfilm.tv/vod/00721.mp4/video.m3u8
 #EXTINF:7920 tvg-id="722" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/722.jpg" ,Опасная игра Слоун
 http://CDN.neonfilm.tv/vod/00722.mp4/video.m3u8
@@ -6073,7 +6073,7 @@ http://CDN.neonfilm.tv/vod/00733.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00734.mp4/video.m3u8
 #EXTINF:5940 tvg-id="735" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/735.jpg" ,Винчестер. Дом, который построили призраки
 http://CDN.neonfilm.tv/vod/00735.mp4/video.m3u8
-#EXTINF:5940 tvg-id="736" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/736.jpg" ,Гоголь. Вий
+#EXTINF:5940 tvg-id="736" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/736.jpg" ,Гоголь. Вий
 http://CDN.neonfilm.tv/vod/00736.mp4/video.m3u8
 #EXTINF:6420 tvg-id="737" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/737.jpg" ,Жажда смерти
 http://CDN.neonfilm.tv/vod/00737.mp4/video.m3u8
@@ -6085,7 +6085,7 @@ http://CDN.neonfilm.tv/vod/00739.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00740.mp4/video.m3u8
 #EXTINF:8400 tvg-id="741" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/741.jpg" ,Красный воробей
 http://CDN.neonfilm.tv/vod/00741.mp4/video.m3u8
-#EXTINF:5700 tvg-id="742" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/742.jpg" ,Кролик Питер
+#EXTINF:5700 tvg-id="742" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/742.jpg" ,Кролик Питер
 http://CDN.neonfilm.tv/vod/00742.mp4/video.m3u8
 #EXTINF:6960 tvg-id="743" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/743.jpg" ,Меган Ливи
 http://CDN.neonfilm.tv/vod/00743.mp4/video.m3u8
@@ -6095,7 +6095,7 @@ http://CDN.neonfilm.tv/vod/00744.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00745.mp4/video.m3u8
 #EXTINF:6660 tvg-id="746" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/746.jpg" ,Опасный бизнес
 http://CDN.neonfilm.tv/vod/00746.mp4/video.m3u8
-#EXTINF:6240 tvg-id="747" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/747.jpg" ,Пара из будущего
+#EXTINF:6240 tvg-id="747" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/747.jpg" ,Пара из будущего
 http://CDN.neonfilm.tv/vod/00747.mp4/video.m3u8
 #EXTINF:6240 tvg-id="748" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/748.jpg" ,Пассажир
 http://CDN.neonfilm.tv/vod/00748.mp4/video.m3u8
@@ -6107,7 +6107,7 @@ http://CDN.neonfilm.tv/vod/00750.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00751.mp4/video.m3u8
 #EXTINF:6120 tvg-id="752" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/752.jpg" ,Секса не будет!!!
 http://CDN.neonfilm.tv/vod/00752.mp4/video.m3u8
-#EXTINF:7020 tvg-id="753" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/753.jpg" ,Собибор
+#EXTINF:7020 tvg-id="753" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/753.jpg" ,Собибор
 http://CDN.neonfilm.tv/vod/00753.mp4/video.m3u8
 #EXTINF:5400 tvg-id="754" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/754.jpg" ,Тихое место
 http://CDN.neonfilm.tv/vod/00754.mp4/video.m3u8
@@ -6115,13 +6115,13 @@ http://CDN.neonfilm.tv/vod/00754.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00755.mp4/video.m3u8
 #EXTINF:6540 tvg-id="756" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/756.jpg" ,Точка невозврата
 http://CDN.neonfilm.tv/vod/00756.mp4/video.m3u8
-#EXTINF:8280 tvg-id="757" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/757.jpg" ,Тренер
+#EXTINF:8280 tvg-id="757" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/757.jpg" ,Тренер
 http://CDN.neonfilm.tv/vod/00757.mp4/video.m3u8
 #EXTINF:8040 tvg-id="758" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/758.jpg" ,Чёрная Пантера
 http://CDN.neonfilm.tv/vod/00758.mp4/video.m3u8
 #EXTINF:6300 tvg-id="759" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/759.jpg" ,Эскобар
 http://CDN.neonfilm.tv/vod/00759.mp4/video.m3u8
-#EXTINF:6120 tvg-id="760" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/760.jpg" ,Я худею
+#EXTINF:6120 tvg-id="760" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/760.jpg" ,Я худею
 http://CDN.neonfilm.tv/vod/00760.mp4/video.m3u8
 #EXTINF:6900 tvg-id="761" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/761.jpg" ,Аннигиляция
 http://CDN.neonfilm.tv/vod/00761.mp4/video.m3u8
@@ -6135,7 +6135,7 @@ http://CDN.neonfilm.tv/vod/00764.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00765.mp4/video.m3u8
 #EXTINF:6540 tvg-id="766" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/766.jpg" ,Геошторм
 http://CDN.neonfilm.tv/vod/00766.mp4/video.m3u8
-#EXTINF:7980 tvg-id="767" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/767.jpg" ,Движение вверх
+#EXTINF:7980 tvg-id="767" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/767.jpg" ,Движение вверх
 http://CDN.neonfilm.tv/vod/00767.mp4/video.m3u8
 #EXTINF:8040 tvg-id="768" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/768.jpg" ,Дело храбрых
 http://CDN.neonfilm.tv/vod/00768.mp4/video.m3u8
@@ -6143,9 +6143,9 @@ http://CDN.neonfilm.tv/vod/00768.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00769.mp4/video.m3u8
 #EXTINF:6000 tvg-id="770" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/770.jpg" ,Здравствуй, папа, Новый год! 2
 http://CDN.neonfilm.tv/vod/00770.mp4/video.m3u8
-#EXTINF:7020 tvg-id="771" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/771.jpg" ,Легенда о Коловрате
+#EXTINF:7020 tvg-id="771" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/771.jpg" ,Легенда о Коловрате
 http://CDN.neonfilm.tv/vod/00771.mp4/video.m3u8
-#EXTINF:6780 tvg-id="772" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/772.jpg" ,Лёд
+#EXTINF:6780 tvg-id="772" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/772.jpg" ,Лёд
 http://CDN.neonfilm.tv/vod/00772.mp4/video.m3u8
 #EXTINF:6600 tvg-id="773" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/773.jpg" ,Лига справедливости
 http://CDN.neonfilm.tv/vod/00773.mp4/video.m3u8
@@ -6165,11 +6165,11 @@ http://CDN.neonfilm.tv/vod/00779.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00780.mp4/video.m3u8
 #EXTINF:6300 tvg-id="781" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/781.jpg" ,Пятьдесят оттенков свободы
 http://CDN.neonfilm.tv/vod/00781.mp4/video.m3u8
-#EXTINF:7200 tvg-id="782" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/782.jpg" ,Рашн Юг
+#EXTINF:7200 tvg-id="782" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/782.jpg" ,Рашн Юг
 http://CDN.neonfilm.tv/vod/00782.mp4/video.m3u8
 #EXTINF:6900 tvg-id="783" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/783.jpg" ,Три билборда на границе Эббинга, Миссури
 http://CDN.neonfilm.tv/vod/00783.mp4/video.m3u8
-#EXTINF:6000 tvg-id="784" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/784.jpg" ,Скиф
+#EXTINF:6000 tvg-id="784" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/784.jpg" ,Скиф
 http://CDN.neonfilm.tv/vod/00784.mp4/video.m3u8
 #EXTINF:5460 tvg-id="785" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/785.jpg" ,Страна призраков
 http://CDN.neonfilm.tv/vod/00785.mp4/video.m3u8
@@ -6183,7 +6183,7 @@ http://CDN.neonfilm.tv/vod/00788.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00789.mp4/video.m3u8
 #EXTINF:6300 tvg-id="790" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/790.jpg" ,Уиджи: Проклятие Вероники
 http://CDN.neonfilm.tv/vod/00790.mp4/video.m3u8
-#EXTINF:6480 tvg-id="791" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/791.jpg" ,Фердинанд
+#EXTINF:6480 tvg-id="791" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/791.jpg" ,Фердинанд
 http://CDN.neonfilm.tv/vod/00791.mp4/video.m3u8
 #EXTINF:6660 tvg-id="792" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/792.jpg" ,Наёмник (4k)
 http://CDN.neonfilm.tv/vod/00792.mp4/video.m3u8
@@ -6331,11 +6331,11 @@ http://CDN.neonfilm.tv/vod/00862.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00863.mp4/video.m3u8
 #EXTINF:7500 tvg-id="864" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/864.jpg" ,Воздушный шар (4k)
 http://CDN.neonfilm.tv/vod/00864.mp4/video.m3u8
-#EXTINF:5880 tvg-id="865" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/865.jpg" ,Гадкий я 2 (4k)
+#EXTINF:5880 tvg-id="865" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/865.jpg" ,Гадкий я 2 (4k)
 http://CDN.neonfilm.tv/vod/00865.mp4/video.m3u8
-#EXTINF:5340 tvg-id="866" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/866.jpg" ,Гадкий я 3 (4k)
+#EXTINF:5340 tvg-id="866" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/866.jpg" ,Гадкий я 3 (4k)
 http://CDN.neonfilm.tv/vod/00866.mp4/video.m3u8
-#EXTINF:5700 tvg-id="867" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/867.jpg" ,Гадкий я (4k)
+#EXTINF:5700 tvg-id="867" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/867.jpg" ,Гадкий я (4k)
 http://CDN.neonfilm.tv/vod/00867.mp4/video.m3u8
 #EXTINF:6600 tvg-id="868" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/868.jpg" ,Мортал Комбат (4k)
 http://CDN.neonfilm.tv/vod/00868.mp4/video.m3u8
@@ -6389,7 +6389,7 @@ http://CDN.neonfilm.tv/vod/00891.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00892.mp4/video.m3u8
 #EXTINF:5580 tvg-id="893" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/893.jpg" ,Страсть, любовь и стволы
 http://CDN.neonfilm.tv/vod/00893.mp4/video.m3u8
-#EXTINF:5400 tvg-id="894" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/894.jpg" ,Шугалей
+#EXTINF:5400 tvg-id="894" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/894.jpg" ,Шугалей
 http://CDN.neonfilm.tv/vod/00894.mp4/video.m3u8
 #EXTINF:6180 tvg-id="895" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/895.jpg" ,Судная ночь 2 (4k)
 http://CDN.neonfilm.tv/vod/00895.mp4/video.m3u8
@@ -6401,7 +6401,7 @@ http://CDN.neonfilm.tv/vod/00897.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00898.mp4/video.m3u8
 #EXTINF:5640 tvg-id="899" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/899.jpg" ,Восхождение (4k)
 http://CDN.neonfilm.tv/vod/00899.mp4/video.m3u8
-#EXTINF:5700 tvg-id="900" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/900.jpg" ,Лука
+#EXTINF:5700 tvg-id="900" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/900.jpg" ,Лука
 http://CDN.neonfilm.tv/vod/00900.mp4/video.m3u8
 #EXTINF:8580 tvg-id="901" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/901.jpg" ,Форсаж 9
 http://CDN.neonfilm.tv/vod/00901.mp4/video.m3u8
@@ -6413,7 +6413,7 @@ http://CDN.neonfilm.tv/vod/00903.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00904.mp4/video.m3u8
 #EXTINF:6000 tvg-id="905" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/905.jpg" ,Ночные тетради
 http://CDN.neonfilm.tv/vod/00905.mp4/video.m3u8
-#EXTINF:4920 tvg-id="906" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/906.jpg" ,Пончары. Глобальное закругление
+#EXTINF:4920 tvg-id="906" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/906.jpg" ,Пончары. Глобальное закругление
 http://CDN.neonfilm.tv/vod/00906.mp4/video.m3u8
 #EXTINF:6660 tvg-id="907" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/907.jpg" ,Принцесса якудза
 http://CDN.neonfilm.tv/vod/00907.mp4/video.m3u8
@@ -6427,7 +6427,7 @@ http://CDN.neonfilm.tv/vod/00910.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00911.mp4/video.m3u8
 #EXTINF:6600 tvg-id="912" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/912.jpg" ,G.I. Joe: Бросок кобры 2 (4k)
 http://CDN.neonfilm.tv/vod/00912.mp4/video.m3u8
-#EXTINF:5700 tvg-id="913" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/913.jpg" ,Кролик Питер (4k)
+#EXTINF:5700 tvg-id="913" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/913.jpg" ,Кролик Питер (4k)
 http://CDN.neonfilm.tv/vod/00913.mp4/video.m3u8
 #EXTINF:5820 tvg-id="914" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/914.jpg" ,Тихое место 2 (4k)
 http://CDN.neonfilm.tv/vod/00914.mp4/video.m3u8
@@ -6459,7 +6459,7 @@ http://CDN.neonfilm.tv/vod/00926.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00927.mp4/video.m3u8
 #EXTINF:6780 tvg-id="928" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/928.jpg" ,Иностранец
 http://CDN.neonfilm.tv/vod/00928.mp4/video.m3u8
-#EXTINF:5340 tvg-id="929" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/929.jpg" ,Гадкий я 3
+#EXTINF:5340 tvg-id="929" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/929.jpg" ,Гадкий я 3
 http://CDN.neonfilm.tv/vod/00929.mp4/video.m3u8
 #EXTINF:6000 tvg-id="930" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/930.jpg" ,Калифорнийский дорожный патруль
 http://CDN.neonfilm.tv/vod/00930.mp4/video.m3u8
@@ -6483,15 +6483,15 @@ http://CDN.neonfilm.tv/vod/00938.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00939.mp4/video.m3u8
 #EXTINF:8400 tvg-id="940" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/940.jpg" ,Планета обезьян: Война
 http://CDN.neonfilm.tv/vod/00940.mp4/video.m3u8
-#EXTINF:6840 tvg-id="941" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/941.jpg" ,Последний богатырь
+#EXTINF:6840 tvg-id="941" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/941.jpg" ,Последний богатырь
 http://CDN.neonfilm.tv/vod/00941.mp4/video.m3u8
 #EXTINF:5700 tvg-id="942" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/942.jpg" ,Похищение
 http://CDN.neonfilm.tv/vod/00942.mp4/video.m3u8
 #EXTINF:6540 tvg-id="943" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/943.jpg" ,Проклятие Аннабель: Зарождение зла
 http://CDN.neonfilm.tv/vod/00943.mp4/video.m3u8
-#EXTINF:5700 tvg-id="944" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/944.jpg" ,Реальная белка 2
+#EXTINF:5700 tvg-id="944" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/944.jpg" ,Реальная белка 2
 http://CDN.neonfilm.tv/vod/00944.mp4/video.m3u8
-#EXTINF:6660 tvg-id="945" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/945.jpg" ,Салют-7
+#EXTINF:6660 tvg-id="945" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/945.jpg" ,Салют-7
 http://CDN.neonfilm.tv/vod/00945.mp4/video.m3u8
 #EXTINF:6900 tvg-id="946" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/946.jpg" ,Сделано в Америке
 http://CDN.neonfilm.tv/vod/00946.mp4/video.m3u8
@@ -6499,13 +6499,13 @@ http://CDN.neonfilm.tv/vod/00946.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00947.mp4/video.m3u8
 #EXTINF:7380 tvg-id="948" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/948.jpg" ,Тайна 7 сестер
 http://CDN.neonfilm.tv/vod/00948.mp4/video.m3u8
-#EXTINF:6180 tvg-id="949" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/949.jpg" ,Тачки 3
+#EXTINF:6180 tvg-id="949" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/949.jpg" ,Тачки 3
 http://CDN.neonfilm.tv/vod/00949.mp4/video.m3u8
 #EXTINF:7080 tvg-id="950" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/950.jpg" ,Телохранитель киллера
 http://CDN.neonfilm.tv/vod/00950.mp4/video.m3u8
 #EXTINF:5700 tvg-id="951" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/951.jpg" ,Тёмная башня
 http://CDN.neonfilm.tv/vod/00951.mp4/video.m3u8
-#EXTINF:5100 tvg-id="952" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/952.jpg" ,Тэд-путешественник и тайна царя Мидаса
+#EXTINF:5100 tvg-id="952" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/952.jpg" ,Тэд-путешественник и тайна царя Мидаса
 http://CDN.neonfilm.tv/vod/00952.mp4/video.m3u8
 #EXTINF:6300 tvg-id="953" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/953.jpg" ,Тюльпанная лихорадка
 http://CDN.neonfilm.tv/vod/00953.mp4/video.m3u8
@@ -6513,7 +6513,7 @@ http://CDN.neonfilm.tv/vod/00953.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00954.mp4/video.m3u8
 #EXTINF:5220 tvg-id="955" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/955.jpg" ,Ужас Амитивилля: Пробуждение
 http://CDN.neonfilm.tv/vod/00955.mp4/video.m3u8
-#EXTINF:5160 tvg-id="956" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/956.jpg" ,Эмоджи фильм
+#EXTINF:5160 tvg-id="956" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/956.jpg" ,Эмоджи фильм
 http://CDN.neonfilm.tv/vod/00956.mp4/video.m3u8
 #EXTINF:5940 tvg-id="957" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/957.jpg" ,Автобан
 http://CDN.neonfilm.tv/vod/00957.mp4/video.m3u8
@@ -6521,15 +6521,15 @@ http://CDN.neonfilm.tv/vod/00957.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00958.mp4/video.m3u8
 #EXTINF:8460 tvg-id="959" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/959.jpg" ,Чудо-женщина
 http://CDN.neonfilm.tv/vod/00959.mp4/video.m3u8
-#EXTINF:5820 tvg-id="960" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/960.jpg" ,Босс-молокосос
+#EXTINF:5820 tvg-id="960" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/960.jpg" ,Босс-молокосос
 http://CDN.neonfilm.tv/vod/00960.mp4/video.m3u8
-#EXTINF:8400 tvg-id="961" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/961.jpg" ,Время первых
+#EXTINF:8400 tvg-id="961" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/961.jpg" ,Время первых
 http://CDN.neonfilm.tv/vod/00961.mp4/video.m3u8
 #EXTINF:5400 tvg-id="962" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/962.jpg" ,Время псов
 http://CDN.neonfilm.tv/vod/00962.mp4/video.m3u8
 #EXTINF:7200 tvg-id="963" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/963.jpg" ,Выстрел в пустоту
 http://CDN.neonfilm.tv/vod/00963.mp4/video.m3u8
-#EXTINF:6000 tvg-id="964" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/964.jpg" ,Гоголь. Начало
+#EXTINF:6000 tvg-id="964" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/964.jpg" ,Гоголь. Начало
 http://CDN.neonfilm.tv/vod/00964.mp4/video.m3u8
 #EXTINF:5880 tvg-id="965" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/965.jpg" ,Его собачье дело
 http://CDN.neonfilm.tv/vod/00965.mp4/video.m3u8
@@ -6541,7 +6541,7 @@ http://CDN.neonfilm.tv/vod/00967.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00968.mp4/video.m3u8
 #EXTINF:7740 tvg-id="969" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/969.jpg" ,Красавица и чудовище
 http://CDN.neonfilm.tv/vod/00969.mp4/video.m3u8
-#EXTINF:6240 tvg-id="970" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/970.jpg" ,Лего Фильм: Бэтмен
+#EXTINF:6240 tvg-id="970" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/970.jpg" ,Лего Фильм: Бэтмен
 http://CDN.neonfilm.tv/vod/00970.mp4/video.m3u8
 #EXTINF:8760 tvg-id="971" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/971.jpg" ,Лекарство от здоровья
 http://CDN.neonfilm.tv/vod/00971.mp4/video.m3u8
@@ -6563,11 +6563,11 @@ http://CDN.neonfilm.tv/vod/00978.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00979.mp4/video.m3u8
 #EXTINF:6240 tvg-id="980" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/980.jpg" ,Прочь
 http://CDN.neonfilm.tv/vod/00980.mp4/video.m3u8
-#EXTINF:5400 tvg-id="981" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/981.jpg" ,Рок Дог
+#EXTINF:5400 tvg-id="981" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/981.jpg" ,Рок Дог
 http://CDN.neonfilm.tv/vod/00981.mp4/video.m3u8
 #EXTINF:5880 tvg-id="982" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/982.jpg" ,Секретный агент
 http://CDN.neonfilm.tv/vod/00982.mp4/video.m3u8
-#EXTINF:5400 tvg-id="983" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/983.jpg" ,Смурфики: Затерянная деревня
+#EXTINF:5400 tvg-id="983" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/983.jpg" ,Смурфики: Затерянная деревня
 http://CDN.neonfilm.tv/vod/00983.mp4/video.m3u8
 #EXTINF:6000 tvg-id="984" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/984.jpg" ,Собачья жизнь
 http://CDN.neonfilm.tv/vod/00984.mp4/video.m3u8
@@ -6579,7 +6579,7 @@ http://CDN.neonfilm.tv/vod/00986.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00987.mp4/video.m3u8
 #EXTINF:5760 tvg-id="988" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/988.jpg" ,Уйти красиво
 http://CDN.neonfilm.tv/vod/00988.mp4/video.m3u8
-#EXTINF:5400 tvg-id="989" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/989.jpg" ,My Little Pony: Новое поколение
+#EXTINF:5400 tvg-id="989" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/989.jpg" ,My Little Pony: Новое поколение
 http://CDN.neonfilm.tv/vod/00989.mp4/video.m3u8
 #EXTINF:5580 tvg-id="990" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/990.jpg" ,Черная бабочка
 http://CDN.neonfilm.tv/vod/00990.mp4/video.m3u8
@@ -6601,7 +6601,7 @@ http://CDN.neonfilm.tv/vod/00997.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/00998.mp4/video.m3u8
 #EXTINF:5100 tvg-id="999" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/999.jpg" ,Никто не уйдёт живым
 http://CDN.neonfilm.tv/vod/00999.mp4/video.m3u8
-#EXTINF:5400 tvg-id="1000" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1000.jpg" ,Нефутбол
+#EXTINF:5400 tvg-id="1000" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1000.jpg" ,Нефутбол
 http://CDN.neonfilm.tv/vod/01000.mp4/video.m3u8
 #EXTINF:5880 tvg-id="1001" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1001.jpg" ,Зона 414
 http://CDN.neonfilm.tv/vod/01001.mp4/video.m3u8
@@ -6623,13 +6623,13 @@ http://CDN.neonfilm.tv/vod/01008.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01009.mp4/video.m3u8
 #EXTINF:6600 tvg-id="1010" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1010.jpg" ,Отчаянные аферистки
 http://CDN.neonfilm.tv/vod/01010.mp4/video.m3u8
-#EXTINF:5280 tvg-id="1011" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1011.jpg" ,Соври мне правду
+#EXTINF:5280 tvg-id="1011" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1011.jpg" ,Соври мне правду
 http://CDN.neonfilm.tv/vod/01011.mp4/video.m3u8
-#EXTINF:5160 tvg-id="1012" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1012.jpg" ,Щенячий патруль в кино
+#EXTINF:5160 tvg-id="1012" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1012.jpg" ,Щенячий патруль в кино
 http://CDN.neonfilm.tv/vod/01012.mp4/video.m3u8
 #EXTINF:5820 tvg-id="1013" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1013.jpg" ,Убийство на яхте (4k)
 http://CDN.neonfilm.tv/vod/01013.mp4/video.m3u8
-#EXTINF:5580 tvg-id="1014" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1014.jpg" ,Кролик Питер 2 (4k)
+#EXTINF:5580 tvg-id="1014" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1014.jpg" ,Кролик Питер 2 (4k)
 http://CDN.neonfilm.tv/vod/01014.mp4/video.m3u8
 #EXTINF:5940 tvg-id="1015" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1015.jpg" ,Нечестивые (4k)
 http://CDN.neonfilm.tv/vod/01015.mp4/video.m3u8
@@ -6643,7 +6643,7 @@ http://CDN.neonfilm.tv/vod/01018.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01019.mp4/video.m3u8
 #EXTINF:7080 tvg-id="1020" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1020.jpg" ,Энни (4k)
 http://CDN.neonfilm.tv/vod/01020.mp4/video.m3u8
-#EXTINF:6420 tvg-id="1021" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1021.jpg" ,Босс-молокосос 2
+#EXTINF:6420 tvg-id="1021" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1021.jpg" ,Босс-молокосос 2
 http://CDN.neonfilm.tv/vod/01021.mp4/video.m3u8
 #EXTINF:6240 tvg-id="1022" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1022.jpg" ,Афера по-голливудски
 http://CDN.neonfilm.tv/vod/01022.mp4/video.m3u8
@@ -6657,7 +6657,7 @@ http://CDN.neonfilm.tv/vod/01025.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01026.mp4/video.m3u8
 #EXTINF:5220 tvg-id="1027" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1027.jpg" ,Что скрывает вода
 http://CDN.neonfilm.tv/vod/01027.mp4/video.m3u8
-#EXTINF:5760 tvg-id="1028" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1028.jpg" ,100% Волк
+#EXTINF:5760 tvg-id="1028" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1028.jpg" ,100% Волк
 http://CDN.neonfilm.tv/vod/01028.mp4/video.m3u8
 #EXTINF:5820 tvg-id="1029" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1029.jpg" ,Ослик, любовник и я
 http://CDN.neonfilm.tv/vod/01029.mp4/video.m3u8
@@ -6667,11 +6667,11 @@ http://CDN.neonfilm.tv/vod/01030.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01031mp4/video.m3u8
 #EXTINF:6900 tvg-id="1032" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1032.jpg" ,Главный герой
 http://CDN.neonfilm.tv/vod/01032.mp4/video.m3u8
-#EXTINF:4740 tvg-id="1033" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1033.jpg" ,Легенды Мортал комбат: Битва миров
+#EXTINF:4740 tvg-id="1033" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1033.jpg" ,Легенды Мортал комбат: Битва миров
 http://CDN.neonfilm.tv/vod/01033.mp4/video.m3u8
 #EXTINF:6480 tvg-id="1034" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1034.jpg" ,Время
 http://CDN.neonfilm.tv/vod/01034.mp4/video.m3u8
-#EXTINF:5940 tvg-id="1035" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1035.jpg" ,Покемон-фильм: Секреты джунглей
+#EXTINF:5940 tvg-id="1035" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1035.jpg" ,Покемон-фильм: Секреты джунглей
 http://CDN.neonfilm.tv/vod/01035.mp4/video.m3u8
 #EXTINF:6960 tvg-id="1036" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1036.jpg" ,Воспоминания
 http://CDN.neonfilm.tv/vod/01036.mp4/video.m3u8
@@ -6713,7 +6713,7 @@ http://CDN.neonfilm.tv/vod/01053.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01054.mp4/video.m3u8
 #EXTINF:7620 tvg-id="1055" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1055.jpg" ,Армия воров
 http://CDN.neonfilm.tv/vod/01055.mp4/video.m3u8
-#EXTINF:5400 tvg-id="1056" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1056.jpg" ,Кощей. Начало
+#EXTINF:5400 tvg-id="1056" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1056.jpg" ,Кощей. Начало
 http://CDN.neonfilm.tv/vod/01056.mp4/video.m3u8
 #EXTINF:6300 tvg-id="1057" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1057.jpg" ,Хэллоуин убивает
 http://CDN.neonfilm.tv/vod/01057.mp4/video.m3u8
@@ -6741,7 +6741,7 @@ http://CDN.neonfilm.tv/vod/01067.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01068.mp4/video.m3u8
 #EXTINF:5700 tvg-id="1069" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1069.jpg" ,История семьи Блум
 http://CDN.neonfilm.tv/vod/01069.mp4/video.m3u8
-#EXTINF:5580 tvg-id="1070" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1070.jpg" ,Кролик Питер 2
+#EXTINF:5580 tvg-id="1070" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1070.jpg" ,Кролик Питер 2
 http://CDN.neonfilm.tv/vod/01070.mp4/video.m3u8
 #EXTINF:5580 tvg-id="1071" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1071.jpg" ,Повелители улиц
 http://CDN.neonfilm.tv/vod/01071.mp4/video.m3u8
@@ -6789,7 +6789,7 @@ http://CDN.neonfilm.tv/vod/01091.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01092.mp4/video.m3u8
 #EXTINF:5880 tvg-id="1093" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1093.jpg" ,Полный нокдаун
 http://CDN.neonfilm.tv/vod/01093.mp4/video.m3u8
-#EXTINF:4980 tvg-id="1094" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1094.jpg" ,Бэтмен: Душа дракона
+#EXTINF:4980 tvg-id="1094" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1094.jpg" ,Бэтмен: Душа дракона
 http://CDN.neonfilm.tv/vod/01094.mp4/video.m3u8
 #EXTINF:5520 tvg-id="1095" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1095.jpg" ,Брешь
 http://CDN.neonfilm.tv/vod/01095.mp4/video.m3u8
@@ -6817,7 +6817,7 @@ http://CDN.neonfilm.tv/vod/01105.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01106.mp4/video.m3u8
 #EXTINF:5940 tvg-id="1107" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1107.jpg" ,Шесть минут до полуночи
 http://CDN.neonfilm.tv/vod/01107.mp4/video.m3u8
-#EXTINF:5100 tvg-id="1108" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1108.jpg" ,Академия монстров
+#EXTINF:5100 tvg-id="1108" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1108.jpg" ,Академия монстров
 http://CDN.neonfilm.tv/vod/01108.mp4/video.m3u8
 #EXTINF:5940 tvg-id="1109" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1109.jpg" ,Искусство ограбления
 http://CDN.neonfilm.tv/vod/01109.mp4/video.m3u8
@@ -6887,7 +6887,7 @@ http://CDN.neonfilm.tv/vod/01140.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01141.mp4/video.m3u8
 #EXTINF:6480 tvg-id="1142" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1142.jpg" ,Поколение Вояджер
 http://CDN.neonfilm.tv/vod/01142.mp4/video.m3u8
-#EXTINF:5340 tvg-id="1143" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1143.jpg" ,Дерево желаний
+#EXTINF:5340 tvg-id="1143" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1143.jpg" ,Дерево желаний
 http://CDN.neonfilm.tv/vod/01143.mp4/video.m3u8
 #EXTINF:5820 tvg-id="1144" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1144.jpg" ,Ступая во мрак
 http://CDN.neonfilm.tv/vod/01144.mp4/video.m3u8
@@ -6967,7 +6967,7 @@ http://CDN.neonfilm.tv/vod/01180.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01181.mp4/video.m3u8
 #EXTINF:5940 tvg-id="1182" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1182.jpg" ,Амулет
 http://CDN.neonfilm.tv/vod/01182.mp4/video.m3u8
-#EXTINF:5340 tvg-id="1183" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1183.jpg" ,Семейка Бигфутов
+#EXTINF:5340 tvg-id="1183" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1183.jpg" ,Семейка Бигфутов
 http://CDN.neonfilm.tv/vod/01183.mp4/video.m3u8
 #EXTINF:5460 tvg-id="1184" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1184.jpg" ,Билл и Тед
 http://CDN.neonfilm.tv/vod/01184.mp4/video.m3u8
@@ -7007,7 +7007,7 @@ http://CDN.neonfilm.tv/vod/01200.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01201.mp4/video.m3u8
 #EXTINF:5160 tvg-id="1202" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1202.jpg" ,Лучшее лето
 http://CDN.neonfilm.tv/vod/01202.mp4/video.m3u8
-#EXTINF:4680 tvg-id="1203" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1203.jpg" ,Гномы в деле!
+#EXTINF:4680 tvg-id="1203" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1203.jpg" ,Гномы в деле!
 http://CDN.neonfilm.tv/vod/01203.mp4/video.m3u8
 #EXTINF:5820 tvg-id="1204" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1204.jpg" ,Чудо-детки: Непутевые волшебники
 http://CDN.neonfilm.tv/vod/01204.mp4/video.m3u8
@@ -7109,7 +7109,7 @@ http://CDN.neonfilm.tv/vod/01251.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01252.mp4/video.m3u8
 #EXTINF:8880 tvg-id="1253" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1253.jpg" ,Преисподняя (4k)
 http://CDN.neonfilm.tv/vod/01253.mp4/video.m3u8
-#EXTINF:6120 tvg-id="1254" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1254.jpg" ,Вперёд (4k)
+#EXTINF:6120 tvg-id="1254" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1254.jpg" ,Вперёд (4k)
 http://CDN.neonfilm.tv/vod/01254.mp4/video.m3u8
 #EXTINF:6840 tvg-id="1255" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1255.jpg" ,Таксист (4k)
 http://CDN.neonfilm.tv/vod/01255.mp4/video.m3u8
@@ -7121,7 +7121,7 @@ http://CDN.neonfilm.tv/vod/01257.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01258.mp4/video.m3u8
 #EXTINF:5820 tvg-id="1259" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1259.jpg" ,Дневник Бриджит Джонс (4k)
 http://CDN.neonfilm.tv/vod/01259.mp4/video.m3u8
-#EXTINF:7020 tvg-id="1260" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1260.jpg" ,Человек-паук: Через вселенные (4k)
+#EXTINF:7020 tvg-id="1260" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1260.jpg" ,Человек-паук: Через вселенные (4k)
 http://CDN.neonfilm.tv/vod/01260.mp4/video.m3u8
 #EXTINF:5100 tvg-id="1261" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1261.jpg" ,Рождество в Блу Ридж Маунтин
 http://CDN.neonfilm.tv/vod/01261.mp4/video.m3u8
@@ -7135,11 +7135,11 @@ http://CDN.neonfilm.tv/vod/01264.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01265.mp4/video.m3u8
 #EXTINF:5940 tvg-id="1266" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1266.jpg" ,Рождество с неудачниками
 http://CDN.neonfilm.tv/vod/01266.mp4/video.m3u8
-#EXTINF:5520 tvg-id="1267" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1267.jpg" ,Комета Галлея
+#EXTINF:5520 tvg-id="1267" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1267.jpg" ,Комета Галлея
 http://CDN.neonfilm.tv/vod/01267.mp4/video.m3u8
 #EXTINF:5760 tvg-id="1268" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1268.jpg" ,Здравствуй, папа, Новый год!
 http://CDN.neonfilm.tv/vod/01268.mp4/video.m3u8
-#EXTINF:7020 tvg-id="1269" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1269.jpg" ,Дед Мороз. Битва Магов
+#EXTINF:7020 tvg-id="1269" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1269.jpg" ,Дед Мороз. Битва Магов
 http://CDN.neonfilm.tv/vod/01269.mp4/video.m3u8
 #EXTINF:5280 tvg-id="1270" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1270.jpg" ,Четыре Рождества
 http://CDN.neonfilm.tv/vod/01270.mp4/video.m3u8
@@ -7147,7 +7147,7 @@ http://CDN.neonfilm.tv/vod/01270.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01271.mp4/video.m3u8
 #EXTINF:6180 tvg-id="1272" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1272.jpg" ,Один дома
 http://CDN.neonfilm.tv/vod/01272.mp4/video.m3u8
-#EXTINF:5700 tvg-id="1273" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1273.jpg" ,Головоломка
+#EXTINF:5700 tvg-id="1273" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1273.jpg" ,Головоломка
 http://CDN.neonfilm.tv/vod/01273.mp4/video.m3u8
 #EXTINF:6300 tvg-id="1274" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1274.jpg" ,Новогодний корпоратив
 http://CDN.neonfilm.tv/vod/01274.mp4/video.m3u8
@@ -7157,15 +7157,15 @@ http://CDN.neonfilm.tv/vod/01275.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01276.mp4/video.m3u8
 #EXTINF:5820 tvg-id="1277" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1277.jpg" ,Новая рождественская сказка
 http://CDN.neonfilm.tv/vod/01277.mp4/video.m3u8
-#EXTINF:5160 tvg-id="1278" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1278.jpg" ,Семейка Аддамс (4k)
+#EXTINF:5160 tvg-id="1278" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1278.jpg" ,Семейка Аддамс (4k)
 http://CDN.neonfilm.tv/vod/01278.mp4/video.m3u8
-#EXTINF:5760 tvg-id="1279" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1279.jpg" ,Ёлки 2
+#EXTINF:5760 tvg-id="1279" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1279.jpg" ,Ёлки 2
 http://CDN.neonfilm.tv/vod/01279.mp4/video.m3u8
-#EXTINF:5520 tvg-id="1280" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1280.jpg" ,Ёлки Последние
+#EXTINF:5520 tvg-id="1280" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1280.jpg" ,Ёлки Последние
 http://CDN.neonfilm.tv/vod/01280.mp4/video.m3u8
-#EXTINF:6000 tvg-id="1281" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1281.jpg" ,Ёлки 3
+#EXTINF:6000 tvg-id="1281" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1281.jpg" ,Ёлки 3
 http://CDN.neonfilm.tv/vod/01281.mp4/video.m3u8
-#EXTINF:5100 tvg-id="1282" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1282.jpg" ,Ёлки новые
+#EXTINF:5100 tvg-id="1282" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1282.jpg" ,Ёлки новые
 http://CDN.neonfilm.tv/vod/01282.mp4/video.m3u8
 #EXTINF:5220 tvg-id="1283" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1283.jpg" ,Пережить Рождество
 http://CDN.neonfilm.tv/vod/01283.mp4/video.m3u8
@@ -7191,13 +7191,13 @@ http://CDN.neonfilm.tv/vod/01292.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01293.mp4/video.m3u8
 #EXTINF:8160 tvg-id="1294" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1294.jpg" ,Отпуск по обмену
 http://CDN.neonfilm.tv/vod/01294.mp4/video.m3u8
-#EXTINF:6000 tvg-id="1295" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1295.jpg" ,Полярный экспресс
+#EXTINF:6000 tvg-id="1295" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1295.jpg" ,Полярный экспресс
 http://CDN.neonfilm.tv/vod/01295.mp4/video.m3u8
 #EXTINF:5820 tvg-id="1296" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1296.jpg" ,8-битное Рождество
 http://CDN.neonfilm.tv/vod/01296.mp4/video.m3u8
 #EXTINF:5880 tvg-id="1297" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1297.jpg" ,После. Глава 3
 http://CDN.neonfilm.tv/vod/01297.mp4/video.m3u8
-#EXTINF:4800 tvg-id="1298" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1298.jpg" ,Айнбо. Сердце Амазонии
+#EXTINF:4800 tvg-id="1298" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1298.jpg" ,Айнбо. Сердце Амазонии
 http://CDN.neonfilm.tv/vod/01298.mp4/video.m3u8
 #EXTINF:8940 tvg-id="1299" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1299.jpg" ,Мстители: Война бесконечности
 http://CDN.neonfilm.tv/vod/01299.mp4/video.m3u8
@@ -7211,7 +7211,7 @@ http://CDN.neonfilm.tv/vod/001302.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01303.mp4/video.m3u8
 #EXTINF:6360 tvg-id="1304" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1304.jpg" ,Бесконечность
 http://CDN.neonfilm.tv/vod/01304.mp4/video.m3u8
-#EXTINF:4680 tvg-id="1305" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1305.jpg" ,Несправедливость: Боги среди нас
+#EXTINF:4680 tvg-id="1305" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1305.jpg" ,Несправедливость: Боги среди нас
 http://CDN.neonfilm.tv/vod/01305.mp4/video.m3u8
 #EXTINF:5460 tvg-id="1306" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1306.jpg" ,Красотка на взводе
 http://CDN.neonfilm.tv/vod/01306.mp4/video.m3u8
@@ -7219,9 +7219,9 @@ http://CDN.neonfilm.tv/vod/01306.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01307.mp4/video.m3u8
 #EXTINF:5340 tvg-id="1308" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1308.jpg" ,Никогда не сдавайся: Бунт
 http://CDN.neonfilm.tv/vod/01308.mp4/video.m3u8
-#EXTINF:4860 tvg-id="1309" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1309.jpg" ,История игрушек
+#EXTINF:4860 tvg-id="1309" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1309.jpg" ,История игрушек
 http://CDN.neonfilm.tv/vod/01309.mp4/video.m3u8
-#EXTINF:5400 tvg-id="1310" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1310.jpg" ,Кот в сапогах
+#EXTINF:5400 tvg-id="1310" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1310.jpg" ,Кот в сапогах
 http://CDN.neonfilm.tv/vod/01310.mp4/video.m3u8
 #EXTINF:7080 tvg-id="1311" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1311.jpg" ,Красное уведомление
 http://CDN.neonfilm.tv/vod/01311.mp4/video.m3u8
@@ -7229,11 +7229,11 @@ http://CDN.neonfilm.tv/vod/01311.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01312.mp4/video.m3u8
 #EXTINF:6420 tvg-id="1313" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1313.jpg" ,Разлучённые души
 http://CDN.neonfilm.tv/vod/01313.mp4/video.m3u8
-#EXTINF:5520 tvg-id="1314" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1314.jpg" ,История игрушек 2
+#EXTINF:5520 tvg-id="1314" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1314.jpg" ,История игрушек 2
 http://CDN.neonfilm.tv/vod/01314.mp4/video.m3u8
 #EXTINF:5460 tvg-id="1315" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1315.jpg" ,Выжившая. Кровь и металл
 http://CDN.neonfilm.tv/vod/01315.mp4/video.m3u8
-#EXTINF:6180 tvg-id="1316" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1316.jpg" ,История игрушек: Большой побег
+#EXTINF:6180 tvg-id="1316" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1316.jpg" ,История игрушек: Большой побег
 http://CDN.neonfilm.tv/vod/01316.mp4/video.m3u8
 #EXTINF:6780 tvg-id="1317" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1317.jpg" ,Поездка
 http://CDN.neonfilm.tv/vod/01317.mp4/video.m3u8
@@ -7243,7 +7243,7 @@ http://CDN.neonfilm.tv/vod/01318.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01319.mp4/video.m3u8
 #EXTINF:8340 tvg-id="1320" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1320.jpg" ,Тем больнее падать
 http://CDN.neonfilm.tv/vod/01320.mp4/video.m3u8
-#EXTINF:8160 tvg-id="1321" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1321.jpg" ,Майор Гром: Чумной Доктор
+#EXTINF:8160 tvg-id="1321" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1321.jpg" ,Майор Гром: Чумной Доктор
 http://CDN.neonfilm.tv/vod/01321.mp4/video.m3u8
 #EXTINF:8280 tvg-id="1322" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1322.jpg" ,Война будущего
 http://CDN.neonfilm.tv/vod/01322.mp4/video.m3u8
@@ -7251,13 +7251,13 @@ http://CDN.neonfilm.tv/vod/01322.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01323.mp4/video.m3u8
 #EXTINF:7140 tvg-id="1324" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1324.jpg" ,Гнев человеческий
 http://CDN.neonfilm.tv/vod/01324.mp4/video.m3u8
-#EXTINF:5580 tvg-id="1325" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1325.jpg" ,Семейка Аддамс: Горящий тур
+#EXTINF:5580 tvg-id="1325" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1325.jpg" ,Семейка Аддамс: Горящий тур
 http://CDN.neonfilm.tv/vod/01325.mp4/video.m3u8
-#EXTINF:8160 tvg-id="1326" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1326.jpg" ,Чернобыль
+#EXTINF:8160 tvg-id="1326" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1326.jpg" ,Чернобыль
 http://CDN.neonfilm.tv/vod/01326.mp4/video.m3u8
 #EXTINF:9660 tvg-id="1327" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1327.jpg" ,Гарри Поттер и Тайная комната
 http://CDN.neonfilm.tv/vod/01327.mp4/video.m3u8
-#EXTINF:5820 tvg-id="1328" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1328.jpg" ,Секретная служба Санта-Клауса
+#EXTINF:5820 tvg-id="1328" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1328.jpg" ,Секретная служба Санта-Клауса
 http://CDN.neonfilm.tv/vod/01328.mp4/video.m3u8
 #EXTINF:5880 tvg-id="1329" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1329.jpg" ,Хищные воды: Западня
 http://CDN.neonfilm.tv/vod/01329.mp4/video.m3u8
@@ -7269,7 +7269,7 @@ http://CDN.neonfilm.tv/vod/01331.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01332.mp4/video.m3u8
 #EXTINF:6240 tvg-id="1333" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1333.jpg" ,Демоник
 http://CDN.neonfilm.tv/vod/01333.mp4/video.m3u8
-#EXTINF:5220 tvg-id="1334" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1334.jpg" ,Элвин и бурундуки
+#EXTINF:5220 tvg-id="1334" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1334.jpg" ,Элвин и бурундуки
 http://CDN.neonfilm.tv/vod/01334.mp4/video.m3u8
 #EXTINF:8520 tvg-id="1335" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1335.jpg" ,Гарри Поттер и узник Азкабана
 http://CDN.neonfilm.tv/vod/01335.mp4/video.m3u8
@@ -7285,15 +7285,15 @@ http://CDN.neonfilm.tv/vod/01339.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01340.mp4/video.m3u8
 #EXTINF:9780 tvg-id="1341" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1341.jpg" ,Не время умирать
 http://CDN.neonfilm.tv/vod/01341.mp4/video.m3u8
-#EXTINF:5400 tvg-id="1342" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1342.jpg" ,Рок Дог 2
+#EXTINF:5400 tvg-id="1342" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1342.jpg" ,Рок Дог 2
 http://CDN.neonfilm.tv/vod/01342.mp4/video.m3u8
 #EXTINF:6600 tvg-id="1343" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1343.jpg" ,Последний наемник
 http://CDN.neonfilm.tv/vod/01343.mp4/video.m3u8
 #EXTINF:9480 tvg-id="1344" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1344.jpg" ,2012
 http://CDN.neonfilm.tv/vod/01344.mp4/video.m3u8
-#EXTINF:5700 tvg-id="1345" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1345.jpg" ,Виво
+#EXTINF:5700 tvg-id="1345" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1345.jpg" ,Виво
 http://CDN.neonfilm.tv/vod/01345.mp4/video.m3u8
-#EXTINF:6480 tvg-id="1346" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1346.jpg" ,Зверополис
+#EXTINF:6480 tvg-id="1346" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1346.jpg" ,Зверополис
 http://CDN.neonfilm.tv/vod/01346.mp4/video.m3u8
 #EXTINF:7440 tvg-id="1347" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1347.jpg" ,Сумерки. Сага. Затмение
 http://CDN.neonfilm.tv/vod/01347.mp4/video.m3u8
@@ -7349,7 +7349,7 @@ http://CDN.neonfilm.tv/vod/01371.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01372.mp4/video.m3u8
 #EXTINF:5580 tvg-id="1373" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1373.jpg" ,Микстейп моих родителей
 http://CDN.neonfilm.tv/vod/01373.mp4/video.m3u8
-#EXTINF:5520 tvg-id="1374" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1374.jpg" ,Корпорация монстров
+#EXTINF:5520 tvg-id="1374" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1374.jpg" ,Корпорация монстров
 http://CDN.neonfilm.tv/vod/01374.mp4/video.m3u8
 #EXTINF:5640 tvg-id="1375" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1375.jpg" ,Путешествие 2: Таинственный остров
 http://CDN.neonfilm.tv/vod/01375.mp4/video.m3u8
@@ -7375,15 +7375,15 @@ http://CDN.neonfilm.tv/vod/01384.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01385.mp4/video.m3u8
 #EXTINF:6540 tvg-id="1386" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1386.jpg" ,Отцовство
 http://CDN.neonfilm.tv/vod/01386.mp4/video.m3u8
-#EXTINF:6120 tvg-id="1387" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1387.jpg" ,Холодное сердце
+#EXTINF:6120 tvg-id="1387" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1387.jpg" ,Холодное сердце
 http://CDN.neonfilm.tv/vod/01387.mp4/video.m3u8
 #EXTINF:8040 tvg-id="1388" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1388.jpg" ,Ярость
 http://CDN.neonfilm.tv/vod/01388.mp4/video.m3u8
-#EXTINF:6060 tvg-id="1389" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1389.jpg" ,Рыбка Поньо на утесе
+#EXTINF:6060 tvg-id="1389" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1389.jpg" ,Рыбка Поньо на утесе
 http://CDN.neonfilm.tv/vod/01389.mp4/video.m3u8
 #EXTINF:6960 tvg-id="1390" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1390.jpg" ,Охотники за привидениями
 http://CDN.neonfilm.tv/vod/01390.mp4/video.m3u8
-#EXTINF:6300 tvg-id="1391" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1391.jpg" ,Город героев
+#EXTINF:6300 tvg-id="1391" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1391.jpg" ,Город героев
 http://CDN.neonfilm.tv/vod/01391.mp4/video.m3u8
 #EXTINF:7440 tvg-id="1392" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1392.jpg" ,Город воров
 http://CDN.neonfilm.tv/vod/01392.mp4/video.m3u8
@@ -7419,7 +7419,7 @@ http://CDN.neonfilm.tv/vod/01406.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01407.mp4/video.m3u8
 #EXTINF:6840 tvg-id="1408" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1408.jpg" ,Перси Джексон и похититель молний
 http://CDN.neonfilm.tv/vod/01408.mp4/video.m3u8
-#EXTINF:6420 tvg-id="1409" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1409.jpg" ,Неисправимый Рон
+#EXTINF:6420 tvg-id="1409" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1409.jpg" ,Неисправимый Рон
 http://CDN.neonfilm.tv/vod/01409.mp4/video.m3u8
 #EXTINF:7560 tvg-id="1410" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1410.jpg" ,Власть пса
 http://CDN.neonfilm.tv/vod/01410.mp4/video.m3u8
@@ -7429,7 +7429,7 @@ http://CDN.neonfilm.tv/vod/01411.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01412.mp4/video.m3u8
 #EXTINF:5100 tvg-id="1413" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1413.jpg" ,Невеста Чаки
 http://CDN.neonfilm.tv/vod/01413.mp4/video.m3u8
-#EXTINF:6660 tvg-id="1414" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1414.jpg" ,Рататуй
+#EXTINF:6660 tvg-id="1414" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1414.jpg" ,Рататуй
 http://CDN.neonfilm.tv/vod/01414.mp4/video.m3u8
 #EXTINF:8280 tvg-id="1415" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1415.jpg" ,Бродяга Кэнсин: Финал
 http://CDN.neonfilm.tv/vod/01415.mp4/video.m3u8
@@ -7441,7 +7441,7 @@ http://CDN.neonfilm.tv/vod/01417.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01418.mp4/video.m3u8
 #EXTINF:8580 tvg-id="1419" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1419.jpg" ,Хроники Нарнии: Лев, колдунья и волшебный шкаф
 http://CDN.neonfilm.tv/vod/01419.mp4/video.m3u8
-#EXTINF:7080 tvg-id="1420" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1420.jpg" ,Суперсемейка 2
+#EXTINF:7080 tvg-id="1420" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1420.jpg" ,Суперсемейка 2
 http://CDN.neonfilm.tv/vod/01420.mp4/video.m3u8
 #EXTINF:6720 tvg-id="1421" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1421.jpg" ,Калейдоскоп поцелуев 3
 http://CDN.neonfilm.tv/vod/01421.mp4/video.m3u8
@@ -7507,7 +7507,7 @@ http://CDN.neonfilm.tv/vod/01450.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01451.mp4/video.m3u8
 #EXTINF:4980 tvg-id="1452" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1452.jpg" ,После полуночи
 http://CDN.neonfilm.tv/vod/01452.mp4/video.m3u8
-#EXTINF:6780 tvg-id="1453" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1453.jpg" ,Ржев
+#EXTINF:6780 tvg-id="1453" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1453.jpg" ,Ржев
 http://CDN.neonfilm.tv/vod/01453.mp4/video.m3u8
 #EXTINF:5520 tvg-id="1454" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1454.jpg" ,Бладфест
 http://CDN.neonfilm.tv/vod/01454.mp4/video.m3u8
@@ -7521,7 +7521,7 @@ http://CDN.neonfilm.tv/vod/01457.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01458.mp4/video.m3u8
 #EXTINF:6000 tvg-id="1459" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1459.jpg" ,Зов предков
 http://CDN.neonfilm.tv/vod/01459.mp4/video.m3u8
-#EXTINF:5220 tvg-id="1460" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1460.jpg" ,Королевские каникулы
+#EXTINF:5220 tvg-id="1460" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1460.jpg" ,Королевские каникулы
 http://CDN.neonfilm.tv/vod/01460.mp4/video.m3u8
 #EXTINF:6300 tvg-id="1461" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1461.jpg" ,Вальгалла: Рагнарёк
 http://CDN.neonfilm.tv/vod/01461.mp4/video.m3u8
@@ -7551,13 +7551,13 @@ http://CDN.neonfilm.tv/vod/01472.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01473.mp4/video.m3u8
 #EXTINF:5460 tvg-id="1474" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1474.jpg" ,Выпьем за любовь
 http://CDN.neonfilm.tv/vod/01474.mp4/video.m3u8
-#EXTINF:7920 tvg-id="1475" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1475.jpg" ,Текст
+#EXTINF:7920 tvg-id="1475" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1475.jpg" ,Текст
 http://CDN.neonfilm.tv/vod/01475.mp4/video.m3u8
-#EXTINF:6960 tvg-id="1476" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1476.jpg" ,Аритмия
+#EXTINF:6960 tvg-id="1476" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1476.jpg" ,Аритмия
 http://CDN.neonfilm.tv/vod/01476.mp4/video.m3u8
 #EXTINF:5400 tvg-id="1477" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1477.jpg" ,Исцеляющая
 http://CDN.neonfilm.tv/vod/01477.mp4/video.m3u8
-#EXTINF:7500 tvg-id="1478" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1478.jpg" ,Географ глобус пропил
+#EXTINF:7500 tvg-id="1478" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1478.jpg" ,Географ глобус пропил
 http://CDN.neonfilm.tv/vod/01478.mp4/video.m3u8
 #EXTINF:5580 tvg-id="1479" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1479.jpg" ,Железное небо 2
 http://CDN.neonfilm.tv/vod/01479.mp4/video.m3u8
@@ -7565,21 +7565,21 @@ http://CDN.neonfilm.tv/vod/01479.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01480.mp4/video.m3u8
 #EXTINF:5460 tvg-id="1481" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1481.jpg" ,Цепь убийств
 http://CDN.neonfilm.tv/vod/01481.mp4/video.m3u8
-#EXTINF:7920 tvg-id="1482" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1482.jpg" ,Метро
+#EXTINF:7920 tvg-id="1482" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1482.jpg" ,Метро
 http://CDN.neonfilm.tv/vod/01482.mp4/video.m3u8
-#EXTINF:5940 tvg-id="1483" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1483.jpg" ,Playmobil фильм: Через вселенные
+#EXTINF:5940 tvg-id="1483" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1483.jpg" ,Playmobil фильм: Через вселенные
 http://CDN.neonfilm.tv/vod/01483.mp4/video.m3u8
 #EXTINF:5940 tvg-id="1484" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1484.jpg" ,Всегда верен
 http://CDN.neonfilm.tv/vod/01484.mp4/video.m3u8
-#EXTINF:5340 tvg-id="1485" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1485.jpg" ,Тихая застава
+#EXTINF:5340 tvg-id="1485" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1485.jpg" ,Тихая застава
 http://CDN.neonfilm.tv/vod/01485.mp4/video.m3u8
-#EXTINF:6240 tvg-id="1486" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1486.jpg" ,Вечная жизнь Александра Христофорова
+#EXTINF:6240 tvg-id="1486" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1486.jpg" ,Вечная жизнь Александра Христофорова
 http://CDN.neonfilm.tv/vod/01486.mp4/video.m3u8
-#EXTINF:7680 tvg-id="1487" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1487.jpg" ,Внеземной
+#EXTINF:7680 tvg-id="1487" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1487.jpg" ,Внеземной
 http://CDN.neonfilm.tv/vod/01487.mp4/video.m3u8
-#EXTINF:5940 tvg-id="1488" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1488.jpg" ,Гитлер капут!
+#EXTINF:5940 tvg-id="1488" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1488.jpg" ,Гитлер капут!
 http://CDN.neonfilm.tv/vod/01488.mp4/video.m3u8
-#EXTINF:5520 tvg-id="1489" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1489.jpg" ,Красные туфельки и семь гномов
+#EXTINF:5520 tvg-id="1489" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1489.jpg" ,Красные туфельки и семь гномов
 http://CDN.neonfilm.tv/vod/01489.mp4/video.m3u8
 #EXTINF:5400 tvg-id="1490" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1490.jpg" ,Slove. Прямо в сердце
 http://CDN.neonfilm.tv/vod/01490.mp4/video.m3u8
@@ -7587,21 +7587,21 @@ http://CDN.neonfilm.tv/vod/01490.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01491.mp4/video.m3u8
 #EXTINF:10440 tvg-id="1492" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1492.jpg" ,Тайная жизнь
 http://CDN.neonfilm.tv/vod/01492.mp4/video.m3u8
-#EXTINF:7620 tvg-id="1493" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1493.jpg" ,Брат 2
+#EXTINF:7620 tvg-id="1493" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1493.jpg" ,Брат 2
 http://CDN.neonfilm.tv/vod/01493.mp4/video.m3u8
-#EXTINF:6600 tvg-id="1494" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1494.jpg" ,Пальма
+#EXTINF:6600 tvg-id="1494" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1494.jpg" ,Пальма
 http://CDN.neonfilm.tv/vod/01494.mp4/video.m3u8
-#EXTINF:7500 tvg-id="1495" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1495.jpg" ,Шугалей 2
+#EXTINF:7500 tvg-id="1495" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1495.jpg" ,Шугалей 2
 http://CDN.neonfilm.tv/vod/01495.mp4/video.m3u8
-#EXTINF:6420 tvg-id="1496" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1496.jpg" ,Купи меня
+#EXTINF:6420 tvg-id="1496" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1496.jpg" ,Купи меня
 http://CDN.neonfilm.tv/vod/01496.mp4/video.m3u8
-#EXTINF:6720 tvg-id="1497" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1497.jpg" ,Остров
+#EXTINF:6720 tvg-id="1497" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1497.jpg" ,Остров
 http://CDN.neonfilm.tv/vod/01497.mp4/video.m3u8
 #EXTINF:6300 tvg-id="1498" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1498.jpg" ,Джей и Молчаливый Боб: Перезагрузка
 http://CDN.neonfilm.tv/vod/01498.mp4/video.m3u8
 #EXTINF:6240 tvg-id="1499" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1499.jpg" ,Финальный счет
 http://CDN.neonfilm.tv/vod/01499.mp4/video.m3u8
-#EXTINF:9060 tvg-id="1500" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1500.jpg" ,Утомленные солнцем
+#EXTINF:9060 tvg-id="1500" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1500.jpg" ,Утомленные солнцем
 http://CDN.neonfilm.tv/vod/01500.mp4/video.m3u8
 #EXTINF:6480 tvg-id="1501" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1501.jpg" ,Смерч
 http://CDN.neonfilm.tv/vod/01501.mp4/video.m3u8
@@ -7693,7 +7693,7 @@ http://CDN.neonfilm.tv/vod/01543.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01544.mp4/video.m3u8
 #EXTINF:7620 tvg-id="1545" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1545.jpg" ,Жизнь Пи (4k)
 http://CDN.neonfilm.tv/vod/01545.mp4/video.m3u8
-#EXTINF:6420 tvg-id="1546" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1546.jpg" ,Любовь и голуби (4k)
+#EXTINF:6420 tvg-id="1546" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1546.jpg" ,Любовь и голуби (4k)
 http://CDN.neonfilm.tv/vod/01546.mp4/video.m3u8
 #EXTINF:8580 tvg-id="1547" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1547.jpg" ,Великий Гэтсби (4k)
 http://CDN.neonfilm.tv/vod/01547.mp4/video.m3u8
@@ -7861,7 +7861,7 @@ http://CDN.neonfilm.tv/vod/01627.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01628.mp4/video.m3u8
 #EXTINF:7080 tvg-id="1629" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1629.jpg" ,Петля времени
 http://CDN.neonfilm.tv/vod/01629.mp4/video.m3u8
-#EXTINF:5700 tvg-id="1630" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1630.jpg" ,Операция «Ы» и другие приключения Шурика
+#EXTINF:5700 tvg-id="1630" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1630.jpg" ,Операция «Ы» и другие приключения Шурика
 http://CDN.neonfilm.tv/vod/01630.mp4/video.m3u8
 #EXTINF:7020 tvg-id="1631" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1631.jpg" ,Агент 117: Из Африки с любовью
 http://CDN.neonfilm.tv/vod/01631.mp4/video.m3u8
@@ -7869,91 +7869,91 @@ http://CDN.neonfilm.tv/vod/01631.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01632.mp4/video.m3u8
 #EXTINF:5760 tvg-id="1633" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1633.jpg" ,Взятие Беверли Хиллз
 http://CDN.neonfilm.tv/vod/01633.mp4/video.m3u8
-#EXTINF:9000 tvg-id="1634" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1634.jpg" ,Москва слезам не верит
+#EXTINF:9000 tvg-id="1634" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1634.jpg" ,Москва слезам не верит
 http://CDN.neonfilm.tv/vod/01634.mp4/video.m3u8
-#EXTINF:8160 tvg-id="1635" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1635.jpg" ,Собачье сердце 1-я часть
+#EXTINF:8160 tvg-id="1635" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1635.jpg" ,Собачье сердце 1-я часть
 http://CDN.neonfilm.tv/vod/01635.mp4/video.m3u8
-#EXTINF:8160 tvg-id="1636" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1636.jpg" ,Собачье сердце 2-я часть
+#EXTINF:8160 tvg-id="1636" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1636.jpg" ,Собачье сердце 2-я часть
 http://CDN.neonfilm.tv/vod/01636.mp4/video.m3u8
 #EXTINF:5100 tvg-id="1637" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1637.jpg" ,Нули и единицы
 http://CDN.neonfilm.tv/vod/01637.mp4/video.m3u8
-#EXTINF:5280 tvg-id="1638" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1638.jpg" ,Иван Васильевич меняет профессию
+#EXTINF:5280 tvg-id="1638" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1638.jpg" ,Иван Васильевич меняет профессию
 http://CDN.neonfilm.tv/vod/01638.mp4/video.m3u8
 #EXTINF:8340 tvg-id="1639" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1639.jpg" ,Тихий омут
 http://CDN.neonfilm.tv/vod/01639.mp4/video.m3u8
 #EXTINF:6900 tvg-id="1640" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1640.jpg" ,Любовник
 http://CDN.neonfilm.tv/vod/01640.mp4/video.m3u8
-#EXTINF:5520 tvg-id="1641" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1641.jpg" ,Афоня
+#EXTINF:5520 tvg-id="1641" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1641.jpg" ,Афоня
 http://CDN.neonfilm.tv/vod/01641.mp4/video.m3u8
-#EXTINF:5400 tvg-id="1642" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1642.jpg" ,Весна на Заречной улице
+#EXTINF:5400 tvg-id="1642" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1642.jpg" ,Весна на Заречной улице
 http://CDN.neonfilm.tv/vod/01642.mp4/video.m3u8
-#EXTINF:4920 tvg-id="1643" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1643.jpg" ,Кавказская пленница, или Новые приключения Шурика
+#EXTINF:4920 tvg-id="1643" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1643.jpg" ,Кавказская пленница, или Новые приключения Шурика
 http://CDN.neonfilm.tv/vod/01643.mp4/video.m3u8
-#EXTINF:5640 tvg-id="1644" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1644.jpg" ,Берегись автомобиля
+#EXTINF:5640 tvg-id="1644" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1644.jpg" ,Берегись автомобиля
 http://CDN.neonfilm.tv/vod/01644.mp4/video.m3u8
-#EXTINF:5220 tvg-id="1645" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1645.jpg" ,Бывшая
+#EXTINF:5220 tvg-id="1645" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1645.jpg" ,Бывшая
 http://CDN.neonfilm.tv/vod/01645.mp4/video.m3u8
-#EXTINF:5580 tvg-id="1646" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1646.jpg" ,Ёлки 8
+#EXTINF:5580 tvg-id="1646" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1646.jpg" ,Ёлки 8
 http://CDN.neonfilm.tv/vod/01646.mp4/video.m3u8
 #EXTINF:6480 tvg-id="1647" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1647.jpg" ,Время (4k)
 http://CDN.neonfilm.tv/vod/01647.mp4/video.m3u8
 #EXTINF:5400 tvg-id="1648" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1648.jpg" ,Сутенёр
 http://CDN.neonfilm.tv/vod/01648.mp4/video.m3u8
-#EXTINF:5220 tvg-id="1649" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1649.jpg" ,Полосатый рейс
+#EXTINF:5220 tvg-id="1649" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1649.jpg" ,Полосатый рейс
 http://CDN.neonfilm.tv/vod/01649.mp4/video.m3u8
 #EXTINF:6180 tvg-id="1650" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1650.jpg" ,Заложники Марса
 http://CDN.neonfilm.tv/vod/01650.mp4/video.m3u8
-#EXTINF:5940 tvg-id="1651" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1651.jpg" ,Три плюс два
+#EXTINF:5940 tvg-id="1651" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1651.jpg" ,Три плюс два
 http://CDN.neonfilm.tv/vod/01651.mp4/video.m3u8
-#EXTINF:4800 tvg-id="1652" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1652.jpg" ,Вдова
+#EXTINF:4800 tvg-id="1652" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1652.jpg" ,Вдова
 http://CDN.neonfilm.tv/vod/01652.mp4/video.m3u8
 #EXTINF:6420 tvg-id="1653" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1653.jpg" ,Клик: С пультом по жизни
 http://CDN.neonfilm.tv/vod/01653.mp4/video.m3u8
-#EXTINF:5040 tvg-id="1654" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1654.jpg" ,Белое солнце пустыни
+#EXTINF:5040 tvg-id="1654" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1654.jpg" ,Белое солнце пустыни
 http://CDN.neonfilm.tv/vod/01654.mp4/video.m3u8
 #EXTINF:5340 tvg-id="1655" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1655.jpg" ,Опасное обольщение
 http://CDN.neonfilm.tv/vod/01655.mp4/video.m3u8
-#EXTINF:6420 tvg-id="1656" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1656.jpg" ,Любовь и голуби
+#EXTINF:6420 tvg-id="1656" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1656.jpg" ,Любовь и голуби
 http://CDN.neonfilm.tv/vod/01656.mp4/video.m3u8
 #EXTINF:6000 tvg-id="1657" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1657.jpg" ,Сигнал бедствия
 http://CDN.neonfilm.tv/vod/01657.mp4/video.m3u8
-#EXTINF:4740 tvg-id="1658" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1658.jpg" ,Три тополя на Плющихе
+#EXTINF:4740 tvg-id="1658" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1658.jpg" ,Три тополя на Плющихе
 http://CDN.neonfilm.tv/vod/01658.mp4/video.m3u8
-#EXTINF:7620 tvg-id="1659" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1659.jpg" ,Трое в лодке, не считая собаки
+#EXTINF:7620 tvg-id="1659" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1659.jpg" ,Трое в лодке, не считая собаки
 http://CDN.neonfilm.tv/vod/01659.mp4/video.m3u8
 #EXTINF:8400 tvg-id="1660" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1660.jpg" ,Охота на воров
 http://CDN.neonfilm.tv/vod/01660.mp4/video.m3u8
-#EXTINF:8400 tvg-id="1661" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1661.jpg" ,Покровские ворота 1-я серия
+#EXTINF:8400 tvg-id="1661" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1661.jpg" ,Покровские ворота 1-я серия
 http://CDN.neonfilm.tv/vod/01661.mp4/video.m3u8
-#EXTINF:8400 tvg-id="1662" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1662.jpg" ,Покровские ворота 2-я серия
+#EXTINF:8400 tvg-id="1662" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1662.jpg" ,Покровские ворота 2-я серия
 http://CDN.neonfilm.tv/vod/01662.mp4/video.m3u8
 #EXTINF:7680 tvg-id="1663" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1663.jpg" ,Во время грозы
 http://CDN.neonfilm.tv/vod/01663.mp4/video.m3u8
-#EXTINF:6000 tvg-id="1664" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1664.jpg" ,Верные друзья
+#EXTINF:6000 tvg-id="1664" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1664.jpg" ,Верные друзья
 http://CDN.neonfilm.tv/vod/01664.mp4/video.m3u8
 #EXTINF:5220 tvg-id="1665" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1665.jpg" ,Когда звонит незнакомец
 http://CDN.neonfilm.tv/vod/01665.mp4/video.m3u8
-#EXTINF:5640 tvg-id="1666" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1666.jpg" ,Бриллиантовая рука
+#EXTINF:5640 tvg-id="1666" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1666.jpg" ,Бриллиантовая рука
 http://CDN.neonfilm.tv/vod/01666.mp4/video.m3u8
-#EXTINF:6900 tvg-id="1667" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1667.jpg" ,На острие
+#EXTINF:6900 tvg-id="1667" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1667.jpg" ,На острие
 http://CDN.neonfilm.tv/vod/01667.mp4/video.m3u8
 #EXTINF:7680 tvg-id="1668" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1668.jpg" ,Долгая помолвка
 http://CDN.neonfilm.tv/vod/01668.mp4/video.m3u8
-#EXTINF:4560 tvg-id="1669" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1669.jpg" ,«Сто грамм» для храбрости
+#EXTINF:4560 tvg-id="1669" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1669.jpg" ,«Сто грамм» для храбрости
 http://CDN.neonfilm.tv/vod/01669.mp4/video.m3u8
 #EXTINF:5520 tvg-id="1670" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1670.jpg" ,Перевозчик
 http://CDN.neonfilm.tv/vod/01670.mp4/video.m3u8
-#EXTINF:4680 tvg-id="1671" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1671.jpg" ,Карнавальная ночь
+#EXTINF:4680 tvg-id="1671" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1671.jpg" ,Карнавальная ночь
 http://CDN.neonfilm.tv/vod/01671.mp4/video.m3u8
 #EXTINF:6000 tvg-id="1672" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1672.jpg" ,Чёрный 47-й
 http://CDN.neonfilm.tv/vod/01672.mp4/video.m3u8
-#EXTINF:8100 tvg-id="1673" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1673.jpg" ,Кин-дза-дза!
+#EXTINF:8100 tvg-id="1673" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1673.jpg" ,Кин-дза-дза!
 http://CDN.neonfilm.tv/vod/01673.mp4/video.m3u8
-#EXTINF:4740 tvg-id="1674" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1674.jpg" ,22 минуты
+#EXTINF:4740 tvg-id="1674" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1674.jpg" ,22 минуты
 http://CDN.neonfilm.tv/vod/01674.mp4/video.m3u8
-#EXTINF:5400 tvg-id="1675" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1675.jpg" ,Формула любви
+#EXTINF:5400 tvg-id="1675" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1675.jpg" ,Формула любви
 http://CDN.neonfilm.tv/vod/01675.mp4/video.m3u8
-#EXTINF:7860 tvg-id="1676" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1676.jpg" ,Огонь
+#EXTINF:7860 tvg-id="1676" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1676.jpg" ,Огонь
 http://CDN.neonfilm.tv/vod/01676.mp4/video.m3u8
 #EXTINF:5760 tvg-id="1677" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1677.jpg" ,Остров Ним
 http://CDN.neonfilm.tv/vod/01677.mp4/video.m3u8
@@ -7997,7 +7997,7 @@ http://CDN.neonfilm.tv/vod/01695.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01696.mp4/video.m3u8
 #EXTINF:8400 tvg-id="1697" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1697.jpg" ,Первому игроку приготовиться (4k)
 http://CDN.neonfilm.tv/vod/01697.mp4/video.m3u8
-#EXTINF:6360 tvg-id="1698" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1698.jpg" ,Последняя фантазия (4k)
+#EXTINF:6360 tvg-id="1698" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1698.jpg" ,Последняя фантазия (4k)
 http://CDN.neonfilm.tv/vod/01698.mp4/video.m3u8
 #EXTINF:7800 tvg-id="1699" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1699.jpg" ,Ассасин: Битва миров (4k)
 http://CDN.neonfilm.tv/vod/01699.mp4/video.m3u8
@@ -8041,7 +8041,7 @@ http://CDN.neonfilm.tv/vod/01717.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01718.mp4/video.m3u8
 #EXTINF:6420 tvg-id="1719" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1719.jpg" ,Эма: Танец страсти
 http://CDN.neonfilm.tv/vod/01719.mp4/video.m3u8
-#EXTINF:4620 tvg-id="1720" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1720.jpg" ,Вий
+#EXTINF:4620 tvg-id="1720" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1720.jpg" ,Вий
 http://CDN.neonfilm.tv/vod/01720.mp4/video.m3u8
 #EXTINF:5580 tvg-id="1721" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1721.jpg" ,Ослепленный желаниями
 http://CDN.neonfilm.tv/vod/01721.mp4/video.m3u8
@@ -8051,9 +8051,9 @@ http://CDN.neonfilm.tv/vod/01722.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01723.mp4/video.m3u8
 #EXTINF:5160 tvg-id="1724" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1724.jpg" ,Город, который боялся заката
 http://CDN.neonfilm.tv/vod/01724.mp4/video.m3u8
-#EXTINF:9240 tvg-id="1725" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1725.jpg" ,Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей 1
+#EXTINF:9240 tvg-id="1725" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1725.jpg" ,Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей 1
 http://CDN.neonfilm.tv/vod/01725.mp4/video.m3u8
-#EXTINF:9240 tvg-id="1726" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1726.jpg" ,Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей 2
+#EXTINF:9240 tvg-id="1726" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1726.jpg" ,Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей 2
 http://CDN.neonfilm.tv/vod/01726.mp4/video.m3u8
 #EXTINF:5700 tvg-id="1727" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1727.jpg" ,Когда Гарри встретил Салли
 http://CDN.neonfilm.tv/vod/01727.mp4/video.m3u8
@@ -8153,25 +8153,25 @@ http://CDN.neonfilm.tv/vod/01773.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01774.mp4/video.m3u8
 #EXTINF:6240 tvg-id="1775" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1775.jpg" ,Необыкновенная история на Рождество
 http://CDN.neonfilm.tv/vod/01775.mp4/video.m3u8
-#EXTINF:4740 tvg-id="1776" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1776.jpg" ,Алеша Попович и Тугарин Змей
+#EXTINF:4740 tvg-id="1776" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1776.jpg" ,Алеша Попович и Тугарин Змей
 http://CDN.neonfilm.tv/vod/01776.mp4/video.m3u8
 #EXTINF:6420 tvg-id="1777" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1777.jpg" ,Гнездо
 http://CDN.neonfilm.tv/vod/01777.mp4/video.m3u8
 #EXTINF:7500 tvg-id="1778" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1778.jpg" ,Обливион
 http://CDN.neonfilm.tv/vod/01778.mp4/video.m3u8
-#EXTINF:4080 tvg-id="1779" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1779.jpg" ,Добрыня Никитич и Змей Горыныч
+#EXTINF:4080 tvg-id="1779" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1779.jpg" ,Добрыня Никитич и Змей Горыныч
 http://CDN.neonfilm.tv/vod/01779.mp4/video.m3u8
-#EXTINF:4800 tvg-id="1780" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1780.jpg" ,Илья Муромец и Соловей Разбойник
+#EXTINF:4800 tvg-id="1780" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1780.jpg" ,Илья Муромец и Соловей Разбойник
 http://CDN.neonfilm.tv/vod/01780.mp4/video.m3u8
 #EXTINF:6960 tvg-id="1781" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1781.jpg" ,Дальний космос
 http://CDN.neonfilm.tv/vod/01781.mp4/video.m3u8
-#EXTINF:7740 tvg-id="1782" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1782.jpg" ,Вторжение
+#EXTINF:7740 tvg-id="1782" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1782.jpg" ,Вторжение
 http://CDN.neonfilm.tv/vod/01782.mp4/video.m3u8
-#EXTINF:4500 tvg-id="1783" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1783.jpg" ,Три богатыря и Шамаханская царица
+#EXTINF:4500 tvg-id="1783" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1783.jpg" ,Три богатыря и Шамаханская царица
 http://CDN.neonfilm.tv/vod/01783.mp4/video.m3u8
 #EXTINF:5820 tvg-id="1784" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1784.jpg" ,Экзистенция
 http://CDN.neonfilm.tv/vod/01784.mp4/video.m3u8
-#EXTINF:3900 tvg-id="1785" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1785.jpg" ,Три богатыря на дальних берегах
+#EXTINF:3900 tvg-id="1785" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1785.jpg" ,Три богатыря на дальних берегах
 http://CDN.neonfilm.tv/vod/01785.mp4/video.m3u8
 #EXTINF:6480 tvg-id="1786" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1786.jpg" ,Перелом
 http://CDN.neonfilm.tv/vod/01786.mp4/video.m3u8
@@ -8183,37 +8183,37 @@ http://CDN.neonfilm.tv/vod/01788.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01789.mp4/video.m3u8
 #EXTINF:5040 tvg-id="1790" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1790.jpg" ,Пи
 http://CDN.neonfilm.tv/vod/01790.mp4/video.m3u8
-#EXTINF:5220 tvg-id="1791" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1791.jpg" ,Монстры на каникулах: Трансформания (4k)
+#EXTINF:5220 tvg-id="1791" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1791.jpg" ,Монстры на каникулах: Трансформания (4k)
 http://CDN.neonfilm.tv/vod/01791.mp4/video.m3u8
 #EXTINF:9360 tvg-id="1792" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1792.jpg" ,Вечные (4k)
 http://CDN.neonfilm.tv/vod/01792.mp4/video.m3u8
 #EXTINF:6960 tvg-id="1793" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1793.jpg" ,Прошлой ночью в Сохо (4k)
 http://CDN.neonfilm.tv/vod/01793.mp4/video.m3u8
-#EXTINF:6600 tvg-id="1794" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1794.jpg" ,Зверопой 2 (4k)
+#EXTINF:6600 tvg-id="1794" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1794.jpg" ,Зверопой 2 (4k)
 http://CDN.neonfilm.tv/vod/01794.mp4/video.m3u8
 #EXTINF:7080 tvg-id="1795" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1795.jpg" ,Джек Ричер 2: Никогда не возвращайся (4k)
 http://CDN.neonfilm.tv/vod/01795.mp4/video.m3u8
 #EXTINF:5460 tvg-id="1796" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1796.jpg" ,Папа-мама гусь
 http://CDN.neonfilm.tv/vod/01796.mp4/video.m3u8
-#EXTINF:4440 tvg-id="1797" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1797.jpg" ,Три богатыря: Ход конем
+#EXTINF:4440 tvg-id="1797" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1797.jpg" ,Три богатыря: Ход конем
 http://CDN.neonfilm.tv/vod/01797.mp4/video.m3u8
-#EXTINF:5340 tvg-id="1798" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1798.jpg" ,Приключения Пильи
+#EXTINF:5340 tvg-id="1798" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1798.jpg" ,Приключения Пильи
 http://CDN.neonfilm.tv/vod/01798.mp4/video.m3u8
-#EXTINF:6780 tvg-id="1799" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1799.jpg" ,Митчеллы против машин
+#EXTINF:6780 tvg-id="1799" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1799.jpg" ,Митчеллы против машин
 http://CDN.neonfilm.tv/vod/01799.mp4/video.m3u8
 #EXTINF:5520 tvg-id="1800" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1800.jpg" ,Вымирающая порода
 http://CDN.neonfilm.tv/vod/01800.mp4/video.m3u8
-#EXTINF:5280 tvg-id="1801" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1801.jpg" ,Иван Царевич и Серый Волк 4
+#EXTINF:5280 tvg-id="1801" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1801.jpg" ,Иван Царевич и Серый Волк 4
 http://CDN.neonfilm.tv/vod/01801.mp4/video.m3u8
-#EXTINF:5400 tvg-id="1802" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1802.jpg" ,Вокруг света за 80 дней
+#EXTINF:5400 tvg-id="1802" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1802.jpg" ,Вокруг света за 80 дней
 http://CDN.neonfilm.tv/vod/01802.mp4/video.m3u8
-#EXTINF:5220 tvg-id="1803" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1803.jpg" ,Монстры на каникулах: Трансформания
+#EXTINF:5220 tvg-id="1803" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1803.jpg" ,Монстры на каникулах: Трансформания
 http://CDN.neonfilm.tv/vod/01803.mp4/video.m3u8
-#EXTINF:6420 tvg-id="1804" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1804.jpg" ,Университет монстров
+#EXTINF:6420 tvg-id="1804" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1804.jpg" ,Университет монстров
 http://CDN.neonfilm.tv/vod/01804.mp4/video.m3u8
 #EXTINF:8340 tvg-id="1805" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1805.jpg" ,Апокалипсис
 http://CDN.neonfilm.tv/vod/01805.mp4/video.m3u8
-#EXTINF:6300 tvg-id="1806" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1806.jpg" ,Как приручить дракона 2
+#EXTINF:6300 tvg-id="1806" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1806.jpg" ,Как приручить дракона 2
 http://CDN.neonfilm.tv/vod/01806.mp4/video.m3u8
 #EXTINF:6120 tvg-id="1807" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1807.jpg" ,Атлантида
 http://CDN.neonfilm.tv/vod/01807.mp4/video.m3u8
@@ -8235,7 +8235,7 @@ http://CDN.neonfilm.tv/vod/01814.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01815.mp4/video.m3u8
 #EXTINF:8100 tvg-id="1816" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1816.jpg" ,Ярмарка тщеславия
 http://CDN.neonfilm.tv/vod/01816.mp4/video.m3u8
-#EXTINF:7920 tvg-id="1817" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1817.jpg" ,Притяжение
+#EXTINF:7920 tvg-id="1817" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1817.jpg" ,Притяжение
 http://CDN.neonfilm.tv/vod/01817.mp4/video.m3u8
 #EXTINF:6240 tvg-id="1818" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1818.jpg" ,Джей и Молчаливый Боб наносят ответный удар
 http://CDN.neonfilm.tv/vod/01818.mp4/video.m3u8
@@ -8299,7 +8299,7 @@ http://CDN.neonfilm.tv/vod/01846.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01847.mp4/video.m3u8
 #EXTINF:5640 tvg-id="1848" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1848.jpg" ,Мейнстрим
 http://CDN.neonfilm.tv/vod/01848.mp4/video.m3u8
-#EXTINF:5880 tvg-id="1849" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1849.jpg" ,Честный развод
+#EXTINF:5880 tvg-id="1849" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1849.jpg" ,Честный развод
 http://CDN.neonfilm.tv/vod/01849.mp4/video.m3u8
 #EXTINF:5460 tvg-id="1850" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1850.jpg" ,Реверс 666
 http://CDN.neonfilm.tv/vod/01850.mp4/video.m3u8
@@ -8383,7 +8383,7 @@ http://CDN.neonfilm.tv/vod/01888.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01889.mp4/video.m3u8
 #EXTINF:6420 tvg-id="1890" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1890.jpg" ,Обитель зла: Раккун-Сити
 http://CDN.neonfilm.tv/vod/01890.mp4/video.m3u8
-#EXTINF:5880 tvg-id="1891" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1891.jpg" ,Красный призрак
+#EXTINF:5880 tvg-id="1891" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1891.jpg" ,Красный призрак
 http://CDN.neonfilm.tv/vod/01891.mp4/video.m3u8
 #EXTINF:6840 tvg-id="1892" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1892.jpg" ,Отряд Фокстрот
 http://CDN.neonfilm.tv/vod/01892.mp4/video.m3u8
@@ -8423,7 +8423,7 @@ http://CDN.neonfilm.tv/vod/01908.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01909.mp4/video.m3u8
 #EXTINF:6420 tvg-id="1910" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1910.jpg" ,Куриоса
 http://CDN.neonfilm.tv/vod/01910.mp4/video.m3u8
-#EXTINF:4800 tvg-id="1911" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1911.jpg" ,Большое путешествие
+#EXTINF:4800 tvg-id="1911" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1911.jpg" ,Большое путешествие
 http://CDN.neonfilm.tv/vod/01911.mp4/video.m3u8
 #EXTINF:7320 tvg-id="1912" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1912.jpg" ,Меч дракона
 http://CDN.neonfilm.tv/vod/01912.mp4/video.m3u8
@@ -8435,7 +8435,7 @@ http://CDN.neonfilm.tv/vod/01914.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01915.mp4/video.m3u8
 #EXTINF:5880 tvg-id="1916" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1916.jpg" ,Сердце дракона
 http://CDN.neonfilm.tv/vod/01916.mp4/video.m3u8
-#EXTINF:5760 tvg-id="1917" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1917.jpg" ,Свингеры
+#EXTINF:5760 tvg-id="1917" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1917.jpg" ,Свингеры
 http://CDN.neonfilm.tv/vod/01917.mp4/video.m3u8
 #EXTINF:5280 tvg-id="1918" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1918.jpg" ,Доспехи Бога
 http://CDN.neonfilm.tv/vod/01918.mp4/video.m3u8
@@ -8465,7 +8465,7 @@ http://CDN.neonfilm.tv/vod/01929.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01930.mp4/video.m3u8
 #EXTINF:6480 tvg-id="1931" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1931.jpg" ,Кролик Джоджо
 http://CDN.neonfilm.tv/vod/01931.mp4/video.m3u8
-#EXTINF:5580 tvg-id="1932" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1932.jpg" ,Люпен III: Первый
+#EXTINF:5580 tvg-id="1932" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1932.jpg" ,Люпен III: Первый
 http://CDN.neonfilm.tv/vod/01932.mp4/video.m3u8
 #EXTINF:7500 tvg-id="1933" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1933.jpg" ,Не уходи
 http://CDN.neonfilm.tv/vod/01933.mp4/video.m3u8
@@ -8477,7 +8477,7 @@ http://CDN.neonfilm.tv/vod/01935.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01936.mp4/video.m3u8
 #EXTINF:5940 tvg-id="1937" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1937.jpg" ,Легендарное ограбление
 http://CDN.neonfilm.tv/vod/01937.mp4/video.m3u8
-#EXTINF:4920 tvg-id="1938" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1938.jpg" ,Верность
+#EXTINF:4920 tvg-id="1938" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1938.jpg" ,Верность
 http://CDN.neonfilm.tv/vod/01938.mp4/video.m3u8
 #EXTINF:6720 tvg-id="1939" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1939.jpg" ,Белоснежка. Сказка для взрослых
 http://CDN.neonfilm.tv/vod/01939.mp4/video.m3u8
@@ -8501,7 +8501,7 @@ http://CDN.neonfilm.tv/vod/01947.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01948.mp4/video.m3u8
 #EXTINF:5760 tvg-id="1949" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1949.jpg" ,Doom: Аннигиляция
 http://CDN.neonfilm.tv/vod/01949.mp4/video.m3u8
-#EXTINF:5820 tvg-id="1950" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/1950.jpg" ,Приказ «Уничтожить»
+#EXTINF:5820 tvg-id="1950" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/1950.jpg" ,Приказ «Уничтожить»
 http://CDN.neonfilm.tv/vod/01950.mp4/video.m3u8
 #EXTINF:7260 tvg-id="1951" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1951.jpg" ,Последний черный в Сан-Франциско
 http://CDN.neonfilm.tv/vod/01951.mp4/video.m3u8
@@ -8523,7 +8523,7 @@ http://CDN.neonfilm.tv/vod/01958.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01959.mp4/video.m3u8
 #EXTINF:7740 tvg-id="1960" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1960.jpg" ,Черный ящик (4k)
 http://CDN.neonfilm.tv/vod/01960.mp4/video.m3u8
-#EXTINF:3960 tvg-id="1961" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1961.jpg" ,Медвежонок Бамси и Замок Разбойников
+#EXTINF:3960 tvg-id="1961" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1961.jpg" ,Медвежонок Бамси и Замок Разбойников
 http://CDN.neonfilm.tv/vod/01961.mp4/video.m3u8
 #EXTINF:7920 tvg-id="1962" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1962.jpg" ,Бомбардировка
 http://CDN.neonfilm.tv/vod/01962.mp4/video.m3u8
@@ -8557,15 +8557,15 @@ http://CDN.neonfilm.tv/vod/01975.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/01976.mp4/video.m3u8
 #EXTINF:5340 tvg-id="1977" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1977.jpg" ,Холодная война
 http://CDN.neonfilm.tv/vod/01977.mp4/video.m3u8
-#EXTINF:4680 tvg-id="1978" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1978.jpg" ,LEGO Супергерои DC: Флэш
+#EXTINF:4680 tvg-id="1978" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1978.jpg" ,LEGO Супергерои DC: Флэш
 http://CDN.neonfilm.tv/vod/01978.mp4/video.m3u8
-#EXTINF:4320 tvg-id="1979" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1979.jpg" ,Борцы за свободу: Луч
+#EXTINF:4320 tvg-id="1979" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1979.jpg" ,Борцы за свободу: Луч
 http://CDN.neonfilm.tv/vod/01979.mp4/video.m3u8
 #EXTINF:7920 tvg-id="1980" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1980.jpg" ,Хижина
 http://CDN.neonfilm.tv/vod/01980.mp4/video.m3u8
 #EXTINF:6720 tvg-id="1981" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1981.jpg" ,Простите за беспокойство
 http://CDN.neonfilm.tv/vod/01981.mp4/video.m3u8
-#EXTINF:5040 tvg-id="1982" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/1982.jpg" ,Юные титаны, вперед!
+#EXTINF:5040 tvg-id="1982" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/1982.jpg" ,Юные титаны, вперед!
 http://CDN.neonfilm.tv/vod/01982.mp4/video.m3u8
 #EXTINF:6300 tvg-id="1983" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/1983.jpg" ,Счастливый принц
 http://CDN.neonfilm.tv/vod/01983.mp4/video.m3u8
@@ -8605,7 +8605,7 @@ http://CDN.neonfilm.tv/vod/01999.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/02000.mp4/video.m3u8
 #EXTINF:6960 tvg-id="2001" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/2001.jpg" ,Сквозь огонь
 http://CDN.neonfilm.tv/vod/02001.mp4/video.m3u8
-#EXTINF:4860 tvg-id="2002" group-title="Ours cinema" tvg-logo="http://scr.neonfilm.tv/scr/2002.jpg" ,Семь пар нечистых
+#EXTINF:4860 tvg-id="2002" group-title="Российское кино" tvg-logo="http://scr.neonfilm.tv/scr/2002.jpg" ,Семь пар нечистых
 http://CDN.neonfilm.tv/vod/02002.mp4/video.m3u8
 #EXTINF:7500 tvg-id="2003" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/2003.jpg" ,Темные времена
 http://CDN.neonfilm.tv/vod/02003.mp4/video.m3u8
@@ -8621,13 +8621,13 @@ http://CDN.neonfilm.tv/vod/02007.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/02008.mp4/video.m3u8
 #EXTINF:6660 tvg-id="2009" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/2009.jpg" ,Белый парень Рик
 http://CDN.neonfilm.tv/vod/02009.mp4/video.m3u8
-#EXTINF:4860 tvg-id="2010" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/2010.jpg" ,Творцы снов
+#EXTINF:4860 tvg-id="2010" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/2010.jpg" ,Творцы снов
 http://CDN.neonfilm.tv/vod/02010.mp4/video.m3u8
 #EXTINF:5520 tvg-id="2011" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/2011.jpg" ,История призрака
 http://CDN.neonfilm.tv/vod/02011.mp4/video.m3u8
 #EXTINF:6240 tvg-id="2012" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/2012.jpg" ,Углерод
 http://CDN.neonfilm.tv/vod/02012.mp4/video.m3u8
-#EXTINF:6120 tvg-id="2013" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/2013.jpg" ,Энканто
+#EXTINF:6120 tvg-id="2013" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/2013.jpg" ,Энканто
 http://CDN.neonfilm.tv/vod/02013.mp4/video.m3u8
 #EXTINF:8280 tvg-id="2014" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/2014.jpg" ,Без лица
 http://CDN.neonfilm.tv/vod/02014.mp4/video.m3u8
@@ -8705,17 +8705,17 @@ http://CDN.neonfilm.tv/vod/02049.mp4/video.m3u8
 http://CDN.neonfilm.tv/vod/02050.mp4/video.m3u8
 #EXTINF:7620 tvg-id="2051" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/2051.jpg" ,Смерть на Ниле
 http://CDN.neonfilm.tv/vod/02051.mp4/video.m3u8
-#EXTINF:4980 tvg-id="2052" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/2052.jpg" ,Русалочка
+#EXTINF:4980 tvg-id="2052" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/2052.jpg" ,Русалочка
 http://CDN.neonfilm.tv/vod/02052.mp4/video.m3u8
-#EXTINF:4500 tvg-id="2053" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/2053.jpg" ,Русалочка 2: Возвращение в море
+#EXTINF:4500 tvg-id="2053" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/2053.jpg" ,Русалочка 2: Возвращение в море
 http://CDN.neonfilm.tv/vod/02053.mp4/video.m3u8
-#EXTINF:4680 tvg-id="2054" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/2054.jpg" ,Русалочка: Начало истории Ариэль
+#EXTINF:4680 tvg-id="2054" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/2054.jpg" ,Русалочка: Начало истории Ариэль
 http://CDN.neonfilm.tv/vod/02054.mp4/video.m3u8
 #EXTINF:5700 tvg-id="2055" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/2055.jpg" ,Фальшивомонетчики
 http://CDN.neonfilm.tv/vod/02055.mp4/video.m3u8
-#EXTINF:5880 tvg-id="2056" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/2056.jpg" ,Гадкий я 2
+#EXTINF:5880 tvg-id="2056" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/2056.jpg" ,Гадкий я 2
 http://CDN.neonfilm.tv/vod/02056.mp4/video.m3u8
-#EXTINF:5700 tvg-id="2057" group-title="Cartoon" tvg-logo="http://scr.neonfilm.tv/scr/2057.jpg" ,Гадкий я
+#EXTINF:5700 tvg-id="2057" group-title="Мультфильмы" tvg-logo="http://scr.neonfilm.tv/scr/2057.jpg" ,Гадкий я
 http://CDN.neonfilm.tv/vod/02057.mp4/video.m3u8
 #EXTINF:6000 tvg-id="2058" group-title="Мировое кино" tvg-logo="http://scr.neonfilm.tv/scr/2058.jpg" ,Лара Крофт: Расхитительница гробниц
 http://CDN.neonfilm.tv/vod/02058.mp4/video.m3u8
