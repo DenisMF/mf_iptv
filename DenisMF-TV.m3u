@@ -3617,29 +3617,29 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
 
 
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch001pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch001
 http://edge-01-pub.persik.by:82/live/Ch001pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch002pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch002
 http://edge-01-pub.persik.by:82/live/Ch002pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10758.png",Сериалы HD
 http://edge-01-pub.persik.by:82/live/Ch003pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch004pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch004
 http://edge-01-pub.persik.by:82/live/Ch004pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch005pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch005
 http://edge-01-pub.persik.by:82/live/Ch005pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10519.png",РыбаКит
 http://edge-01-pub.persik.by:82/live/Ch006pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch007pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch007
 http://edge-01-pub.persik.by:82/live/Ch007pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch008pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch008
 http://edge-01-pub.persik.by:82/live/Ch008pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch009pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch009
 http://edge-01-pub.persik.by:82/live/Ch009pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch010pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch010
 http://edge-01-pub.persik.by:82/live/Ch010pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch011pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch011
 http://edge-01-pub.persik.by:82/live/Ch011pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch012pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch012
 http://edge-01-pub.persik.by:82/live/Ch012pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10487.png",Роскосмос HD
 http://edge-01-pub.persik.by:82/live/Ch013pub/index.m3u8
@@ -3647,513 +3647,527 @@ http://edge-01-pub.persik.by:82/live/Ch013pub/index.m3u8
 http://edge-01-pub.persik.by:82/live/Ch014pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Olia
 http://edge-01-pub.persik.by:82/live/Ch015pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch016pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch016
 http://edge-01-pub.persik.by:82/live/Ch016pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch017pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch017
 http://edge-01-pub.persik.by:82/live/Ch017pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch018pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch018
 http://edge-01-pub.persik.by:82/live/Ch018pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch020pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch020
 http://edge-01-pub.persik.by:82/live/Ch020pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch021pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch021
 http://edge-01-pub.persik.by:82/live/Ch021pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch022pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch022
 http://edge-01-pub.persik.by:82/live/Ch022pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch023pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch023
 http://edge-01-pub.persik.by:82/live/Ch023pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch024pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch024
 http://edge-01-pub.persik.by:82/live/Ch024pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10774.png",Кулинарный микс
 http://edge-01-pub.persik.by:82/live/Ch025pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch026pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch026
 http://edge-01-pub.persik.by:82/live/Ch026pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch027pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch027
 http://edge-01-pub.persik.by:82/live/Ch027pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch028pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch028
 http://edge-01-pub.persik.by:82/live/Ch028pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10532.png",Coup de Coeur Online
 http://edge-01-pub.persik.by:82/live/Ch029pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch031pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch031
 http://edge-01-pub.persik.by:82/live/Ch031pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch032pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch032
 http://edge-01-pub.persik.by:82/live/Ch032pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch033pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch033
 http://edge-01-pub.persik.by:82/live/Ch033pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_mova.png",Sluhay.by Mova
 http://edge-01-pub.persik.by:82/live/Ch034pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10750.png",Советские комедии HD
 http://edge-01-pub.persik.by:82/live/Ch035pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch036pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch036
 http://edge-01-pub.persik.by:82/live/Ch036pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch037pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch037
 http://edge-01-pub.persik.by:82/live/Ch037pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Смотрите на Persik
 http://edge-01-pub.persik.by:82/live/Ch038pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch039pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch039
 http://edge-01-pub.persik.by:82/live/Ch039pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Смотрите на Persik
 http://edge-01-pub.persik.by:82/live/Ch040pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10544.png",Кинокомедии. Рекомендуем
 http://edge-01-pub.persik.by:82/live/Ch041pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch042pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch042
 http://edge-01-pub.persik.by:82/live/Ch042pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch043pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch043
 http://edge-01-pub.persik.by:82/live/Ch043pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by HD
 http://edge-01-pub.persik.by:82/live/Ch045pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch046pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch046
 http://edge-01-pub.persik.by:82/live/Ch046pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Radio
 http://edge-01-pub.persik.by:82/live/Ch048pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch049pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch049
 http://edge-01-pub.persik.by:82/live/Ch049pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch051
+http://edge-01-pub.persik.by:82/live/Ch051pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Lenadi
 http://edge-01-pub.persik.by:82/live/Ch052pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch054pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch054
 http://edge-01-pub.persik.by:82/live/Ch054pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch055pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch055
 http://edge-01-pub.persik.by:82/live/Ch055pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Xtip
 http://edge-01-pub.persik.by:82/live/Ch056pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch058pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch058
 http://edge-01-pub.persik.by:82/live/Ch058pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch059pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch059
 http://edge-01-pub.persik.by:82/live/Ch059pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch060pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch060
 http://edge-01-pub.persik.by:82/live/Ch060pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch061pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch061
 http://edge-01-pub.persik.by:82/live/Ch061pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch062pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch062
 http://edge-01-pub.persik.by:82/live/Ch062pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch063pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch063
 http://edge-01-pub.persik.by:82/live/Ch063pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Christ
 http://edge-01-pub.persik.by:82/live/Ch064pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch065pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch065
 http://edge-01-pub.persik.by:82/live/Ch065pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_pop.png",Sluhay.by Pop
 http://edge-01-pub.persik.by:82/live/Ch066pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch067pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch067
 http://edge-01-pub.persik.by:82/live/Ch067pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch068pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch068
 http://edge-01-pub.persik.by:82/live/Ch068pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch069pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch069
 http://edge-01-pub.persik.by:82/live/Ch069pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10509.png",Kosmo
 http://edge-01-pub.persik.by:82/live/Ch070pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch071pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch071
 http://edge-01-pub.persik.by:82/live/Ch071pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch073pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch073
 http://edge-01-pub.persik.by:82/live/Ch073pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch074pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch074
 http://edge-01-pub.persik.by:82/live/Ch074pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch076pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch076
 http://edge-01-pub.persik.by:82/live/Ch076pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch077pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch077
 http://edge-01-pub.persik.by:82/live/Ch077pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch078pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch078
 http://edge-01-pub.persik.by:82/live/Ch078pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch079pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch079
 http://edge-01-pub.persik.by:82/live/Ch079pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Смотрите на Persik
 http://edge-01-pub.persik.by:82/live/Ch080pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch082pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch082
 http://edge-01-pub.persik.by:82/live/Ch082pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch083pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch083
 http://edge-01-pub.persik.by:82/live/Ch083pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch084pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch084
 http://edge-01-pub.persik.by:82/live/Ch084pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch085pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch085
 http://edge-01-pub.persik.by:82/live/Ch085pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Among Your God
 http://edge-01-pub.persik.by:82/live/Ch086pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch087pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch087
 http://edge-01-pub.persik.by:82/live/Ch087pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch089pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch089
 http://edge-01-pub.persik.by:82/live/Ch089pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch090pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch090
 http://edge-01-pub.persik.by:82/live/Ch090pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_edm.png",Sluhay.by EDM
 http://edge-01-pub.persik.by:82/live/Ch091pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch092pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch092
 http://edge-01-pub.persik.by:82/live/Ch092pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch094pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch094
 http://edge-01-pub.persik.by:82/live/Ch094pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch095pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch095
 http://edge-01-pub.persik.by:82/live/Ch095pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch099pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch099
 http://edge-01-pub.persik.by:82/live/Ch099pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch100pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch100
 http://edge-01-pub.persik.by:82/live/Ch100pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch101pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch101
 http://edge-01-pub.persik.by:82/live/Ch101pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch102pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch102
 http://edge-01-pub.persik.by:82/live/Ch102pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch103pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch103
 http://edge-01-pub.persik.by:82/live/Ch103pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Sluhay.by Atesta
 http://edge-01-pub.persik.by:82/live/Ch106pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_rap.png",Sluhay.by Rap
 http://edge-01-pub.persik.by:82/live/Ch107pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch108pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch108
 http://edge-01-pub.persik.by:82/live/Ch108pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch109pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch109
 http://edge-01-pub.persik.by:82/live/Ch109pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10611.png",Samodelki Vitmana
 http://edge-01-pub.persik.by:82/live/Ch110pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch112pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch112
 http://edge-01-pub.persik.by:82/live/Ch112pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch113pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch113
 http://edge-01-pub.persik.by:82/live/Ch113pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_rock.png",Sluhay.by Rock
 http://edge-01-pub.persik.by:82/live/Ch114pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch116pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch116
 http://edge-01-pub.persik.by:82/live/Ch116pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Cover
 http://edge-01-pub.persik.by:82/live/Ch117pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch118pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch118
 http://edge-01-pub.persik.by:82/live/Ch118pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch119pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch119
 http://edge-01-pub.persik.by:82/live/Ch119pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch120pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch120
 http://edge-01-pub.persik.by:82/live/Ch120pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch122pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch122
 http://edge-01-pub.persik.by:82/live/Ch122pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch123pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch123
 http://edge-01-pub.persik.by:82/live/Ch123pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch125pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch125
 http://edge-01-pub.persik.by:82/live/Ch125pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch126pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch126
 http://edge-01-pub.persik.by:82/live/Ch126pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch127pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch127
 http://edge-01-pub.persik.by:82/live/Ch127pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch128pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch128
 http://edge-01-pub.persik.by:82/live/Ch128pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch129pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch129
 http://edge-01-pub.persik.by:82/live/Ch129pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch130pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch130
 http://edge-01-pub.persik.by:82/live/Ch130pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch132pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch132
 http://edge-01-pub.persik.by:82/live/Ch132pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch133pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch133
 http://edge-01-pub.persik.by:82/live/Ch133pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch134pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch134
 http://edge-01-pub.persik.by:82/live/Ch134pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch135pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch135
 http://edge-01-pub.persik.by:82/live/Ch135pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch136pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch136
 http://edge-01-pub.persik.by:82/live/Ch136pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch137pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch137
 http://edge-01-pub.persik.by:82/live/Ch137pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch139pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Sluhay.by Граф Чапский
+http://edge-01-pub.persik.by:82/live/Ch138pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch139
 http://edge-01-pub.persik.by:82/live/Ch139pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch140pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch140
 http://edge-01-pub.persik.by:82/live/Ch140pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10963.png",PEACE TV
 http://edge-01-pub.persik.by:82/live/Ch141pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch145pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch142
+http://edge-01-pub.persik.by:82/live/Ch142pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch145
 http://edge-01-pub.persik.by:82/live/Ch145pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch146pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch146
 http://edge-01-pub.persik.by:82/live/Ch146pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch147pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch147
 http://edge-01-pub.persik.by:82/live/Ch147pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch148pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch148
 http://edge-01-pub.persik.by:82/live/Ch148pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Aillion
 http://edge-01-pub.persik.by:82/live/Ch149pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch150pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch150
 http://edge-01-pub.persik.by:82/live/Ch150pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch151pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch151
 http://edge-01-pub.persik.by:82/live/Ch151pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch152pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch152
 http://edge-01-pub.persik.by:82/live/Ch152pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch155pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch155
 http://edge-01-pub.persik.by:82/live/Ch155pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch157pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch157
 http://edge-01-pub.persik.by:82/live/Ch157pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch158pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch158
 http://edge-01-pub.persik.by:82/live/Ch158pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch159pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch159
 http://edge-01-pub.persik.by:82/live/Ch159pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch160pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch160
 http://edge-01-pub.persik.by:82/live/Ch160pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch161pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch161
 http://edge-01-pub.persik.by:82/live/Ch161pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10965.png",Любящие мамы
 http://edge-01-pub.persik.by:82/live/Ch162pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch163pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch163
 http://edge-01-pub.persik.by:82/live/Ch163pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch164pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch164
 http://edge-01-pub.persik.by:82/live/Ch164pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch167pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch167
 http://edge-01-pub.persik.by:82/live/Ch167pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch168pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch168
 http://edge-01-pub.persik.by:82/live/Ch168pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch170pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch170
 http://edge-01-pub.persik.by:82/live/Ch170pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch171pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch171
 http://edge-01-pub.persik.by:82/live/Ch171pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch172pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch172
 http://edge-01-pub.persik.by:82/live/Ch172pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾"  tvg-logo="https://sluhay.by/assets/logo_live.png",Sluhay.by Live
 http://edge-01-pub.persik.by:82/live/Ch173pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10834.png",Body Mania
 http://edge-01-pub.persik.by:82/live/Ch174pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch175pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch175
 http://edge-01-pub.persik.by:82/live/Ch175pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch176pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch176
 http://edge-01-pub.persik.by:82/live/Ch176pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch177pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch177
 http://edge-01-pub.persik.by:82/live/Ch177pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch178pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch178
 http://edge-01-pub.persik.by:82/live/Ch178pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10966.png",BE BIGGER | Мужской канал
 http://edge-01-pub.persik.by:82/live/Ch179pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch180pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch180
 http://edge-01-pub.persik.by:82/live/Ch180pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10680.png",Песни Для Детей HD
 http://edge-01-pub.persik.by:82/live/Ch181pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10744.png",BobCat Lynx Live/ Raccoon TV
 http://edge-01-pub.persik.by:82/live/Ch182pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch183pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch183
 http://edge-01-pub.persik.by:82/live/Ch183pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch186pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch186
 http://edge-01-pub.persik.by:82/live/Ch186pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch187pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch187
 http://edge-01-pub.persik.by:82/live/Ch187pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch194pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch194
 http://edge-01-pub.persik.by:82/live/Ch194pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch195pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch195
 http://edge-01-pub.persik.by:82/live/Ch195pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch196pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch196
 http://edge-01-pub.persik.by:82/live/Ch196pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch197pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch197
 http://edge-01-pub.persik.by:82/live/Ch197pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch199pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch199
 http://edge-01-pub.persik.by:82/live/Ch199pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch200pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch200
 http://edge-01-pub.persik.by:82/live/Ch200pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch202pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch202
 http://edge-01-pub.persik.by:82/live/Ch202pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch203pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch203
 http://edge-01-pub.persik.by:82/live/Ch203pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch205pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch205
 http://edge-01-pub.persik.by:82/live/Ch205pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch207pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch207
 http://edge-01-pub.persik.by:82/live/Ch207pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch208pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch208
 http://edge-01-pub.persik.by:82/live/Ch208pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch210pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch210
 http://edge-01-pub.persik.by:82/live/Ch210pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch219pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch219
 http://edge-01-pub.persik.by:82/live/Ch219pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch220pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch220
 http://edge-01-pub.persik.by:82/live/Ch220pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch221pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch221
 http://edge-01-pub.persik.by:82/live/Ch221pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch222pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch222
 http://edge-01-pub.persik.by:82/live/Ch222pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/11156.png",PhotoWebExpo
 http://edge-01-pub.persik.by:82/live/Ch223pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch224pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch224
 http://edge-01-pub.persik.by:82/live/Ch224pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch225pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch225
 http://edge-01-pub.persik.by:82/live/Ch225pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch226pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch226
 http://edge-01-pub.persik.by:82/live/Ch226pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch227pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch227
 http://edge-01-pub.persik.by:82/live/Ch227pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch228pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch228
 http://edge-01-pub.persik.by:82/live/Ch228pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch229pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch229
 http://edge-01-pub.persik.by:82/live/Ch229pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch230pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch230
 http://edge-01-pub.persik.by:82/live/Ch230pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch232pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch232
 http://edge-01-pub.persik.by:82/live/Ch232pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch233pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch233
 http://edge-01-pub.persik.by:82/live/Ch233pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch234pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch234
 http://edge-01-pub.persik.by:82/live/Ch234pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10844.png",BT Lite
 http://edge-01-pub.persik.by:82/live/Ch235pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_live.png",www.doma.fun
 http://edge-01-pub.persik.by:82/live/Ch236pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch237pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch237
 http://edge-01-pub.persik.by:82/live/Ch237pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/11115.png",Семейная кухня
 http://edge-01-pub.persik.by:82/live/Ch238pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch240pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch240
 http://edge-01-pub.persik.by:82/live/Ch240pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch241pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch241
 http://edge-01-pub.persik.by:82/live/Ch241pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch243pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch243
 http://edge-01-pub.persik.by:82/live/Ch243pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch244pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch244
 http://edge-01-pub.persik.by:82/live/Ch244pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch245pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch245
 http://edge-01-pub.persik.by:82/live/Ch245pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch246pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch246
 http://edge-01-pub.persik.by:82/live/Ch246pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch247pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch247
 http://edge-01-pub.persik.by:82/live/Ch247pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch248pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch248
 http://edge-01-pub.persik.by:82/live/Ch248pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Moyo Тебе
 http://edge-01-pub.persik.by:82/live/Ch250pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch251pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch251
 http://edge-01-pub.persik.by:82/live/Ch251pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch252pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch252
 http://edge-01-pub.persik.by:82/live/Ch252pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch253pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch253
 http://edge-01-pub.persik.by:82/live/Ch253pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch254pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch254
 http://edge-01-pub.persik.by:82/live/Ch254pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch255pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch255
 http://edge-01-pub.persik.by:82/live/Ch255pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch256pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch256
 http://edge-01-pub.persik.by:82/live/Ch256pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch257pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch257
 http://edge-01-pub.persik.by:82/live/Ch257pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch258pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch258
 http://edge-01-pub.persik.by:82/live/Ch258pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10888.png",Фишка
 http://edge-01-pub.persik.by:82/live/Ch259pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch261pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch260
+http://edge-01-pub.persik.by:82/live/Ch260pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch261
 http://edge-01-pub.persik.by:82/live/Ch261pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch263pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch263
 http://edge-01-pub.persik.by:82/live/Ch263pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch265pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch264
+http://edge-01-pub.persik.by:82/live/Ch264pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch265
 http://edge-01-pub.persik.by:82/live/Ch265pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch267pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch267
 http://edge-01-pub.persik.by:82/live/Ch267pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch269pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch269
 http://edge-01-pub.persik.by:82/live/Ch269pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch270pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch270
 http://edge-01-pub.persik.by:82/live/Ch270pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch271pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch271
 http://edge-01-pub.persik.by:82/live/Ch271pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch272pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch272
 http://edge-01-pub.persik.by:82/live/Ch272pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch273pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch273
 http://edge-01-pub.persik.by:82/live/Ch273pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch274pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch274
 http://edge-01-pub.persik.by:82/live/Ch274pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch275pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch275
 http://edge-01-pub.persik.by:82/live/Ch275pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch277pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch277
 http://edge-01-pub.persik.by:82/live/Ch277pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch278pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch278
 http://edge-01-pub.persik.by:82/live/Ch278pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch279pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch279
 http://edge-01-pub.persik.by:82/live/Ch279pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch280pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch280
 http://edge-01-pub.persik.by:82/live/Ch280pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch281pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch281
 http://edge-01-pub.persik.by:82/live/Ch281pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch282pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch282
 http://edge-01-pub.persik.by:82/live/Ch282pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch283pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch283
 http://edge-01-pub.persik.by:82/live/Ch283pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch284pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch284
 http://edge-01-pub.persik.by:82/live/Ch284pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch285pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch285
 http://edge-01-pub.persik.by:82/live/Ch285pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch286pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch286
 http://edge-01-pub.persik.by:82/live/Ch286pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch287pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch287
 http://edge-01-pub.persik.by:82/live/Ch287pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10915.png",Золотые ручки
 http://edge-01-pub.persik.by:82/live/Ch288pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch289pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch289
 http://edge-01-pub.persik.by:82/live/Ch289pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch290pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch290
 http://edge-01-pub.persik.by:82/live/Ch290pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch291pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch291
 http://edge-01-pub.persik.by:82/live/Ch291pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch292pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch292
 http://edge-01-pub.persik.by:82/live/Ch292pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch293pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch293
 http://edge-01-pub.persik.by:82/live/Ch293pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch296pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch296
 http://edge-01-pub.persik.by:82/live/Ch296pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch297pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch297
 http://edge-01-pub.persik.by:82/live/Ch297pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch298pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch298
 http://edge-01-pub.persik.by:82/live/Ch298pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch299pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch299
 http://edge-01-pub.persik.by:82/live/Ch299pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch300pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch300
 http://edge-01-pub.persik.by:82/live/Ch300pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch303pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch303
 http://edge-01-pub.persik.by:82/live/Ch303pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch304pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch304
 http://edge-01-pub.persik.by:82/live/Ch304pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch305pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch305
 http://edge-01-pub.persik.by:82/live/Ch305pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch306pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch306
 http://edge-01-pub.persik.by:82/live/Ch306pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Music Club
 http://edge-01-pub.persik.by:82/live/Ch307pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch311pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch311
 http://edge-01-pub.persik.by:82/live/Ch311pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch312pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch312
 http://edge-01-pub.persik.by:82/live/Ch312pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch313pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch313
 http://edge-01-pub.persik.by:82/live/Ch313pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch314pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch314
 http://edge-01-pub.persik.by:82/live/Ch314pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch315pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch315
 http://edge-01-pub.persik.by:82/live/Ch315pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_live.png",www.doma.fun
 http://edge-01-pub.persik.by:82/live/Ch316pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch317pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch317
 http://edge-01-pub.persik.by:82/live/Ch317pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10989.png",Сад-огород! LIFE
 http://edge-01-pub.persik.by:82/live/Ch318pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch319pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch319
 http://edge-01-pub.persik.by:82/live/Ch319pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch321pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch320
+http://edge-01-pub.persik.by:82/live/Ch320pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch321
 http://edge-01-pub.persik.by:82/live/Ch321pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch323pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Sluhay.by Андрей Сенькевич
+http://edge-01-pub.persik.by:82/live/Ch322pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch323
 http://edge-01-pub.persik.by:82/live/Ch323pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch324pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch324
 http://edge-01-pub.persik.by:82/live/Ch324pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10984.png",TheRelizzz / STUDIO
 http://edge-01-pub.persik.by:82/live/Ch325pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch326pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch326
 http://edge-01-pub.persik.by:82/live/Ch326pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch327pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch327
 http://edge-01-pub.persik.by:82/live/Ch327pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10990.png",Toys AndFun Sisters
 http://edge-01-pub.persik.by:82/live/Ch328pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch329pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch329
 http://edge-01-pub.persik.by:82/live/Ch329pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch330pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch330
 http://edge-01-pub.persik.by:82/live/Ch330pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch331pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch331
 http://edge-01-pub.persik.by:82/live/Ch331pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch332pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch332
 http://edge-01-pub.persik.by:82/live/Ch332pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch333pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch333
 http://edge-01-pub.persik.by:82/live/Ch333pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch334pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch334
 http://edge-01-pub.persik.by:82/live/Ch334pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch335pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch335
 http://edge-01-pub.persik.by:82/live/Ch335pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch336pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch336
 http://edge-01-pub.persik.by:82/live/Ch336pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch337pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch337
 http://edge-01-pub.persik.by:82/live/Ch337pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/11014.png",Адвокат Егоров
 http://edge-01-pub.persik.by:82/live/Ch338pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾"  tvg-logo="https://sluhay.by/assets/logo_live.png",Sluhay.by Egiazar
 http://edge-01-pub.persik.by:82/live/Ch341pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch342pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch342
 http://edge-01-pub.persik.by:82/live/Ch342pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch343pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch343
 http://edge-01-pub.persik.by:82/live/Ch343pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch345pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch345
 http://edge-01-pub.persik.by:82/live/Ch345pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Bro&Sis
 http://edge-01-pub.persik.by:82/live/Ch347pub/index.m3u8
@@ -4165,25 +4179,366 @@ http://edge-01-pub.persik.by:82/live/Ch349pub/index.m3u8
 http://edge-01-pub.persik.by:82/live/Ch350pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",РИА Новости
 http://edge-01-pub.persik.by:82/live/Ch351pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch352
+http://edge-01-pub.persik.by:82/live/Ch352pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by
 http://edge-01-pub.persik.by:82/live/Ch353pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by
 http://edge-01-pub.persik.by:82/live/Ch354pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/11092.png",Щи да Каша
 http://edge-01-pub.persik.by:82/live/Ch356pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch357pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch357
 http://edge-01-pub.persik.by:82/live/Ch357pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/11094.png",Волшебная еда
 http://edge-01-pub.persik.by:82/live/Ch358pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Markuts Band
 http://edge-01-pub.persik.by:82/live/Ch360pub/index.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",Ch361pub
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch361
 http://edge-01-pub.persik.by:82/live/Ch361pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by The Glithchhh
 http://edge-01-pub.persik.by:82/live/Ch362pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Априори
 http://edge-01-pub.persik.by:82/live/Ch363pub/index.m3u8
 
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch1
+http://foreign-default.persik.by:82/live/Ch001pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch2
+http://foreign-default.persik.by:82/live/Ch002pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch3
+http://foreign-default.persik.by:82/live/Ch003pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch4
+http://foreign-default.persik.by:82/live/Ch004pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch5
+http://foreign-default.persik.by:82/live/Ch005pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch6
+http://foreign-default.persik.by:82/live/Ch006pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch7
+http://foreign-default.persik.by:82/live/Ch007pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch8
+http://foreign-default.persik.by:82/live/Ch008pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch9
+http://foreign-default.persik.by:82/live/Ch009pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch10
+http://foreign-default.persik.by:82/live/Ch010pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch11
+http://foreign-default.persik.by:82/live/Ch011pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch12
+http://foreign-default.persik.by:82/live/Ch012pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch13
+http://foreign-default.persik.by:82/live/Ch013pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch14
+http://foreign-default.persik.by:82/live/Ch014pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch15
+http://foreign-default.persik.by:82/live/Ch015pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch16
+http://foreign-default.persik.by:82/live/Ch016pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch17
+http://foreign-default.persik.by:82/live/Ch017pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch18
+http://foreign-default.persik.by:82/live/Ch018pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch20
+http://foreign-default.persik.by:82/live/Ch020pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch21
+http://foreign-default.persik.by:82/live/Ch021pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch22
+http://foreign-default.persik.by:82/live/Ch022pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch23
+http://foreign-default.persik.by:82/live/Ch023pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch24
+http://foreign-default.persik.by:82/live/Ch024pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch25
+http://foreign-default.persik.by:82/live/Ch025pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch26
+http://foreign-default.persik.by:82/live/Ch026pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch27
+http://foreign-default.persik.by:82/live/Ch027pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch28
+http://foreign-default.persik.by:82/live/Ch028pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch29
+http://foreign-default.persik.by:82/live/Ch029pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch31
+http://foreign-default.persik.by:82/live/Ch031pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch32
+http://foreign-default.persik.by:82/live/Ch032pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch33
+http://foreign-default.persik.by:82/live/Ch033pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch34
+http://foreign-default.persik.by:82/live/Ch034pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch35
+http://foreign-default.persik.by:82/live/Ch035pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch36
+http://foreign-default.persik.by:82/live/Ch036pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch37
+http://foreign-default.persik.by:82/live/Ch037pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch38
+http://foreign-default.persik.by:82/live/Ch038pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch39
+http://foreign-default.persik.by:82/live/Ch039pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch40
+http://foreign-default.persik.by:82/live/Ch040pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch41
+http://foreign-default.persik.by:82/live/Ch041pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch42
+http://foreign-default.persik.by:82/live/Ch042pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch43
+http://foreign-default.persik.by:82/live/Ch043pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch45
+http://foreign-default.persik.by:82/live/Ch045pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch46
+http://foreign-default.persik.by:82/live/Ch046pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch48
+http://foreign-default.persik.by:82/live/Ch048pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch49
+http://foreign-default.persik.by:82/live/Ch049pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch51
+http://foreign-default.persik.by:82/live/Ch051pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch52
+http://foreign-default.persik.by:82/live/Ch052pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch54
+http://foreign-default.persik.by:82/live/Ch054pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch55
+http://foreign-default.persik.by:82/live/Ch055pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch56
+http://foreign-default.persik.by:82/live/Ch056pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch58
+http://foreign-default.persik.by:82/live/Ch058pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch59
+http://foreign-default.persik.by:82/live/Ch059pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch60
+http://foreign-default.persik.by:82/live/Ch060pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch61
+http://foreign-default.persik.by:82/live/Ch061pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch62
+http://foreign-default.persik.by:82/live/Ch062pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch63
+http://foreign-default.persik.by:82/live/Ch063pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch64
+http://foreign-default.persik.by:82/live/Ch064pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch65
+http://foreign-default.persik.by:82/live/Ch065pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch66
+http://foreign-default.persik.by:82/live/Ch066pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch67
+http://foreign-default.persik.by:82/live/Ch067pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch68
+http://foreign-default.persik.by:82/live/Ch068pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch69
+http://foreign-default.persik.by:82/live/Ch069pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch70
+http://foreign-default.persik.by:82/live/Ch070pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch71
+http://foreign-default.persik.by:82/live/Ch071pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch73
+http://foreign-default.persik.by:82/live/Ch073pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch74
+http://foreign-default.persik.by:82/live/Ch074pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch76
+http://foreign-default.persik.by:82/live/Ch076pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch77
+http://foreign-default.persik.by:82/live/Ch077pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch78
+http://foreign-default.persik.by:82/live/Ch078pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch79
+http://foreign-default.persik.by:82/live/Ch079pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch80
+http://foreign-default.persik.by:82/live/Ch080pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch82
+http://foreign-default.persik.by:82/live/Ch082pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch83
+http://foreign-default.persik.by:82/live/Ch083pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch84
+http://foreign-default.persik.by:82/live/Ch084pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch85
+http://foreign-default.persik.by:82/live/Ch085pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch86
+http://foreign-default.persik.by:82/live/Ch086pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch87
+http://foreign-default.persik.by:82/live/Ch087pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch89
+http://foreign-default.persik.by:82/live/Ch089pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch90
+http://foreign-default.persik.by:82/live/Ch090pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch91
+http://foreign-default.persik.by:82/live/Ch091pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch92
+http://foreign-default.persik.by:82/live/Ch092pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch94
+http://foreign-default.persik.by:82/live/Ch094pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch95
+http://foreign-default.persik.by:82/live/Ch095pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch99
+http://foreign-default.persik.by:82/live/Ch099pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch100
+http://foreign-default.persik.by:82/live/Ch100pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch101
+http://foreign-default.persik.by:82/live/Ch101pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch102
+http://foreign-default.persik.by:82/live/Ch102pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch103
+http://foreign-default.persik.by:82/live/Ch103pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch106
+http://foreign-default.persik.by:82/live/Ch106pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch107
+http://foreign-default.persik.by:82/live/Ch107pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch108
+http://foreign-default.persik.by:82/live/Ch108pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch109
+http://foreign-default.persik.by:82/live/Ch109pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch110
+http://foreign-default.persik.by:82/live/Ch110pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch112
+http://foreign-default.persik.by:82/live/Ch112pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch113
+http://foreign-default.persik.by:82/live/Ch113pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch114
+http://foreign-default.persik.by:82/live/Ch114pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch116
+http://foreign-default.persik.by:82/live/Ch116pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch117
+http://foreign-default.persik.by:82/live/Ch117pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch118
+http://foreign-default.persik.by:82/live/Ch118pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch119
+http://foreign-default.persik.by:82/live/Ch119pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch120
+http://foreign-default.persik.by:82/live/Ch120pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch122
+http://foreign-default.persik.by:82/live/Ch122pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch123
+http://foreign-default.persik.by:82/live/Ch123pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch125
+http://foreign-default.persik.by:82/live/Ch125pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch126
+http://foreign-default.persik.by:82/live/Ch126pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch127
+http://foreign-default.persik.by:82/live/Ch127pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch128
+http://foreign-default.persik.by:82/live/Ch128pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch129
+http://foreign-default.persik.by:82/live/Ch129pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch130
+http://foreign-default.persik.by:82/live/Ch130pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch132
+http://foreign-default.persik.by:82/live/Ch132pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch133
+http://foreign-default.persik.by:82/live/Ch133pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch134
+http://foreign-default.persik.by:82/live/Ch134pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch135
+http://foreign-default.persik.by:82/live/Ch135pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch136
+http://foreign-default.persik.by:82/live/Ch136pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch137
+http://foreign-default.persik.by:82/live/Ch137pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch138
+http://foreign-default.persik.by:82/live/Ch138pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch139
+http://foreign-default.persik.by:82/live/Ch139pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch140
+http://foreign-default.persik.by:82/live/Ch140pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch141
+http://foreign-default.persik.by:82/live/Ch141pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch142
+http://foreign-default.persik.by:82/live/Ch142pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch145
+http://foreign-default.persik.by:82/live/Ch145pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch146
+http://foreign-default.persik.by:82/live/Ch146pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch147
+http://foreign-default.persik.by:82/live/Ch147pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch148
+http://foreign-default.persik.by:82/live/Ch148pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch149
+http://foreign-default.persik.by:82/live/Ch149pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch150
+http://foreign-default.persik.by:82/live/Ch150pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch151
+http://foreign-default.persik.by:82/live/Ch151pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch152
+http://foreign-default.persik.by:82/live/Ch152pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch155
+http://foreign-default.persik.by:82/live/Ch155pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch157
+http://foreign-default.persik.by:82/live/Ch157pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch158
+http://foreign-default.persik.by:82/live/Ch158pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch159
+http://foreign-default.persik.by:82/live/Ch159pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch160
+http://foreign-default.persik.by:82/live/Ch160pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch161
+http://foreign-default.persik.by:82/live/Ch161pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch162
+http://foreign-default.persik.by:82/live/Ch162pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch163
+http://foreign-default.persik.by:82/live/Ch163pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch164
+http://foreign-default.persik.by:82/live/Ch164pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch167
+http://foreign-default.persik.by:82/live/Ch167pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch168
+http://foreign-default.persik.by:82/live/Ch168pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch170
+http://foreign-default.persik.by:82/live/Ch170pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch171
+http://foreign-default.persik.by:82/live/Ch171pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch172
+http://foreign-default.persik.by:82/live/Ch172pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch173
+http://foreign-default.persik.by:82/live/Ch173pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch174
+http://foreign-default.persik.by:82/live/Ch174pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch175
+http://foreign-default.persik.by:82/live/Ch175pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch176
+http://foreign-default.persik.by:82/live/Ch176pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch177
+http://foreign-default.persik.by:82/live/Ch177pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch178
+http://foreign-default.persik.by:82/live/Ch178pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch179
+http://foreign-default.persik.by:82/live/Ch179pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch180
+http://foreign-default.persik.by:82/live/Ch180pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch181
+http://foreign-default.persik.by:82/live/Ch181pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch182
+http://foreign-default.persik.by:82/live/Ch182pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch183
+http://foreign-default.persik.by:82/live/Ch183pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch186
+http://foreign-default.persik.by:82/live/Ch186pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch187
+http://foreign-default.persik.by:82/live/Ch187pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch194
+http://foreign-default.persik.by:82/live/Ch194pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch195
+http://foreign-default.persik.by:82/live/Ch195pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch196
+http://foreign-default.persik.by:82/live/Ch196pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch197
+http://foreign-default.persik.by:82/live/Ch197pub/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch199
+http://foreign-default.persik.by:82/live/Ch199pub/index.m3u8
+
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch102hd
+http://foreign-default.persik.by:82/livehq/Ch102hd/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch200hd
+http://foreign-default.persik.by:82/livehq/Ch200hd/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch241hd
+http://foreign-default.persik.by:82/livehq/Ch241hd/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch243hd
+http://foreign-default.persik.by:82/livehq/Ch243hd/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch251hd
+http://foreign-default.persik.by:82/livehq/Ch251hd/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch320hd
+http://foreign-default.persik.by:82/livehq/Ch320hd/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch323hd
+http://foreign-default.persik.by:82/livehq/Ch323hd/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch324hd
+http://foreign-default.persik.by:82/livehq/Ch324hd/index.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",foreign-Ch325hd
+http://foreign-default.persik.by:82/livehq/Ch325hd/index.m3u8
 
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://2mz.me/images/770120.jpg",Nature Relaxation
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
