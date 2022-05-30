@@ -155,7 +155,7 @@ https://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/playlist.m3u8
 http://195.26.83.96:7024/play/82
 
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://prwb.am/wp-content/uploads/2022/02/photo-230x230.jpg",Соловьёв Live
-https://a787200812-s27836.cdn.ngenix.net/hls/solovievlive/playlist_1.m3u8
+https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="sts" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
