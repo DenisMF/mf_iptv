@@ -252,7 +252,7 @@ https://mfe01.cliptv.az/dash/Avto_Plus_SD.ism/playlist.mpd
 https://streaming.astrakhan.ru/astrakhanrusporthd/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="belarus5" tvg-logo="https://iptvxcdn.ml/belarus5hd.png",Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+https://gdn01.varcdn.top/b5/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="belarus5" tvg-logo="https://iptvxcdn.ml/belarus5hd.png",Беларусь 5 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
@@ -311,8 +311,6 @@ http://158.101.197.217:2134/channel/n57d8419a/index.m3u8?q=cc66843c5c38698adab40
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg",A21 Network
 https://tv.a21network.ru/stream/37909/index.m3u8
 
-#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport1" tvg-logo="https://iptvxcdn.ml/eurosport1.png",Eurosport 1
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/12805
 #EXTINF:-1 group-title="Спортивные" tvg-id="eurosport1" tvg-logo="https://iptvxcdn.ml/eurosport1.png",Eurosport 1 HD
 https://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8
 
@@ -918,6 +916,9 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="bollywood-hd" tvg-logo="https://iptvxcdn.ml/bollywood-hd.png",Bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="bolt-ru" tvg-logo="https://iptvxcdn.ml/bolt.png",Bolt Россия
+http://okkotv-live.cdnvideo.ru/channel/Bolt_HD.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="cinema-ru" tvg-logo="https://iptvxcdn.ml/cinema-ru.png",Cinema
 https://sc.id-tv.kz/Cinema_36_37.m3u8
 
@@ -940,10 +941,13 @@ https://sc.id-tv.kz/FlixSnip_34_35.m3u8
 http://193.111.244.35:8001/fox/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="fox" tvg-logo="https://iptvxcdn.ml/fox.png",Fox HD
-http://185.37.150.46/Fox_HD/index.m3u8
+http://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="foxlife" tvg-logo="https://iptvxcdn.ml/foxlife.png",Fox Life
+http://193.111.244.35:8001/foxlife/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="foxlife" tvg-logo="https://iptvxcdn.ml/foxlife.png",Fox Life HD
-http://193.111.244.35:8001/foxlife/index.m3u8
+http://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hollywood" tvg-logo="https://iptvxcdn.ml/hollywood.png",Hollywood
 https://mfe02.cliptv.az/dash/AMC_SD.ism/playlist.mpd
@@ -961,10 +965,10 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=paramount_comedy
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=paramount_comedy
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="star-cinema" tvg-logo="https://iptvxcdn.ml/star-cinema.png",Star Cinema
-http://109.254.7.193:4022/udp/238.1.1.74:1234
+http://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="star-family" tvg-logo="https://iptvxcdn.ml/star-family.png",Star Family
-http://109.254.7.193:4022/udp/238.1.1.55:1234
+http://okkotv-live.cdnvideo.ru/channel/Star_Family_HD.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="start-air" tvg-logo="https://iptvxcdn.ml/start-air.png",START Air
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
@@ -1103,10 +1107,10 @@ https://mfe02.cliptv.az/dash/Nashe_Novoe_Kino_SD.ism/playlist.mpd
 http://109.200.130.124:15500/nst
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="ntv-serial" tvg-logo="https://iptvxcdn.ml/ntv-serial.png",НТВ Сериал
-https://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair11.smil/playlist.m3u8
+http://ntv-hls-orig.cdnvideo.ru/th_serial/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="ntv-xit" tvg-logo="https://iptvxcdn.ml/ntv-xit.png",НТВ Хит
-https://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair14.smil/playlist.m3u8
+http://ntv-hls-orig.cdnvideo.ru/th_hit/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="pobeda" tvg-logo="https://iptvxcdn.ml/pobeda.png",Победа
 https://pkvc-hls4.cdnvideo.ru/Pobeda/smil:Pobeda.smil/playlist.m3u8
@@ -1121,16 +1125,16 @@ http://46.174.83.66/Retro/index.m3u8
 https://mfe01.cliptv.az/dash/Rodnoe_Kino_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-bestseller" tvg-logo="https://iptvxcdn.ml/russky-bestseller.png",Русский бестселлер
-http://195.26.83.96:7024/play/80
+http://128.0.27.41:8080/239.211.211.137/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-detektiv" tvg-logo="https://iptvxcdn.ml/russky-detektiv.png",Русский детектив
 https://mfe02.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-illuzion" tvg-logo="https://iptvxcdn.ml/russky-illuzion.png",Русский иллюзион
-http://46.174.83.66/Illusion+/index.m3u8
+http://193.111.244.35:8001/rusilluzion/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-roman" tvg-logo="https://iptvxcdn.ml/russky-roman.png",Русский роман
-https://mfe02.cliptv.az/dash/Ruskiy_Roman_SD.ism/playlist.mpd
+http://50.7.92.90/Russkiy_roman_HD/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="russkaya-komedia"tvg-logo="https://iptvxcdn.ml/russkaya-komedia.png",Русская комедия
 https://zxcv.tv/player.m3u8?russkaya-komediya
@@ -1216,9 +1220,6 @@ https://hls.goodgame.ru/hls/153640.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="5135" tvg-logo="http://epg.it999.ru/img/5135.png",минимакс-ussr-фантастика HD
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13022/index.m3u
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.fulltv.com.ar/images/peliculas/m/ver-the-ninth.jpg",Российские сериалы
-http://140.238.127.147/streams/9.m3u8
-
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://televizor.org/img/logopit/%D0%A3%D0%B6%D0%B0%D1%81%20HD.png",Ужас HD
 https://v2.catcast.tv/content/41000/index.m3u8
 
@@ -1301,7 +1302,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-id="mama" tvg-logo="https://iptvxcdn.ml/mama.png",Мама
-https://mfe01.cliptv.az/dash/Mama_SD_542.ism/playlist.mpd
+http://bsttv.bonus-tv.ru/cdn/mama/playlist.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-id="mult" tvg-logo="https://iptvxcdn.ml/mult.png",Мульт
 https://sc.id-tv.kz/Mult_34_35.m3u8
@@ -1351,9 +1352,6 @@ https://live-1.otcnet.ru/onehdweb/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="backustv-music" tvg-logo="http://epg.it999.ru/img2/6262.png",BackusTV Music
 https://stream.backustv.ru/live/forilooktv/index.m3u8
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="6008" tvg-logo="http://epg.it999.ru/img2/6008.png",Best Live Performances
-http://140.238.127.147/streams/3.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv" tvg-logo="https://iptvxcdn.ml/bridge-tv.png",Bridge TV
 https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
@@ -1421,9 +1419,6 @@ https://live.prd.dlive.tv/hls/live/fila007.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="russian-ru-tv" tvg-logo="https://iptvxcdn.ml/ru-tv.png",RU.TV HD
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
 
-#EXTINF:-1 group-title="Музыкальные" tvg-id="5373" tvg-logo="http://epg.it999.ru/img2/5373.png",Russian Dance Hits of 90s
-http://140.238.127.147/streams/4.m3u8
-
 #EXTINF:-1 group-title="Музыкальные" tvg-id="russian-musicbox" tvg-logo="https://iptvxcdn.ml/russian-musicbox.png",Russian MusicBox
 https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 
@@ -1478,7 +1473,7 @@ https://kino-1.catcast.tv/content/37742/index.m3u8
 https://kino-1.catcast.tv/content/37739/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muzyka-pervogo" tvg-logo="https://iptvxcdn.ml/muzyka-pervogo.png",Музыка Первого
-http://89.104.114.26:8080/muz-pervogo/index.m3u8
+http://128.0.27.41:8080/239.211.211.196/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="5375" tvg-logo="http://epg.it999.ru/img2/5375.png",Новое радио
 https://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
@@ -1509,9 +1504,6 @@ http://lova.me/hls/hithd.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://reklabank.ru/wp-content/uploads/2020/03/Radio_Shanson-300x300.jpg",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="5372" tvg-logo="http://epg.it999.ru/img2/5372.png",Русская попса 80х-90х
-http://140.238.127.147/streams/6.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="radio-strana-fm-tv" tvg-logo="https://iptvxcdn.ml/radio-strana-fm-tv.png",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
@@ -1618,15 +1610,6 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/917142.5445ac20bf76b.jpg",CMT Music
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://img.utdstc.com/icon/92c/3de/92c3dec976c82600073a140bd425e00f8450d88dec3552754714202655110e73",Company TV HD
-http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/4jfSTKz/contact.jpg",Contact Vision
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-id="5371" tvg-logo="http://epg.it999.ru/img2/5371.png",Dance Hits of 90s
-http://140.238.127.147/streams/1.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/09/ea/4a/09ea4a04-74db-2e6e-1075-3784435a197b/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.png",DBM TV HD
 http://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
@@ -1808,9 +1791,6 @@ http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://ai-i1.infcdn.net/icons_siandroid/png/og/13639/13639521.png",Radio Ibiza TV
 http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.tv14.net/wp-content/uploads/2013/04/Radio-Italia-TV-logo.jpg",Radio Italia
-https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://podcast-api-images.s3.amazonaws.com/podcast_logo_40908_300x300.jpg",Radio Javan TV
 http://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
 
@@ -1850,9 +1830,6 @@ https://fms-https1.mediadirect.ro/live3/rocktv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png",Rouge TV
 https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-id="6009" tvg-logo="http://epg.it999.ru/img2/6009.png",Romantic & Ballads
-http://140.238.127.147/streams/8.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://s1.hostingkartinok.com/uploads/images/2021/10/383d416eea71271fdc05f86d11c86cff.png",RTV Altea HD
 http://54.38.156.56/live/stream/index.m3u8
 
@@ -1861,9 +1838,6 @@ http://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="shant-music-hd" tvg-logo="https://iptvxcdn.ml/shant-music.png",Shant Music HD
 http://5.188.172.179/Shant-Music/index.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="http://i114.fastpic.ru/big/2021/0325/e0/e1d3362853ea8cb828ead9600d5afbe0.png",Smash Music HD
-http://a3.smashmalta.com:82/live/smash/smash/8.ts
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.phonostar.de/images/auto_created/sonus_fm184x184.png",Sonus
 http://sonus.fm:1935/public/stream_in/playlist.m3u8
@@ -1913,9 +1887,6 @@ https://tis.catcast.tv/content/391/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="5597" tvg-logo="http://epg.it999.ru/img2/5597.png",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.ecanlitvizle.live/logo/tvo-canli-yayin.png",TVO HD
-https://eu1.servers10.com:8081/8138/index.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="http://pager.nnov.ru/appletv/images/150x150/tvm3.jpg",TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 
@@ -1931,17 +1902,11 @@ http://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/m
 #EXTINF:-1 group-title="Music" tvg-id="491" tvg-logo="http://epg.it999.ru/img/491.png",VH1 European
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://s3.amazonaws.com/ctm-tm/004099941.JPG",Visual Radio TV
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="http://www.sat-charts.eu/img/voxmusictv.jpg",VOX Music TV
 http://193.32.37.17:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://lh3.googleusercontent.com/sRSHk2uUxo1twElqGZqnV15wTClD-nYSlz_ZcAjNhw21BidyQcgRXEWqI5bHySX8YFs=w300",Vuemme TV
 http://5db313b643fd8.streamlock.net:1935/Vuemme/Vuemme/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://suzukantv.at.ua/LOGO-IPTV/NAGO_TV.png",World Street Music
-https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522787773_xite.jpg",XITE HD (DE)
 https://xite-samsung-de.amagi.tv/playlist.m3u8
@@ -1975,7 +1940,7 @@ https://livetv.mylifeisgood.ml/channels/discoverydtx
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="hd-life" tvg-logo="https://iptvxcdn.ml/hdl.png",HDL
-http://46.174.83.66/HDL/index.m3u8
+https://sc.id-tv.kz/hdl_34_35.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="history-ru" tvg-logo="https://iptvxcdn.ml/history-hd.png",History
 https://mfe02.cliptv.az/dash/History_HD.ism/playlist.mpd
@@ -2065,7 +2030,7 @@ https://wfcrus.mediacdn.ru/cdn/wfcrusm/playlist.m3u8
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="zoopark" tvg-logo="https://iptvxcdn.ml/zoopark.png",ZooПарк
-http://46.174.83.66/Zoopark/index.m3u8
+http://91.219.23.234:8000/play/523/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://smotret.tv/images/astrolog-tv.webp",Астролог ТВ
 https://api.alpaca.t62a.com/hls/9113/stream0.m3u8
@@ -2077,10 +2042,7 @@ https://pkvc-hls4.cdnvideo.ru/Bober/smil:Bober.smil/playlist.m3u8
 http://mhd.iptv2022.com/p/HZaqf_NA7UsXImfIJqpBJQ,1652915211/streaming/bigasia/324/1/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="voprosy-i-otvety" tvg-logo="https://iptvxcdn.ml/voprosy-i-otvety.png",Вопросы и ответы
-http://46.174.83.66/Voprosy_i_otvety/index.m3u8
-
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://efir.genproc.gov.ru/assets/frontend/img/gerb-top.png",Генпрокуратура ТВ
-https://flussonic.genproc.gov.ru/playlist/index.m3u8
+http://91.219.23.234:8000/play/31/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="glazami-turista" tvg-logo="https://iptvxcdn.ml/glazami-turista.png",Глазами туриста
 https://zxcv.tv/player.m3u8?glazami-turista-hd
@@ -2095,10 +2057,10 @@ https://zxcv.tv/player.m3u8?dikaya-ohota-hd
 https://zxcv.tv/player.m3u8?dikaya-ribalka-hd
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikiy" tvg-logo="https://iptvxcdn.ml/dikiy.png",Дикий
-https://okkotv-live.cdnvideo.ru/channel/Dikiy.m3u8
+http://mfe02.cliptv.az/dash/Dikiy_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="doktor" tvg-logo="https://iptvxcdn.ml/doktor.png",Доктор
-http://89.104.114.26:8080/doctor/index.m3u8
+http://195.161.68.177:8000/play/a002/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://app.playlistbox.com/icon/mrKve0kgRq96yxLGLaoQjNld35WLBJ1w.png",ДОКУ
 https://edge-01.kino.watch/docu/index.m3u8
@@ -2107,7 +2069,7 @@ https://edge-01.kino.watch/docu/index.m3u8
 http://pl.iptv.monster/121/video.m3u8?token=FE79B35BF2A5372
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="eda" tvg-logo="https://iptvxcdn.ml/eda.png",Еда
-http://89.104.114.26:8080/eda_hd/index.m3u8
+http://128.0.27.41:8080/239.211.200.14/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="eda-hd" tvg-logo="https://iptvxcdn.ml/eda-hd.png",Еда Премиум
 https://sc.id-tv.kz/EdaHD_34_35.m3u8
@@ -2119,16 +2081,16 @@ http://89.104.114.26:8080/zhivaya-planeta/index.m3u8
 https://livetv.mylifeisgood.ml/channels/jivyapriroda
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-priroda" tvg-logo="https://iptvxcdn.ml/zhivaya-priroda.png",Живая природа HD
-http://89.104.114.26:8080/jivaya_priroda_hd/index.m3u8
+http://128.0.27.41:8080/239.211.211.105/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="zagorodnaya-zhizn" tvg-logo="https://iptvxcdn.ml/zagorodnaya-zhizn.png",Загородная жизнь
 https://mfe02.cliptv.az/dash/Zagorodnaya_Jizn_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="zdorovoe-tv" tvg-logo="https://iptvxcdn.ml/zdorovoe-tv.png",Здоровое ТВ
-http://46.174.83.66/Zdorovoe_TV/index.m3u8
+http://195.161.68.177:8000/play/a001/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="istoria" tvg-logo="https://iptvxcdn.ml/istoria.png",История
-http://89.104.114.26:8080/istoriya/index.m3u8
+http://128.0.27.41:8080/239.211.211.55/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="kaleydoskop-tv" tvg-logo="https://iptvxcdn.ml/kaleydoskop.png",Калейдоскоп ТВ
 https://okkotv-live.cdnvideo.ru/channel/Kaleidoskop.m3u8
@@ -2137,7 +2099,7 @@ https://okkotv-live.cdnvideo.ru/channel/Kaleidoskop.m3u8
 https://ai5dhpwuk8j.a.trbcdn.net/livemaster/lr4wy_live-b9nqfoyk6i9.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="kto-est-kto" tvg-logo="https://iptvxcdn.ml/kto-est-kto.png",Кто есть кто
-http://89.104.114.26:8080/kto-est-kto/index.m3u8
+http://128.0.27.41:8080/239.211.211.192/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="mir-uvlecheniy" tvg-logo="https://iptvxcdn.ml/mir-uvlecheniy.png",Кто Куда
 http://217.11.177.57/streams/media/mir-uvlecheniy_720x576/index.m3u8
@@ -2155,10 +2117,10 @@ http://strm.yandex.ru/kal/mitvokrug/mitvokrug0.m3u8
 https://live.mosobr.tv/mosobrtv.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="moya-planeta" tvg-logo="https://iptvxcdn.ml/moya-planeta.png",Моя планета
-https://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/playlist.m3u8
+https://zxcv.tv/player.m3u8?moya-planeta
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="morskoy" tvg-logo="https://iptvxcdn.ml/morskoy.png",Моя Стихия HD
-http://46.174.83.66/Morskoi_HD/index.m3u8
+https://zxcv.tv/player.m3u8?moya-stihiya
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="muzhskoy" tvg-logo="https://iptvxcdn.ml/muzhskoy.png",Мужской
 https://sc.id-tv.kz/Mujskoi_34_35.m3u8
@@ -2167,7 +2129,7 @@ https://sc.id-tv.kz/Mujskoi_34_35.m3u8
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="nauka-20" tvg-logo="https://iptvxcdn.ml/nauka-20.png",Наука 2.0
-http://37.17.12.119:8911/play/a00j
+https://zxcv.tv/player.m3u8?nauka-20
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="nebesa-tv7" tvg-logo="https://iptvxcdn.ml/nebesa-tv7.png",Небеса ТВ7
 http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
@@ -2176,10 +2138,10 @@ http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
 https://mfe02.cliptv.az/dash/Nostalgiya_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="ntv-pravo" tvg-logo="https://iptvxcdn.ml/ntv-pravo.png",НТВ Право
-https://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair13.smil/playlist.m3u8
+http://ntv-hls-orig.cdnvideo.ru/th_pravo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="ntv-style" tvg-logo="https://iptvxcdn.ml/ntv-style.png",НТВ Стиль
-https://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair12.smil/playlist.m3u8
+http://ntv-hls-orig.cdnvideo.ru/th_style/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://smotret.tv/images/o-kino.webp",О, Кино!
 http://193.33.240.8:8080/nashe/index.m3u8
@@ -2190,17 +2152,11 @@ https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=5693deeaaba22822cf4f
 #EXTINF:-1 group-title="Познавательные" tvg-id="oruzhie" tvg-logo="https://iptvxcdn.ml/oruzhie.png",Оружие
 https://livetv.mylifeisgood.ml/channels/oruzhie
 
-#EXTINF:-1 group-title="Познавательные" tvg-id="6020" tvg-logo="http://epg.it999.ru/img2/6020.png",ОСП-студия HD
-http://140.238.127.147/streams/5.m3u8
-
 #EXTINF:-1 group-title="Познавательные" tvg-id="oxota-i-rybalka" tvg-logo="https://iptvxcdn.ml/oxota-i-rybalka.png",Охота и Рыбалка
 https://mfe01.cliptv.az/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="eureka-hd" tvg-logo="https://iptvxcdn.ml/kosmichesky.png",Первый космический HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=firstspace
-
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://medalmanah.ru/upload/publication/1496356649.png",Первый Медицинский канал
-https://mediasphera-htlive.cdn.ngenix.net/live/_definst_/adaptive.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="poexali" tvg-logo="https://iptvxcdn.ml/poexali.png",Поехали!
 https://sc.id-tv.kz/poehali_34_35.m3u8
@@ -2215,7 +2171,7 @@ https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="psixologia-21" tvg-logo="https://iptvxcdn.ml/psixologia-21.png",Психология 21
-http://46.174.83.66/Psihologiya21/index.m3u8
+http://91.219.23.234:8000/play/36/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="ratnik" tvg-logo="https://iptvxcdn.ml/ratnik.png",Ратник
 https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
@@ -2254,7 +2210,7 @@ http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 http://live-1.otcnet.ru/tvextra720b/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="teatr" tvg-logo="https://iptvxcdn.ml/teatr.png",Театр
-http://89.104.114.26:8080/strk_hd/index.m3u8
+http://193.111.244.35:8001/teatr/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="e-tv" tvg-logo="https://iptvxcdn.ml/e-tv.png",Телеканал Е HD
 http://cdn-01.bonus-tv.ru:80/gsl/playlist.m3u8
@@ -2272,7 +2228,7 @@ https://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
 https://hls.tv.3angels.ru/stream/HQ.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="usadba" tvg-logo="https://iptvxcdn.ml/usadba.png",Усадьба
-http://46.174.83.66/Usadba/index.m3u8
+http://91.219.23.234:8000/play/29/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="centralnoye-tv" tvg-logo="https://iptvxcdn.ml/centralnoye-tv.png",Центральное телевидение
 https://strm.yandex.ru/kal/ctv/ctv0.m3u8
@@ -2382,7 +2338,7 @@ https://stream.kaztrk.kz/regional/oskementv/index.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="arirang" tvg-logo="https://iptvxcdn.ml/arirang.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
-http://dmitry-tv.ml/hls/zabava/region/DV_HVSK/CH_ARIRANGKOREA.m3u8
+http://dmitry-tv.ddns.net:60/hls/region/CH_ARIRANGKOREA_DV_HVSK.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="cbc-az" tvg-logo="https://iptvxcdn.ml/cbc-az.png",*CBC
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
@@ -3721,6 +3677,536 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
 
 
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",ОНТ
+http://persik.by/stream/1234/3/111.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",ОНТ HD
+http://persik.by/stream/1234/3/10409.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",AMEDIA Premium HD
+http://persik.by/stream/1234/3/643.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Ru.TV
+http://persik.by/stream/1234/3/10261.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Беларусь 1
+http://persik.by/stream/1234/3/118.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Беларусь 1 HD
+http://persik.by/stream/1234/3/10405.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Беларусь 2
+http://persik.by/stream/1234/3/148.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Беларусь 24
+http://persik.by/stream/1234/3/10200.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",РТР-Беларусь
+http://persik.by/stream/1234/3/700.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",НТВ-Беларусь
+http://persik.by/stream/1234/3/699.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",СТВ
+http://persik.by/stream/1234/3/115.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Беларусь 3
+http://persik.by/stream/1234/3/883.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Беларусь 5
+http://persik.by/stream/1234/3/932.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",МИР
+http://persik.by/stream/1234/3/176.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",1000 Секретов Силы
+http://persik.by/stream/1234/3/11116.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Aillion
+http://persik.by/stream/1234/3/11101.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",AkStar
+http://persik.by/stream/1234/3/10932.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Alex TubeFun
+http://persik.by/stream/1234/3/10991.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Allmedia
+http://persik.by/stream/1234/3/11088.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Alpha Mods
+http://persik.by/stream/1234/3/11119.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Among Your Gods
+http://persik.by/stream/1234/3/11127.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",ATESTA
+http://persik.by/stream/1234/3/10603.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",AuRuM TV
+http://persik.by/stream/1234/3/11120.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",BA Recipes | Enjoy cooking
+http://persik.by/stream/1234/3/10818.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",BE BIGGER | Мужской канал
+http://persik.by/stream/1234/3/10966.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Big SEM
+http://persik.by/stream/1234/3/11174.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",BT Lite
+http://persik.by/stream/1234/3/10844.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Cheers! Напитки
+http://persik.by/stream/1234/3/10816.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Christ
+http://persik.by/stream/1234/3/11126.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Coffi Channel
+http://persik.by/stream/1234/3/11142.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",COMEDY BOX
+http://persik.by/stream/1234/3/10612.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Cotton Buds
+http://persik.by/stream/1234/3/11235.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Coup de Coeur Online
+http://persik.by/stream/1234/3/10532.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Demi Mo
+http://persik.by/stream/1234/3/11232.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",DheroesC
+http://persik.by/stream/1234/3/11175.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",DiDiKa TV
+http://persik.by/stream/1234/3/11113.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",DJ
+http://persik.by/stream/1234/3/11225.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",DomaFun HD
+http://persik.by/stream/1234/3/11058.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Dream Fairy DIY
+http://persik.by/stream/1234/3/10924.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Egiazar
+http://persik.by/stream/1234/3/11080.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Elena Matveeva
+http://persik.by/stream/1234/3/10664.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Emily Tube
+http://persik.by/stream/1234/3/11019.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Etsinancy
+http://persik.by/stream/1234/3/11238.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Europa Plus TV
+http://persik.by/stream/1234/3/682.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Fishing TV - рыболовный канал
+http://persik.by/stream/1234/3/10630.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",flynutrition
+http://persik.by/stream/1234/3/10620.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",FOX Russia
+http://persik.by/stream/1234/3/10234.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Funny Games TV
+http://persik.by/stream/1234/3/11141.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",HITS
+http://persik.by/stream/1234/3/11245.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Horror Movies
+http://persik.by/stream/1234/3/11166.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",iling show
+http://persik.by/stream/1234/3/10505.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Info
+http://persik.by/stream/1234/3/10681.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Jazz
+http://persik.by/stream/1234/3/10488.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Kids TubeFun
+http://persik.by/stream/1234/3/10992.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Kosmo
+http://persik.by/stream/1234/3/10509.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Lear
+http://persik.by/stream/1234/3/11240.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Lenadi
+http://persik.by/stream/1234/3/11125.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",LIFE Адреналин
+http://persik.by/stream/1234/3/10979.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",M J Rock Band
+http://persik.by/stream/1234/3/11241.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Markuts Band
+http://persik.by/stream/1234/3/11106.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Megakip MK
+http://persik.by/stream/1234/3/11229.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Minsk 4K (Ultra HD)
+http://persik.by/stream/1234/3/10605.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",MMA Time 
+http://persik.by/stream/1234/3/10648.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",More EmilyTube
+http://persik.by/stream/1234/3/11020.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",MOYO TEBE
+http://persik.by/stream/1234/3/11111.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",MY GALAXY
+http://persik.by/stream/1234/3/10938.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",National Geographic
+http://persik.by/stream/1234/3/10210.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",National Geographic HD
+http://persik.by/stream/1234/3/10243.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",notebook-31
+http://persik.by/stream/1234/3/10995.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",OliA
+http://persik.by/stream/1234/3/11176.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Pastime Time
+http://persik.by/stream/1234/3/10566.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",PEACE TV
+http://persik.by/stream/1234/3/10963.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",PhotoWebExpo
+http://persik.by/stream/1234/3/11156.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Rainbow Learning
+http://persik.by/stream/1234/3/11162.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Real Men Real Style
+http://persik.by/stream/1234/3/11153.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Relax
+http://persik.by/stream/1234/3/11223.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Samodelki Vitmana
+http://persik.by/stream/1234/3/10611.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Serega Master
+http://persik.by/stream/1234/3/10536.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Serega Otvertka
+http://persik.by/stream/1234/3/10508.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",SFU Production
+http://persik.by/stream/1234/3/11044.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Short History
+http://persik.by/stream/1234/3/10913.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Sluhay RADIO
+http://persik.by/stream/1234/3/11170.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Sluhay.by
+http://persik.by/stream/1234/3/10970.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Sluhay.by COVER
+http://persik.by/stream/1234/3/11102.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Sluhay.by EDM
+http://persik.by/stream/1234/3/10973.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Sluhay.by LIVE
+http://persik.by/stream/1234/3/10975.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Sluhay.by MOVA
+http://persik.by/stream/1234/3/11083.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Sluhay.by POP
+http://persik.by/stream/1234/3/10972.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Sluhay.by RAP
+http://persik.by/stream/1234/3/10974.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Sluhay.by ROCK
+http://persik.by/stream/1234/3/10971.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Smile Toys Review
+http://persik.by/stream/1234/3/11163.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Synthwave
+http://persik.by/stream/1234/3/11244.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Tanya Rybakova
+http://persik.by/stream/1234/3/10961.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Tasty food
+http://persik.by/stream/1234/3/10626.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Techno-Kitchen
+http://persik.by/stream/1234/3/10997.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",TECHNOZON
+http://persik.by/stream/1234/3/11157.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",TerlKabot channel
+http://persik.by/stream/1234/3/11173.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",The Glitchhh
+http://persik.by/stream/1234/3/11109.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",TheWolfstalker
+http://persik.by/stream/1234/3/10494.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",TopRelaxMusic
+http://persik.by/stream/1234/3/10514.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Travel Blog HD
+http://persik.by/stream/1234/3/10706.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Travel Light HD
+http://persik.by/stream/1234/3/10705.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",VAR
+http://persik.by/stream/1234/3/11160.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",ViteC ► Play
+http://persik.by/stream/1234/3/11140.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Workout - Будь в форме!
+http://persik.by/stream/1234/3/11121.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",XTIP
+http://persik.by/stream/1234/3/11124.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",YuraPaPu - Жизнь в Финляндии
+http://persik.by/stream/1234/3/10939.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Абаддон
+http://persik.by/stream/1234/3/10926.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Авиамания
+http://persik.by/stream/1234/3/10510.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Авто Плюс
+http://persik.by/stream/1234/3/311.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Адвокат Егоров
+http://persik.by/stream/1234/3/11014.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Алекс гараж
+http://persik.by/stream/1234/3/11150.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Американские комедии
+http://persik.by/stream/1234/3/11236.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Андрей Сенькевич
+http://persik.by/stream/1234/3/10607.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Априори
+http://persik.by/stream/1234/3/11110.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Бандероль
+http://persik.by/stream/1234/3/11219.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Беларусь 2 HD
+http://persik.by/stream/1234/3/10406.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Беларусь 24 HD
+http://persik.by/stream/1234/3/10712.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Беларусь 3 HD
+http://persik.by/stream/1234/3/10407.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Беларусь 5 HD
+http://persik.by/stream/1234/3/10408.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Бесплатная подписка
+http://persik.by/stream/1234/3/11070.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Би-Би-Знайки HD
+http://persik.by/stream/1234/3/10497.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Братья Рыбаки
+http://persik.by/stream/1234/3/10636.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Бро&Сис - Детские Песни
+http://persik.by/stream/1234/3/11011.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Бродский
+http://persik.by/stream/1234/3/11217.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Вагончик игрушек
+http://persik.by/stream/1234/3/11148.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",ВКУСНЫЕ РЕЦЕПТЫ с Еленой Хусаиновой
+http://persik.by/stream/1234/3/11108.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Военные фильмы
+http://persik.by/stream/1234/3/11167.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Вокруг рыбалки
+http://persik.by/stream/1234/3/10660.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Волшебная еда
+http://persik.by/stream/1234/3/11094.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",ВТВ
+http://persik.by/stream/1234/3/139.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",ВТВ HD
+http://persik.by/stream/1234/3/10719.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Выпечка и кулинария
+http://persik.by/stream/1234/3/11091.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Гастролер
+http://persik.by/stream/1234/3/10985.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Гейминг HD
+http://persik.by/stream/1234/3/10703.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Гостиницы Беларуси
+http://persik.by/stream/1234/3/10673.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Граф Чапский
+http://persik.by/stream/1234/3/10634.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Гурт Раница
+http://persik.by/stream/1234/3/11233.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Давай поженимся
+http://persik.by/stream/1234/3/11227.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Детективные сериалы HD
+http://persik.by/stream/1234/3/11179.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Детки HD
+http://persik.by/stream/1234/3/10732.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Диггеры
+http://persik.by/stream/1234/3/11087.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Другая кухня
+http://persik.by/stream/1234/3/10813.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Друид Феофан
+http://persik.by/stream/1234/3/11077.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Дымоход
+http://persik.by/stream/1234/3/11144.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Ешь и Худей
+http://persik.by/stream/1234/3/11151.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Животные HD
+http://persik.by/stream/1234/3/10737.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Закон Оригами
+http://persik.by/stream/1234/3/11228.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",ЗНАЮ ВСЁ
+http://persik.by/stream/1234/3/10918.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",ЗОЖ HD
+http://persik.by/stream/1234/3/10708.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Золотые ручки
+http://persik.by/stream/1234/3/10915.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Иван Зенкевич PRO автомобили
+http://persik.by/stream/1234/3/11090.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Игорь Бурцев
+http://persik.by/stream/1234/3/11172.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",ИнДизайн
+http://persik.by/stream/1234/3/10962.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",История. Интересно!
+http://persik.by/stream/1234/3/10914.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Канал Виталика Игнатюка
+http://persik.by/stream/1234/3/10563.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Кик Обзор
+http://persik.by/stream/1234/3/10994.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Кино Мира
+http://persik.by/stream/1234/3/10925.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Кино по книгам
+http://persik.by/stream/1234/3/11216.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Кино про супергероев
+http://persik.by/stream/1234/3/11226.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Кино про шпионов
+http://persik.by/stream/1234/3/11239.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Кино-антистресс
+http://persik.by/stream/1234/3/11213.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",КиноБлог HD
+http://persik.by/stream/1234/3/10692.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Киномикс
+http://persik.by/stream/1234/3/608.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Кинопремьера
+http://persik.by/stream/1234/3/34.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Кинопремьера HD
+http://persik.by/stream/1234/3/10240.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Киносвидание
+http://persik.by/stream/1234/3/30.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Киносемья
+http://persik.by/stream/1234/3/590.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Кинохит
+http://persik.by/stream/1234/3/213.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Китай Удивляй
+http://persik.by/stream/1234/3/10852.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Клуб рыбаков. Рыбалка. Club fishermen.
+http://persik.by/stream/1234/3/10596.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Коктейль Шаляпина
+http://persik.by/stream/1234/3/11231.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Комедии про негров
+http://persik.by/stream/1234/3/11230.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Комедийные боевики
+http://persik.by/stream/1234/3/11237.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Комедийные фильмы HD
+http://persik.by/stream/1234/3/11168.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Крамола
+http://persik.by/stream/1234/3/10909.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Кулинар HD
+http://persik.by/stream/1234/3/10700.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Кулинарный микс
+http://persik.by/stream/1234/3/10774.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",КХЛ HD
+http://persik.by/stream/1234/3/10242.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",КХЛ ТВ
+http://persik.by/stream/1234/3/604.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Лера и Марк
+http://persik.by/stream/1234/3/10952.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",ЛЕСНЫЕ
+http://persik.by/stream/1234/3/10635.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Лига Злодеев
+http://persik.by/stream/1234/3/11055.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Лунный Ландшафт
+http://persik.by/stream/1234/3/10923.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Любящие мамы
+http://persik.by/stream/1234/3/10965.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Люди PRO
+http://persik.by/stream/1234/3/10959.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Мастер HD
+http://persik.by/stream/1234/3/10695.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Мимилашка
+http://persik.by/stream/1234/3/11114.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Мини-сериалы
+http://persik.by/stream/1234/3/11177.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Муви ТВ
+http://persik.by/stream/1234/3/11208.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Мужское кино
+http://persik.by/stream/1234/3/10025.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Мужское кино HD
+http://persik.by/stream/1234/3/10368.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",МультиЁж
+http://persik.by/stream/1234/3/10541.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Наша кухня (new)
+http://persik.by/stream/1234/3/11134.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Наше новое кино
+http://persik.by/stream/1234/3/260.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Новая реальность
+http://persik.by/stream/1234/3/11154.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Новогодние мультфильмы
+http://persik.by/stream/1234/3/10982.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Новогодние фильмы HD
+http://persik.by/stream/1234/3/11158.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Носики Курносики
+http://persik.by/stream/1234/3/11050.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",НТВ-Беларусь HD
+http://persik.by/stream/1234/3/11183.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Нямiга
+http://persik.by/stream/1234/3/11234.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Около рыбалки. Андропов
+http://persik.by/stream/1234/3/10978.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Ольга Матвей 
+http://persik.by/stream/1234/3/10623.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Оружейный барон
+http://persik.by/stream/1234/3/10940.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",ПАПА ДОМА
+http://persik.by/stream/1234/3/11054.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",ПАПА РОБ ШОУ
+http://persik.by/stream/1234/3/11053.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Перец International
+http://persik.by/stream/1234/3/10273.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Песни Для Детей HD
+http://persik.by/stream/1234/3/10680.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Подписка SLUHAY бесплатно
+http://persik.by/stream/1234/3/11074.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Покашеварим
+http://persik.by/stream/1234/3/10586.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",ПОЛЕЗНЫЕ СОВЕТЫ MIX
+http://persik.by/stream/1234/3/10529.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Поп Наука
+http://persik.by/stream/1234/3/11218.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",ПриветТачка
+http://persik.by/stream/1234/3/10575.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Природа
+http://persik.by/stream/1234/3/10742.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Про авто
+http://persik.by/stream/1234/3/11089.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Про рысей
+http://persik.by/stream/1234/3/10743.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Простой рецепт
+http://persik.by/stream/1234/3/11165.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Профессор ГУГЛОВ
+http://persik.by/stream/1234/3/10503.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Путешествия
+http://persik.by/stream/1234/3/10653.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Радость моя
+http://persik.by/stream/1234/3/10272.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Рецепты Bon Appetit
+http://persik.by/stream/1234/3/10814.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Робики
+http://persik.by/stream/1234/3/10524.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Роскосмос HD
+http://persik.by/stream/1234/3/10487.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",РТР-Беларусь HD
+http://persik.by/stream/1234/3/11182.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Русский рок
+http://persik.by/stream/1234/3/11243.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",РыбаКит
+http://persik.by/stream/1234/3/10519.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Рыбалка HD
+http://persik.by/stream/1234/3/10693.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Рыбалка на реке
+http://persik.by/stream/1234/3/10980.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Рыбалка с Олегом
+http://persik.by/stream/1234/3/10668.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Рыбалка с Сибиряком
+http://persik.by/stream/1234/3/10773.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Рыболов HD
+http://persik.by/stream/1234/3/10694.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Сrazy russian experiments
+http://persik.by/stream/1234/3/11117.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Сад-огород! LIFE
+http://persik.by/stream/1234/3/10989.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Саня Сибиряк
+http://persik.by/stream/1234/3/11093.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Своим Ходом
+http://persik.by/stream/1234/3/10629.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Семейная кухня
+http://persik.by/stream/1234/3/11115.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Сериалы мелодрамы HD
+http://persik.by/stream/1234/3/11178.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",BobCat Lynx Live/ Raccoon TV
+http://persik.by/stream/1234/3/10744.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Собаки : хаски и маламут
+http://persik.by/stream/1234/3/10592.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Союз
+http://persik.by/stream/1234/3/235.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Спорим, вы не знали?
+http://persik.by/stream/1234/3/10679.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",СТВ HD
+http://persik.by/stream/1234/3/10410.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Строим для себя
+http://persik.by/stream/1234/3/10672.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Сундучок Историй HD
+http://persik.by/stream/1234/3/10490.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Супердети
+http://persik.by/stream/1234/3/10957.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",ТВ-3 Беларусь
+http://persik.by/stream/1234/3/847.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Техно HD
+http://persik.by/stream/1234/3/10697.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Триллеры США
+http://persik.by/stream/1234/3/11215.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Трум Трум
+http://persik.by/stream/1234/3/10941.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",ФанФакт HD
+http://persik.by/stream/1234/3/10736.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Филармония HD
+http://persik.by/stream/1234/3/10489.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Фильмы Боевики HD
+http://persik.by/stream/1234/3/11169.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Фишка
+http://persik.by/stream/1234/3/10888.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Футбол
+http://persik.by/stream/1234/3/440.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Хайповый Бизнеc
+http://persik.by/stream/1234/3/10907.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",ХЛЕБ СОЛЬ
+http://persik.by/stream/1234/3/10582.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Хочу Знать
+http://persik.by/stream/1234/3/10911.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Хочу знать все!
+http://persik.by/stream/1234/3/10506.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Шамов Дмитрий
+http://persik.by/stream/1234/3/10977.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Шпильки | Женский журнал
+http://persik.by/stream/1234/3/10956.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Шпионы и разведчики
+http://persik.by/stream/1234/3/11242.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Щи да Каша
+http://persik.by/stream/1234/3/11092.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Юлия Высоцкая
+http://persik.by/stream/1234/3/10986.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾",Я худею с Екатериной Кононовой
+http://persik.by/stream/1234/3/11155.m3u8
+
+
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.tv/templates/default/bootstrap/images/brand.png",edge-Ch1
 https://edge-01-pub.persik.by/live/Ch001pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="http://persik.tv/images/channels/logos/10745.png",Сказки HD
@@ -4295,536 +4781,6 @@ https://edge-01-pub.persik.by/live/Ch360pub/index.m3u8
 https://edge-01-pub.persik.by/live/Ch362pub/index.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Априори
 https://edge-01-pub.persik.by/live/Ch363pub/index.m3u8
-
-
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",ОНТ
-http://persik.by/stream/1234/3/111.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",ОНТ HD
-http://persik.by/stream/1234/3/10409.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",AMEDIA Premium HD
-http://persik.by/stream/1234/3/643.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Ru.TV
-http://persik.by/stream/1234/3/10261.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Беларусь 1
-http://persik.by/stream/1234/3/118.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Беларусь 1 HD
-http://persik.by/stream/1234/3/10405.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Беларусь 2
-http://persik.by/stream/1234/3/148.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Беларусь 24
-http://persik.by/stream/1234/3/10200.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",РТР-Беларусь
-http://persik.by/stream/1234/3/700.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",НТВ-Беларусь
-http://persik.by/stream/1234/3/699.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",СТВ
-http://persik.by/stream/1234/3/115.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Беларусь 3
-http://persik.by/stream/1234/3/883.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Беларусь 5
-http://persik.by/stream/1234/3/932.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",МИР
-http://persik.by/stream/1234/3/176.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",1000 Секретов Силы
-http://persik.by/stream/1234/3/11116.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Aillion
-http://persik.by/stream/1234/3/11101.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",AkStar
-http://persik.by/stream/1234/3/10932.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Alex TubeFun
-http://persik.by/stream/1234/3/10991.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Allmedia
-http://persik.by/stream/1234/3/11088.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Alpha Mods
-http://persik.by/stream/1234/3/11119.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Among Your Gods
-http://persik.by/stream/1234/3/11127.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",ATESTA
-http://persik.by/stream/1234/3/10603.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",AuRuM TV
-http://persik.by/stream/1234/3/11120.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",BA Recipes | Enjoy cooking
-http://persik.by/stream/1234/3/10818.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",BE BIGGER | Мужской канал
-http://persik.by/stream/1234/3/10966.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Big SEM
-http://persik.by/stream/1234/3/11174.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",BT Lite
-http://persik.by/stream/1234/3/10844.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Cheers! Напитки
-http://persik.by/stream/1234/3/10816.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Christ
-http://persik.by/stream/1234/3/11126.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Coffi Channel
-http://persik.by/stream/1234/3/11142.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",COMEDY BOX
-http://persik.by/stream/1234/3/10612.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Cotton Buds
-http://persik.by/stream/1234/3/11235.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Coup de Coeur Online
-http://persik.by/stream/1234/3/10532.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Demi Mo
-http://persik.by/stream/1234/3/11232.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",DheroesC
-http://persik.by/stream/1234/3/11175.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",DiDiKa TV
-http://persik.by/stream/1234/3/11113.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",DJ
-http://persik.by/stream/1234/3/11225.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",DomaFun HD
-http://persik.by/stream/1234/3/11058.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Dream Fairy DIY
-http://persik.by/stream/1234/3/10924.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Egiazar
-http://persik.by/stream/1234/3/11080.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Elena Matveeva
-http://persik.by/stream/1234/3/10664.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Emily Tube
-http://persik.by/stream/1234/3/11019.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Etsinancy
-http://persik.by/stream/1234/3/11238.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Europa Plus TV
-http://persik.by/stream/1234/3/682.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Fishing TV - рыболовный канал
-http://persik.by/stream/1234/3/10630.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",flynutrition
-http://persik.by/stream/1234/3/10620.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",FOX Russia
-http://persik.by/stream/1234/3/10234.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Funny Games TV
-http://persik.by/stream/1234/3/11141.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",HITS
-http://persik.by/stream/1234/3/11245.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Horror Movies
-http://persik.by/stream/1234/3/11166.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",iling show
-http://persik.by/stream/1234/3/10505.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Info
-http://persik.by/stream/1234/3/10681.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Jazz
-http://persik.by/stream/1234/3/10488.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Kids TubeFun
-http://persik.by/stream/1234/3/10992.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Kosmo
-http://persik.by/stream/1234/3/10509.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Lear
-http://persik.by/stream/1234/3/11240.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Lenadi
-http://persik.by/stream/1234/3/11125.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",LIFE Адреналин
-http://persik.by/stream/1234/3/10979.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",M J Rock Band
-http://persik.by/stream/1234/3/11241.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Markuts Band
-http://persik.by/stream/1234/3/11106.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Megakip MK
-http://persik.by/stream/1234/3/11229.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Minsk 4K (Ultra HD)
-http://persik.by/stream/1234/3/10605.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",MMA Time 
-http://persik.by/stream/1234/3/10648.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",More EmilyTube
-http://persik.by/stream/1234/3/11020.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",MOYO TEBE
-http://persik.by/stream/1234/3/11111.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",MY GALAXY
-http://persik.by/stream/1234/3/10938.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",National Geographic
-http://persik.by/stream/1234/3/10210.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",National Geographic HD
-http://persik.by/stream/1234/3/10243.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",notebook-31
-http://persik.by/stream/1234/3/10995.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",OliA
-http://persik.by/stream/1234/3/11176.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Pastime Time
-http://persik.by/stream/1234/3/10566.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",PEACE TV
-http://persik.by/stream/1234/3/10963.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",PhotoWebExpo
-http://persik.by/stream/1234/3/11156.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Rainbow Learning
-http://persik.by/stream/1234/3/11162.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Real Men Real Style
-http://persik.by/stream/1234/3/11153.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Relax
-http://persik.by/stream/1234/3/11223.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Samodelki Vitmana
-http://persik.by/stream/1234/3/10611.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Serega Master
-http://persik.by/stream/1234/3/10536.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Serega Otvertka
-http://persik.by/stream/1234/3/10508.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",SFU Production
-http://persik.by/stream/1234/3/11044.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Short History
-http://persik.by/stream/1234/3/10913.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Sluhay RADIO
-http://persik.by/stream/1234/3/11170.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Sluhay.by
-http://persik.by/stream/1234/3/10970.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Sluhay.by COVER
-http://persik.by/stream/1234/3/11102.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Sluhay.by EDM
-http://persik.by/stream/1234/3/10973.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Sluhay.by LIVE
-http://persik.by/stream/1234/3/10975.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Sluhay.by MOVA
-http://persik.by/stream/1234/3/11083.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Sluhay.by POP
-http://persik.by/stream/1234/3/10972.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Sluhay.by RAP
-http://persik.by/stream/1234/3/10974.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Sluhay.by ROCK
-http://persik.by/stream/1234/3/10971.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Smile Toys Review
-http://persik.by/stream/1234/3/11163.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Synthwave
-http://persik.by/stream/1234/3/11244.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Tanya Rybakova
-http://persik.by/stream/1234/3/10961.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Tasty food
-http://persik.by/stream/1234/3/10626.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Techno-Kitchen
-http://persik.by/stream/1234/3/10997.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",TECHNOZON
-http://persik.by/stream/1234/3/11157.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",TerlKabot channel
-http://persik.by/stream/1234/3/11173.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",The Glitchhh
-http://persik.by/stream/1234/3/11109.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",TheWolfstalker
-http://persik.by/stream/1234/3/10494.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",TopRelaxMusic
-http://persik.by/stream/1234/3/10514.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Travel Blog HD
-http://persik.by/stream/1234/3/10706.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Travel Light HD
-http://persik.by/stream/1234/3/10705.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",VAR
-http://persik.by/stream/1234/3/11160.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",ViteC ► Play
-http://persik.by/stream/1234/3/11140.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Workout - Будь в форме!
-http://persik.by/stream/1234/3/11121.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",XTIP
-http://persik.by/stream/1234/3/11124.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",YuraPaPu - Жизнь в Финляндии
-http://persik.by/stream/1234/3/10939.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Абаддон
-http://persik.by/stream/1234/3/10926.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Авиамания
-http://persik.by/stream/1234/3/10510.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Авто Плюс
-http://persik.by/stream/1234/3/311.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Адвокат Егоров
-http://persik.by/stream/1234/3/11014.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Алекс гараж
-http://persik.by/stream/1234/3/11150.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Американские комедии
-http://persik.by/stream/1234/3/11236.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Андрей Сенькевич
-http://persik.by/stream/1234/3/10607.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Априори
-http://persik.by/stream/1234/3/11110.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Бандероль
-http://persik.by/stream/1234/3/11219.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Беларусь 2 HD
-http://persik.by/stream/1234/3/10406.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Беларусь 24 HD
-http://persik.by/stream/1234/3/10712.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Беларусь 3 HD
-http://persik.by/stream/1234/3/10407.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Беларусь 5 HD
-http://persik.by/stream/1234/3/10408.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Бесплатная подписка
-http://persik.by/stream/1234/3/11070.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Би-Би-Знайки HD
-http://persik.by/stream/1234/3/10497.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Братья Рыбаки
-http://persik.by/stream/1234/3/10636.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Бро&Сис - Детские Песни
-http://persik.by/stream/1234/3/11011.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Бродский
-http://persik.by/stream/1234/3/11217.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Вагончик игрушек
-http://persik.by/stream/1234/3/11148.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",ВКУСНЫЕ РЕЦЕПТЫ с Еленой Хусаиновой
-http://persik.by/stream/1234/3/11108.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Военные фильмы
-http://persik.by/stream/1234/3/11167.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Вокруг рыбалки
-http://persik.by/stream/1234/3/10660.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Волшебная еда
-http://persik.by/stream/1234/3/11094.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",ВТВ
-http://persik.by/stream/1234/3/139.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",ВТВ HD
-http://persik.by/stream/1234/3/10719.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Выпечка и кулинария
-http://persik.by/stream/1234/3/11091.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Гастролер
-http://persik.by/stream/1234/3/10985.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Гейминг HD
-http://persik.by/stream/1234/3/10703.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Гостиницы Беларуси
-http://persik.by/stream/1234/3/10673.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Граф Чапский
-http://persik.by/stream/1234/3/10634.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Гурт Раница
-http://persik.by/stream/1234/3/11233.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Давай поженимся
-http://persik.by/stream/1234/3/11227.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Детективные сериалы HD
-http://persik.by/stream/1234/3/11179.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Детки HD
-http://persik.by/stream/1234/3/10732.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Диггеры
-http://persik.by/stream/1234/3/11087.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Другая кухня
-http://persik.by/stream/1234/3/10813.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Друид Феофан
-http://persik.by/stream/1234/3/11077.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Дымоход
-http://persik.by/stream/1234/3/11144.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Ешь и Худей
-http://persik.by/stream/1234/3/11151.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Животные HD
-http://persik.by/stream/1234/3/10737.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Закон Оригами
-http://persik.by/stream/1234/3/11228.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",ЗНАЮ ВСЁ
-http://persik.by/stream/1234/3/10918.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",ЗОЖ HD
-http://persik.by/stream/1234/3/10708.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Золотые ручки
-http://persik.by/stream/1234/3/10915.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Иван Зенкевич PRO автомобили
-http://persik.by/stream/1234/3/11090.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Игорь Бурцев
-http://persik.by/stream/1234/3/11172.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",ИнДизайн
-http://persik.by/stream/1234/3/10962.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",История. Интересно!
-http://persik.by/stream/1234/3/10914.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Канал Виталика Игнатюка
-http://persik.by/stream/1234/3/10563.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Кик Обзор
-http://persik.by/stream/1234/3/10994.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Кино Мира
-http://persik.by/stream/1234/3/10925.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Кино по книгам
-http://persik.by/stream/1234/3/11216.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Кино про супергероев
-http://persik.by/stream/1234/3/11226.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Кино про шпионов
-http://persik.by/stream/1234/3/11239.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Кино-антистресс
-http://persik.by/stream/1234/3/11213.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",КиноБлог HD
-http://persik.by/stream/1234/3/10692.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Киномикс
-http://persik.by/stream/1234/3/608.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Кинопремьера
-http://persik.by/stream/1234/3/34.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Кинопремьера HD
-http://persik.by/stream/1234/3/10240.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Киносвидание
-http://persik.by/stream/1234/3/30.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Киносемья
-http://persik.by/stream/1234/3/590.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Кинохит
-http://persik.by/stream/1234/3/213.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Китай Удивляй
-http://persik.by/stream/1234/3/10852.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Клуб рыбаков. Рыбалка. Club fishermen.
-http://persik.by/stream/1234/3/10596.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Коктейль Шаляпина
-http://persik.by/stream/1234/3/11231.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Комедии про негров
-http://persik.by/stream/1234/3/11230.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Комедийные боевики
-http://persik.by/stream/1234/3/11237.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Комедийные фильмы HD
-http://persik.by/stream/1234/3/11168.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Крамола
-http://persik.by/stream/1234/3/10909.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Кулинар HD
-http://persik.by/stream/1234/3/10700.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Кулинарный микс
-http://persik.by/stream/1234/3/10774.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",КХЛ HD
-http://persik.by/stream/1234/3/10242.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",КХЛ ТВ
-http://persik.by/stream/1234/3/604.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Лера и Марк
-http://persik.by/stream/1234/3/10952.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",ЛЕСНЫЕ
-http://persik.by/stream/1234/3/10635.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Лига Злодеев
-http://persik.by/stream/1234/3/11055.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Лунный Ландшафт
-http://persik.by/stream/1234/3/10923.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Любящие мамы
-http://persik.by/stream/1234/3/10965.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Люди PRO
-http://persik.by/stream/1234/3/10959.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Мастер HD
-http://persik.by/stream/1234/3/10695.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Мимилашка
-http://persik.by/stream/1234/3/11114.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Мини-сериалы
-http://persik.by/stream/1234/3/11177.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Муви ТВ
-http://persik.by/stream/1234/3/11208.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Мужское кино
-http://persik.by/stream/1234/3/10025.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Мужское кино HD
-http://persik.by/stream/1234/3/10368.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",МультиЁж
-http://persik.by/stream/1234/3/10541.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Наша кухня (new)
-http://persik.by/stream/1234/3/11134.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Наше новое кино
-http://persik.by/stream/1234/3/260.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Новая реальность
-http://persik.by/stream/1234/3/11154.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Новогодние мультфильмы
-http://persik.by/stream/1234/3/10982.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Новогодние фильмы HD
-http://persik.by/stream/1234/3/11158.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Носики Курносики
-http://persik.by/stream/1234/3/11050.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",НТВ-Беларусь HD
-http://persik.by/stream/1234/3/11183.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Нямiга
-http://persik.by/stream/1234/3/11234.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Около рыбалки. Андропов
-http://persik.by/stream/1234/3/10978.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Ольга Матвей 
-http://persik.by/stream/1234/3/10623.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Оружейный барон
-http://persik.by/stream/1234/3/10940.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",ПАПА ДОМА
-http://persik.by/stream/1234/3/11054.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",ПАПА РОБ ШОУ
-http://persik.by/stream/1234/3/11053.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Перец International
-http://persik.by/stream/1234/3/10273.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Песни Для Детей HD
-http://persik.by/stream/1234/3/10680.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Подписка SLUHAY бесплатно
-http://persik.by/stream/1234/3/11074.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Покашеварим
-http://persik.by/stream/1234/3/10586.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",ПОЛЕЗНЫЕ СОВЕТЫ MIX
-http://persik.by/stream/1234/3/10529.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Поп Наука
-http://persik.by/stream/1234/3/11218.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",ПриветТачка
-http://persik.by/stream/1234/3/10575.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Природа
-http://persik.by/stream/1234/3/10742.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Про авто
-http://persik.by/stream/1234/3/11089.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Про рысей
-http://persik.by/stream/1234/3/10743.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Простой рецепт
-http://persik.by/stream/1234/3/11165.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Профессор ГУГЛОВ
-http://persik.by/stream/1234/3/10503.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Путешествия
-http://persik.by/stream/1234/3/10653.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Радость моя
-http://persik.by/stream/1234/3/10272.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Рецепты Bon Appetit
-http://persik.by/stream/1234/3/10814.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Робики
-http://persik.by/stream/1234/3/10524.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Роскосмос HD
-http://persik.by/stream/1234/3/10487.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",РТР-Беларусь HD
-http://persik.by/stream/1234/3/11182.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Русский рок
-http://persik.by/stream/1234/3/11243.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",РыбаКит
-http://persik.by/stream/1234/3/10519.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Рыбалка HD
-http://persik.by/stream/1234/3/10693.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Рыбалка на реке
-http://persik.by/stream/1234/3/10980.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Рыбалка с Олегом
-http://persik.by/stream/1234/3/10668.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Рыбалка с Сибиряком
-http://persik.by/stream/1234/3/10773.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Рыболов HD
-http://persik.by/stream/1234/3/10694.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Сrazy russian experiments
-http://persik.by/stream/1234/3/11117.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Сад-огород! LIFE
-http://persik.by/stream/1234/3/10989.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Саня Сибиряк
-http://persik.by/stream/1234/3/11093.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Своим Ходом
-http://persik.by/stream/1234/3/10629.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Семейная кухня
-http://persik.by/stream/1234/3/11115.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Сериалы мелодрамы HD
-http://persik.by/stream/1234/3/11178.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",BobCat Lynx Live/ Raccoon TV
-http://persik.by/stream/1234/3/10744.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Собаки : хаски и маламут
-http://persik.by/stream/1234/3/10592.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Союз
-http://persik.by/stream/1234/3/235.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Спорим, вы не знали?
-http://persik.by/stream/1234/3/10679.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",СТВ HD
-http://persik.by/stream/1234/3/10410.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Строим для себя
-http://persik.by/stream/1234/3/10672.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Сундучок Историй HD
-http://persik.by/stream/1234/3/10490.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Супердети
-http://persik.by/stream/1234/3/10957.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",ТВ-3 Беларусь
-http://persik.by/stream/1234/3/847.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Техно HD
-http://persik.by/stream/1234/3/10697.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Триллеры США
-http://persik.by/stream/1234/3/11215.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Трум Трум
-http://persik.by/stream/1234/3/10941.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",ФанФакт HD
-http://persik.by/stream/1234/3/10736.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Филармония HD
-http://persik.by/stream/1234/3/10489.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Фильмы Боевики HD
-http://persik.by/stream/1234/3/11169.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Фишка
-http://persik.by/stream/1234/3/10888.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Футбол
-http://persik.by/stream/1234/3/440.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Хайповый Бизнеc
-http://persik.by/stream/1234/3/10907.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",ХЛЕБ СОЛЬ
-http://persik.by/stream/1234/3/10582.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Хочу Знать
-http://persik.by/stream/1234/3/10911.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Хочу знать все!
-http://persik.by/stream/1234/3/10506.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Шамов Дмитрий
-http://persik.by/stream/1234/3/10977.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Шпильки | Женский журнал
-http://persik.by/stream/1234/3/10956.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Шпионы и разведчики
-http://persik.by/stream/1234/3/11242.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Щи да Каша
-http://persik.by/stream/1234/3/11092.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Юлия Высоцкая
-http://persik.by/stream/1234/3/10986.m3u8
-#EXTINF:-1 group-title="Persik.TV2 🇧🇾",Я худею с Екатериной Кононовой
-http://persik.by/stream/1234/3/11155.m3u8
 
 
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://2mz.me/images/770120.jpg",Nature Relaxation
