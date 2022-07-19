@@ -2377,7 +2377,7 @@ https://stream.kaztrk.kz/regional/oskementv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://dmitry-tv.ddns.net:60/hls/region/CH_ARIRANGKOREA_DV_HVSK.m3u8
 
-#EXTINF:-1 group-title="Региональные" tvg-id="cbc-az" tvg-logo="https://iptvxcdn.ml/cbc-az.png",*CBC
+#EXTINF:-1 group-title="Региональные" tvg-id="cbc-az" tvg-logo="https://iptvxcdn.ml/cbc-az.png",CBC
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="next-tv" tvg-logo="https://iptvxcdn.ml/next-tv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",NEXT-TV
@@ -2511,7 +2511,7 @@ https://5d23269b3ec0c.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/play
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_VERHTV/variant.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="http://trknadym.ru/images/hlogo-NEW+.png",Вестник Надыма
-https://live-trknadym.cdnvideo.ru/trknadym-pub/trknadym.sdp/playlist.m3u8
+https://0werof7ib0p.a.trbcdn.net/livemaster/4ravg_live-trknadym.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="vetta24" tvg-logo="https://iptvxcdn.ml/vetta24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ветта 24 Пермь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
@@ -2547,14 +2547,8 @@ http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
 
-#EXTINF:-1 group-title="Региональные" tvg-id="vsia-ufa" tvg-logo="https://iptvxcdn.ml/vsia-ufa.png",Вся Уфа
-https://allufaonline.gcdn.co/streams/60574_218850/playlist.m3u8
-
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://avatars.mds.yandex.net/get-images-cbir/1813483/juWsaS3w-UY_oawVsbQD0w4904/ocr",Выборг ТВ
 https://live-nashgorod.cdnvideo.ru/nashgorod/nashgorod.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Региональные" tvg-logo="http://cdn.teleon.tv/logo/gal-tv.jpeg",*Гал ТВ
-https://hls.myvideocontent.ru/hls2/galtv/index.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="gis-samara" tvg-logo="https://iptvxcdn.ml/gis-samara.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ГИС Самара
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
@@ -2563,9 +2557,6 @@ http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="gorod" tvg-logo="https://iptvxcdn.ml/gorod.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Город (Рязань)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R02_GOROD/variant.m3u8
-
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://gorod45.tv/img/gorod-logo.jpg",Город ТВ (Шадринск)
-http://public-gw.iptv.shadrinsk.net:8088/gorod.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="gorodskoy-yaroslavl" tvg-logo="https://iptvxcdn.ml/gorodskoy-yaroslavl.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Городской телеканал Ярославль
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
@@ -2816,9 +2807,6 @@ http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
 
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://nnttv.ru/static/imgs/logo.png",ННТ Махачкала HD
-http://iptv46.mcx-ix.ru:8077/nnttv_hd/index.m3u8
-
 #EXTINF:-1 group-title="Региональные" tvg-id="nntv" tvg-logo="https://iptvxcdn.ml/nntv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ННТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
@@ -2892,8 +2880,8 @@ http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 
-#EXTINF:-1 group-title="Региональные" tvg-id="otv-odincovo" tvg-logo="https://iptvxcdn.ml/otv-odincovo.png",*ОТВ Одинцово
-http://185.18.4.16/live/3m/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="otv-odincovo" tvg-logo="https://iptvxcdn.ml/otv-odincovo.png",ОТВ Одинцово
+https://msk.rtsp.me/ospmipTjDtWYnHFGOpjzVA/1658232624/hls/HkKnsA63.m3u8?ip=77.240.147.158
 
 #EXTINF:-1 group-title="Региональные" tvg-id="otv-primorie" tvg-logo="https://iptvxcdn.ml/otv-primorie.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТВ Приморье
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
@@ -3120,7 +3108,7 @@ http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_STVBAYKAL/varia
 #EXTINF:-1 group-title="Региональные" tvg-id="strk" tvg-logo="https://iptvxcdn.ml/strk.png",СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 
-#EXTINF:-1 group-title="Региональные" tvg-id="settv-xabarovsk" tvg-logo="https://iptvxcdn.ml/settv-xabarovsk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",*СЭТ TV Хабаровск
+#EXTINF:-1 group-title="Региональные" tvg-id="settv-xabarovsk" tvg-logo="https://iptvxcdn.ml/settv-xabarovsk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СЭТ TV Хабаровск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://s97982.cdn.ngenix.net/hls/CH_R02_OTTS3TTV/variant.m3u8
 
@@ -3181,11 +3169,11 @@ http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R03_7X7/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIGMATV/variant.m3u8
 
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://bash.bashgazet.ru/uploads/posts/2019-01/1547743922_sibaj-tv.jpg",*Сибай ТВ
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://bash.bashgazet.ru/uploads/posts/2019-01/1547743922_sibaj-tv.jpg",Сибай ТВ
 http://stvserver.sibaytv.ru:10082/canals/canal1/stream.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://avt-7.foto.mail.ru/bk/region24/_avatar180?1354861013&mrim=1",Сибирь 24
-https://www.nsktv.ru:48906/hls/live.m3u8
+https://www.nsktv.ru:50080/hls/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="http://simferopol24.ru/sites/default/files/header-logo.png",Симферополь 24
 https://simf.1tvcrimea.ru/show/simferopol24/playlist.m3u8
@@ -3217,6 +3205,9 @@ https://poisktv-live.cdnvideo.ru/poisktv/FullHD.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_MURM_TVC/variant.m3u8
 
+#EXTINF:-1 group-title="Региональные" tvg-id="tv-centr-kasnoyarsk" tvg-logo="https://iptvxcdn.ml/tv-centr-kasnoyarsk.png",ТВ Центр Красноярск HD
+https://stream.tck.tv/hd.m3u8
+
 #EXTINF:-1 group-title="Региональные" tvg-id="tv21plus" tvg-logo="https://iptvxcdn.ml/tv21plus.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ-21+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
@@ -3235,9 +3226,6 @@ http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="aist" tvg-logo="https://iptvxcdn.ml/aist.png",ТВ Аист
 http://141.101.205.134:8080/hls/tvaist.m3u8
-
-#EXTINF:-1 group-title="Региональные" tvg-id="tv-centr-kasnoyarsk" tvg-logo="https://iptvxcdn.ml/tv-centr-kasnoyarsk.png",ТВ Центр Красноярск HD
-https://stream.tck.tv/hd.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="tvk-krasnoyarsk" tvg-logo="https://iptvxcdn.ml/tvk-krasnoyarsk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВК Красноярск HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
@@ -4871,8 +4859,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 https://v2.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="2015" tvg-logo="http://epg.it999.ru/img/2015.png",Русская Ночь
 http://46.174.83.66/Russkaya_Noch/video.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-id="2015" tvg-logo="http://epg.it999.ru/img/2015.png",Русская Ночь HD
-http://spacetv.in/stream/DKQ6M3GWVG1/54.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://i.imgur.com/IBfTNOr.png",A3Bikini
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://www.lyngsat.com/logo/tv/bb/babestation-24-uk-de.png",Babestation24
@@ -4887,8 +4873,6 @@ http://94.229.250.73:8008/play/a002
 http://213.81.133.133:8080/extasy4k/index.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="3170" tvg-logo="http://epg.it999.ru/img/3170.png",Extasy HD
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-id="2632" tvg-logo="http://epg.it999.ru/img/2632.png",Exxxotica HD
-http://spacetv.in/stream/DKQ6M3GWVG1/57.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="2322" tvg-logo="http://epg.it999.ru/img/2322.png",Hustler HD
 http://46.181.193.122:81/udp/239.255.43.53:1234
 #EXTINF:-1 group-title="Взрослые" tvg-id="hustler-tv" tvg-logo="https://iptvxcdn.ml/hustler-tv.png",Hustler TV
@@ -4921,8 +4905,6 @@ http://54.36.123.36:8080/PinkErotic7/index.m3u8
 http://54.36.123.36:8080/PinkErotic8/index.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://img-ipad.lisisoft.com/imgmic/8/1/819-1-pinko-up.jpg",Pinko Club
 http://93.152.174.144:4000/play/pinkotv/index.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-id="2014" tvg-logo="http://epg.it999.ru/img/2014.png",Playboy
-http://spacetv.in/stream/DKQ6M3GWVG1/56.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="2320" tvg-logo="http://epg.it999.ru/img/2320.png",Redlight HD
 http://93.152.174.144:4000/play/privatetv1/index.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="2320" tvg-logo="http://epg.it999.ru/img/2320.png",Redlight HD
