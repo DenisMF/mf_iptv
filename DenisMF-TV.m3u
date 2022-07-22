@@ -16,7 +16,7 @@ http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="rtd-ru" tvg-logo="https://iptvxcdn.ml/rt-doc.png",RTД Русский
-https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+http://cdn-01.bonus-tv.ru:8080/rtdoc/playlist.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="anekdottv" tvg-logo="https://iptvxcdn.ml/anekdottv.png",Анекдот ТВ
 http://livetv.mylifeisgood.ml/channels/anekdot
@@ -888,7 +888,7 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" rodnoe-kino" tvg-logo="http://img.rnx.ru/logotvchannel/472-250.jpg",312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="312-music" tvg-logo="https://iptvxcdn.ml/312-music.png",312 Музыка
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="6655" tvg-logo="http://epg.it999.ru/img2/6655.png",312 Сериалы
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="amedia1" tvg-logo="https://iptvxcdn.ml/amedia1.png",Amedia 1 HD
@@ -1107,7 +1107,7 @@ https://mfe02.cliptv.az/dash/Lyubimoe_Kino_SD.ism/playlist.mpd
 http://92.245.103.126:1935/live/live.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="mosfilm" tvg-logo="https://iptvxcdn.ml/mosfilm.png",Мосфильм. Золотая коллекция
-https://sbautumn.com/lba/MjQ5OTU2MTllYmM1NmEyOWE3MDdhMjY2N2Y2ZDI4ZGQ=/g7/mosfilm.m3u8?token=MjQ5OTU2MTllYmM1NmEyOWE3MDdhMjY2N2Y2ZDI4ZGQ=&id=ODdlZGQ4YjYzZGQwZGE4NTVlZjE0NTgyMzJiOTg1YTE=&vip=1658213591&dip=MjkxNjE4NzRjMTljNjE2ZTZlZTFjMjY3ZjFiMzMxNGY=&pip=ZDgxNzc3MDliYTIyY2I1ZDU1ZWI1NmFlYmM4MzI5Yzg=&hip=NDI3MDk5MTJiZWEyZmM4ZmFiZmI1ZDMyNjA5NjJiMWY=
+https://
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="muzhskoe-kino" tvg-logo="https://iptvxcdn.ml/muzhskoe-kino.png",Мужское Кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
@@ -2268,7 +2268,7 @@ https://hls.tv.3angels.ru/stream/HQ.m3u8
 http://91.219.23.234:8000/play/29/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="centralnoye-tv" tvg-logo="https://iptvxcdn.ml/centralnoye-tv.png",Центральное телевидение
-https://mhd109.iptv2022.com//centrtv/324/1/playlist.m3u8
+https://
 
 
 #EXTINF:-1 group-title="Региональные" tvg-id="chavash-en"  tvg-logo="https://television-planet.tv/uploads/posts/63456gregrewfwef.jpeg",Чаваш ЕН
