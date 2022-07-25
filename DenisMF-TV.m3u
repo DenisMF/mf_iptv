@@ -299,10 +299,10 @@ https://strm.yandex.ru/kal/udar/udar0.m3u8
 https://live-footballtv.cdnvideo.ru/footballtv-publish/footballtv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="footbolny" tvg-logo="https://iptvxcdn.ml/footbolny.png",Футбольный HD
-http://128.0.27.41:8080/239.211.200.47/mpegts
+http://158.101.197.217:2134/channel/n3fb3760e/index.m3u8?q=f34b3d2dc463990f4fd3e79b5c5fe4a5
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="xokkejny" tvg-logo="https://iptvxcdn.ml/xokkejny.png",Хоккейный HD
-http://128.0.27.41:8080/239.211.200.48/mpegts
+http://158.101.197.217:2134/channel/n57d8419a/index.m3u8?q=f34b3d2dc463990f4fd3e79b5c5fe4a5
 
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg",A21 Network
 https://tv.a21network.ru/stream/37909/index.m3u8
@@ -1107,7 +1107,7 @@ https://mfe02.cliptv.az/dash/Lyubimoe_Kino_SD.ism/playlist.mpd
 http://92.245.103.126:1935/live/live.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="mosfilm" tvg-logo="https://iptvxcdn.ml/mosfilm.png",Мосфильм. Золотая коллекция
-https://
+http://streamer.enchart.one/42/68b159d13e14afd284b6f495bd1f67f0109c56b1/1155/stream.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="muzhskoe-kino" tvg-logo="https://iptvxcdn.ml/muzhskoe-kino.png",Мужское Кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
@@ -1140,7 +1140,7 @@ http://91.219.23.234:8000/play/33/index.m3u8
 https://mfe01.cliptv.az/dash/Rodnoe_Kino_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-bestseller" tvg-logo="https://iptvxcdn.ml/russky-bestseller.png",Русский бестселлер
-http://128.0.27.41:8080/239.211.211.137/index.m3u8
+http://213.172.73.170:8081/nimble_live/1062__Russkiy_Bestseller/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-detektiv" tvg-logo="https://iptvxcdn.ml/russky-detektiv.png",Русский детектив
 http://195.26.83.96:7024/play/79
@@ -1180,6 +1180,9 @@ https://edge-01.kino.watch/hit/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="feniks-plus-kino" tvg-logo="https://iptvxcdn.ml/feniks-plus-kino.png",Феникс+ Кино
 http://37.17.12.119:8907/play/a00l
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="shokiruyushchee-hd" tvg-logo="https://iptvxcdn.ml/shokiruyushchee-hd.png",Шокирующее HD
+https://zxcv.tv/player.m3u8?shokiruyushee-hd
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://televizor.org/img/logopit/Akudji%20HD.png",Akudji TV
 https://hls.goodgame.ru/hls/5346.m3u8
