@@ -392,7 +392,7 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 #EXTINF:-1 group-title="Sport" tvg-logo="https://wholesalesneakerslist.com/images/partner5.png",Fox Sports News
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://condista.com/wp-content/uploads/2019/05/fuel-tv.png",Fuel TV
+#EXTINF:-1 group-title="Sport" tvg-logo="https://seeklogo.com/images/F/fuel-tv-logo-3C3716497D-seeklogo.com.png",Fuel TV
 https://fueltv-fueltv-1-au.samsung.wurl.com/playlist.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://cdn.cleeng.com/event-ppv/E794046845_US/l/L-1462485148-hard-knocks-50.png",Hard Knocks
@@ -888,7 +888,7 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" rodnoe-kino" tvg-logo="http://img.rnx.ru/logotvchannel/472-250.jpg",312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="6655" tvg-logo="http://epg.it999.ru/img2/6655.png",312 Сериалы
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="6655" tvg-logo="http://epg.it999.ru/img2/6655.png",312 Сериал
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="amedia1" tvg-logo="https://iptvxcdn.ml/amedia1.png",Amedia 1 HD
@@ -1052,17 +1052,8 @@ https://zxcv.tv/player.m3u8?kinotv-hd
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kino-tv-pl7" tvg-logo="https://iptvxcdn.ml/kino-tv-pl7.png",Кино ТВ HD (+7)
 https://livetv.mylifeisgood.ml/channels/kinotv
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://smotret.tv/images/kinodok.webp",Кинодок
-https://edge-01-pub.persik.by/live/Ch171pub/index.m3u8
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://smotret.tv/images/kinodrom.webp",Кинодром
-https://edge-01-pub.persik.by/live/Ch042pub/index.m3u8
-
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinokomedia" tvg-logo="https://iptvxcdn.ml/kinokomedia.png",Кинокомедия
 http://46.174.83.66/Kinokomedia/index.m3u8
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://smotret.tv/images/kinomaniya.webp",Киномания
-https://edge-01-pub.persik.by/live/Ch051pub/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinomiks" tvg-logo="https://iptvxcdn.ml/kinomiks.png",Киномикс
 https://mfe01.cliptv.az/dash/Kinomix_SD.ism/playlist.mpd
@@ -1078,9 +1069,6 @@ http://37.17.12.119:8907/play/a007
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinosvidanie" tvg-logo="https://iptvxcdn.ml/kinosvidanie.png",Киносвидание
 https://zxcv.tv/player.m3u8?kinosvidanie
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://smotret.tv/images/kinosvit.webp",Киносвит
-https://edge-01-pub.persik.by/live/Ch022pub/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinosemiya" tvg-logo="https://iptvxcdn.ml/kinosemia.png",Киносемья
 https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
@@ -1157,12 +1145,6 @@ https://zxcv.tv/player.m3u8?russkaya-komediya
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://smotret.tv/images/svezhaki.webp",Свежаки HD
 https://edge-01.kino.watch/fresh/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://persik.tv/images/channels/logos/10758.png",Сериалы HD
-https://edge-01-pub.persik.by/live/Ch003pub/index.m3u8
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://persik.tv/images/channels/logos/10750.png",Советские комедии HD
-https://edge-01-pub.persik.by/live/Ch035pub/index.m3u8
-
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="tvoyo-tv-hd" tvg-logo="https://iptvxcdn.ml/tvoyo-tv-hd.png",Твоё ТВ HD
 http://stream-norst.cf:8080/tvoetv/index.m3u8
 
@@ -1211,9 +1193,6 @@ https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://goodgame.ru/files/avatars/avatar.png",NateRou
 https://hls.goodgame.ru/hls/61358.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://goodgame.ru/files/avatars/avatar.png",Neldoreth
-https://hls.goodgame.ru/hls/33245.m3u8
-
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://televizor.org/img/logopit/PZN%20FHD.png",PZN Films
 https://hlss.goodgame.ru/hls/180960.m3u8
 
@@ -1235,7 +1214,7 @@ https://hls.goodgame.ru/hls/153640.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="5135" tvg-logo="http://epg.it999.ru/img/5135.png",минимакс-ussr-фантастика HD
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13022/index.m3u
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://televizor.org/img/logopit/%D0%A3%D0%B6%D0%B0%D1%81%20HD.png",Ужас HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://televizor.org/img/logopit/%D0%A3%D0%B6%D0%B0%D1%81%20HD.png",Ужасы HD
 https://v2.catcast.tv/content/41000/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://suzukantv.at.ua/IPTV-LOGO-3/fantastika_hd.png",Фантастика HD
@@ -1535,7 +1514,7 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="radio-strana-fm-tv" tvg-logo="https://iptvxcdn.ml/radio-strana-fm-tv.png",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://goo.su/RtbThmv",Танец ТВ HD
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sun9-16.userapi.com/impf/dO-P6lT6Ji1rMbLzzm9NVyB6_ip8u5H6rVGndQ/9O4DNbNcU-U.jpg?size=1590x530&quality=95&crop=0,56,2050,683&sign=d9556a2586c9933f5f2477b2bfa8ea99&type=cover_group",Танец ТВ HD
 https://efirtanectv-hls.cdnvideo.ru/hls/61c641b176face0001223636/playlist.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="tnt-music" tvg-logo="https://iptvxcdn.ml/tnt-music.png",ТНТ Music
@@ -1659,7 +1638,7 @@ https://eu1.servers10.com:8081/8010/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="	https://smotret.tv/images/fm-italia.webp",FMITALIA TV
 https://stream4.xdevel.com/video0s975817-1185/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://goo.su/zsERE",GO TV HD
+#EXTINF:-1 group-title="Music" tvg-logo="https://avatars.mds.yandex.net/get-images-cbir/1496492/D1XCJOsAJ0R3IC_FvZuN0g4758/ocr",GO TV HD
 http://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="http://televizor.org/img/logopit/Hits%20360%20HD.png",HITs 360 HD
@@ -2695,7 +2674,7 @@ http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_KOTLASTV/variant.m3u8
 
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://goo.su/MK91",Красногорск ТВ
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://sun1.userapi.com/sun1-21/s/v1/ig2/VFNLNrY5VENkvfGTnECH1fgZB9CxMYP04QNbIANvlw7byR8GUmpLw8FzkWp3Nm7ClREwXYyn5xr6Q5vRpFdJKhLd.jpg?size=200x200&quality=95&crop=0,0,1000,1000&ava=1",Красногорск ТВ
 https://live-krtv.cdnvideo.ru/krtv/krtv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="krasnodar" tvg-logo="https://iptvxcdn.ml/krasnodar.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Краснодар
@@ -2743,7 +2722,7 @@ http://83.166.243.97:8081/ltv1360/1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
 
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://goo.su/qzqqE",Лотос 24 HD
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/ce/Лотос_24.PNG/revision/latest/scale-to-width-down/220?cb=20210620181808&path-prefix=ru",Лотос 24 HD
 https://streaming.astrakhan.ru/live/vgtrk/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://smotret.tv/images/lugansk-24.webp",Луганск 24 HD
@@ -3262,7 +3241,7 @@ http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
 
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://goo.su/td1t0w",ТPK 555 (Алушта)
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://sun1-26.userapi.com/s/v1/ig1/j1CuVddORSUl8xm86SwsZDZaVEy-XadsgqUEwWhOxhvThxVyQ_WrUHcmOCxhFBz4mgrAbZjC.jpg?size=200x200&quality=96&crop=115,64,641,641&ava=1",ТPK 555 (Алушта)
 http://91.207.106.1:8888/live
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://xn--80ae9ahd.xn----7sbbbkl2b5arjli2dva5g.xn--p1ai/media/1401944/k16_201x201.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТРК Канал-16 (Саров)
@@ -3308,7 +3287,7 @@ https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TELEKANAL86/variant.m3u8
 
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://goo.su/B6mNqWL",Телеканал ТВЖ | Аша
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://avatars.dzeninfra.ru/get-zen-logos/212539/pub_6228f051ea213a374253c104_624edd78b643751d257f15d4/scale_2400",Телеканал ТВЖ | Аша
 http://37.79.254.224:1234/hls2/tvg.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://i.mycdn.me/i?r=AzGBqNaF5OQp2lMpnhRx4DEFFv5miweljC8nWC4B7pAI3IOEyXTosgHTseoDGmOOwqw",Телплюс
@@ -3971,8 +3950,6 @@ http://persik.by/stream/1234/3/10626.m3u8
 http://persik.by/stream/1234/3/10629.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10630.png",Fishing TV - рыболовный канал
 http://persik.by/stream/1234/3/10630.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10634.png",Трое в лодке
-http://persik.by/stream/1234/3/10634.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10635.png",ЛЕСНЫЕ
 http://persik.by/stream/1234/3/10635.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10636.png",Братья Рыбаки
@@ -4009,7 +3986,7 @@ http://persik.by/stream/1234/3/10685.m3u8
 http://persik.by/stream/1234/3/10686.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10687.png",Детектив HD
 http://persik.by/stream/1234/3/10687.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10688.png",Детский HD
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10688.png",Детский
 http://persik.by/stream/1234/3/10688.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10689.png",Драма HD
 http://persik.by/stream/1234/3/10689.m3u8
@@ -4227,7 +4204,7 @@ http://persik.by/stream/1234/3/10994.m3u8
 http://persik.by/stream/1234/3/10995.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10997.png",Techno-Kitchen
 http://persik.by/stream/1234/3/10997.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11010.png",Новые российские фильмы
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11010.png",RUS Кино HD
 http://persik.by/stream/1234/3/11010.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11011.png",Бро&Сис - Детские Песни
 http://persik.by/stream/1234/3/11011.m3u8
@@ -4243,9 +4220,9 @@ http://persik.by/stream/1234/3/11018.m3u8
 http://persik.by/stream/1234/3/11019.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11020.png",More EmilyTube
 http://persik.by/stream/1234/3/11020.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11022.png",Криминальные драмы
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11022.png",Криминальные драмы HD
 http://persik.by/stream/1234/3/11022.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11023.png",Рекомендуем
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11023.png",Рекомендуем HD
 http://persik.by/stream/1234/3/11023.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11024.png",Популярное кино HD
 http://persik.by/stream/1234/3/11024.m3u8
@@ -4253,7 +4230,7 @@ http://persik.by/stream/1234/3/11024.m3u8
 http://persik.by/stream/1234/3/11027.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11028.png",Документальное кино HD
 http://persik.by/stream/1234/3/11028.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11029.png",Романтик комедии
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11029.png",Романтик комедии HD
 http://persik.by/stream/1234/3/11029.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11030.png",Наши сериалы HD
 http://persik.by/stream/1234/3/11030.m3u8
@@ -4265,9 +4242,9 @@ http://persik.by/stream/1234/3/11032.m3u8
 http://persik.by/stream/1234/3/11033.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11037.png",Кино Микс HD
 http://persik.by/stream/1234/3/11037.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11038.png",Русские комедии
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11038.png",Русские комедии HD
 http://persik.by/stream/1234/3/11038.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11039.png",Фильмы о войне
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11039.png",Фильмы о войне HD
 http://persik.by/stream/1234/3/11039.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11044.png",SFU Production
 http://persik.by/stream/1234/3/11044.m3u8
@@ -4455,9 +4432,9 @@ http://persik.by/stream/1234/3/11162.m3u8
 http://persik.by/stream/1234/3/11163.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11165.png",Простой рецепт
 http://persik.by/stream/1234/3/11165.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11166.png",Horror Movies
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11166.png",Horror Movies HD
 http://persik.by/stream/1234/3/11166.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11167.png",Военные фильмы
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11167.png",Военные фильмы HD
 http://persik.by/stream/1234/3/11167.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11168.png",Комедийные фильмы HD
 http://persik.by/stream/1234/3/11168.m3u8
@@ -4471,7 +4448,7 @@ http://persik.by/stream/1234/3/11173.m3u8
 http://persik.by/stream/1234/3/11174.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11175.png",DheroesC
 http://persik.by/stream/1234/3/11175.m3u8
-#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11177.png",Мини-сериалы
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11177.png",Мини-сериалы HD
 http://persik.by/stream/1234/3/11177.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/11178.png",Сериалы мелодрамы HD
 http://persik.by/stream/1234/3/11178.m3u8
@@ -4544,6 +4521,8 @@ http://persik.by/stream/1234/3/11269.m3u8
 http://persik.by/stream/1234/3/10603.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10607.png",Sluhay.by Андрей Сенькевич
 http://persik.by/stream/1234/3/10607.m3u8
+#EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10634.png",Sluhay.by Граф Чапский
+http://persik.by/stream/1234/3/10634.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10970.png",Sluhay.by
 http://persik.by/stream/1234/3/10970.m3u8
 #EXTINF:-1 group-title="Persik.TV 🇧🇾" tvg-logo="https://persik.by/media/channels/logos/10971.png",Sluhay.by ROCK
@@ -4626,7 +4605,7 @@ http://persik.by/stream/1234/3/11263.m3u8
 
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://2mz.me/images/770120.jpg",Nature Relaxation
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://goo.su/Icbaz1a",Silence TV
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://avatars.mds.yandex.net/get-zen-logos/201842/pub_5f357766339a9056b55d1f40_5f357816c463f875e7eb8819/xxh",Silence TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/stingray-naturescape-ca.png",Stingray Naturescape
 https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
