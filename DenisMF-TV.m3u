@@ -975,7 +975,7 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="6655" tvg-logo="http://epg.it999.ru/img2/6655.png",312 Сериал
-http://he11o.akadatel.com/iptv/6FAKKTGGMV9P5S/19206/index.m3u8
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="amedia1" tvg-logo="https://iptvxcdn.ml/amedia1.png",Amedia 1 HD
 https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
