@@ -4,7 +4,7 @@
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="360-news" tvg-logo="https://iptvxcdn.ml/360-news.png",360° Новости
-http://cdn.vimax.tv/vimax/ch038/video.m3u8?token=6abff8fd-6948-4fa9-83d7-2d60a291ae3d
+http://91.219.23.234:8000/play/76/index.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="cctv-ru" tvg-logo="https://iptvxcdn.ml/cctv-ru.png",CGTN-Русский
 http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
@@ -245,38 +245,38 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1648206274/c57c370c42eee3c42cd54c344fa8853c/playlist.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-premier" tvg-logo="https://iptvxcdn.ml/match-premiere.png",Матч Премьер
+http://50.7.92.90/Nash_futbol_HD/mono.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-premier" tvg-logo="https://iptvxcdn.ml/match-premiere.png",Матч! Премьер
 https://bal.varcdn.top/mp/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-premier" tvg-logo="http://epg.it999.ru/img2/2250.png",Матч Премьер HD
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5462
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-premier" tvg-logo="https://iptvxcdn.ml/match-premiere.png",Матч! Премьер
-http://50.7.92.90/Nash_futbol_HD/mono.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-premier" tvg-logo="http://epg.it999.ru/img2/2250.png",Матч! Премьер HD
 http://109.200.130.124:7005/play/a00d
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football1" tvg-logo="https://iptvxcdn.ml/match-football1.png",Матч Футбол 1
+http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-football1" tvg-logo="https://iptvxcdn.ml/match-football1.png",Матч! Футбол 1
 https://bal.varcdn.top/m1/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football1" tvg-logo="http://epg.it999.ru/img2/1043.png",Матч Футбол 1 HD
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5456
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-football1" tvg-logo="https://iptvxcdn.ml/match-football1.png",Матч! Футбол 1
-http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football1" tvg-logo="http://epg.it999.ru/img2/1043.png",Матч! Футбол 1 HD
 http://109.200.130.124:7005/play/a00h
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football2" tvg-logo="https://iptvxcdn.ml/match-football2.png",Матч Футбол 2
+http://50.7.92.90/Match_Futbol_2_HD/mono.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-football2" tvg-logo="https://iptvxcdn.ml/match-football2.png",Матч! Футбол 2
 https://bal.varcdn.top/m2/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football2" tvg-logo="http://epg.it999.ru/img2/1042.png",Матч Футбол 2 HD
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5461
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-football2" tvg-logo="https://iptvxcdn.ml/match-football2.png",Матч! Футбол 2
-http://50.7.92.90/Match_Futbol_2_HD/mono.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football2" tvg-logo="http://epg.it999.ru/img2/1042.png",Матч! Футбол 2 HD
 http://109.200.130.124:7005/play/a00b
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football3" tvg-logo="https://iptvxcdn.ml/match-football3.png",Матч Футбол 3
+http://50.7.92.90/Match_Futbol_3_HD/mono.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-football3" tvg-logo="https://iptvxcdn.ml/match-football3.png",Матч! Футбол 3
 https://bal.varcdn.top/m3/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football3" tvg-logo="http://epg.it999.ru/img2/2005.png",Матч Футбол 3 HD
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5458
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-football3" tvg-logo="https://iptvxcdn.ml/match-football3.png",Матч! Футбол 3
-http://50.7.92.90/Match_Futbol_3_HD/mono.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football3" tvg-logo="http://epg.it999.ru/img2/2005.png",Матч! Футбол 3 HD
 http://109.200.130.124:7005/play/a00c
 
@@ -308,12 +308,12 @@ https://bl.uma.media/live/400930/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 #EXTINF:-1 group-title="Спортивные" tvg-id="kxl" tvg-logo="https://iptvxcdn.ml/kxl.png",КХЛ
 http://193.233.9.49/streams/media/KHL_TV/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="kxl" tvg-logo="https://iptvxcdn.ml/kxl.png",КХЛ ТВ
-http://50.7.188.186/KHL_TV_HD/mono.m3u8
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5457
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="kxl-hd" tvg-logo="https://iptvxcdn.ml/kxl-hd.png",КХЛ HD
 http://46.174.83.66/KHL_HD/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="kxl-hd" tvg-logo="https://iptvxcdn.ml/kxl-hd.png",KHL Prime
-http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5457
+http://50.7.188.186/KHL_TV_HD/mono.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-arena" tvg-logo="https://iptvxcdn.ml/match-arena.png",Матч! Арена
 http://50.7.188.186/Match_Arena_HD/mono.m3u8
@@ -331,12 +331,12 @@ http://50.7.188.186/Match_Igra/mono.m3u8
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5460
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-planeta" tvg-logo="https://iptvxcdn.ml/match-planeta.png",Матч! Планета
-https://sc.id-tv.kz/MatchPlaneta_36_37.m3u8
+http://212.73.81.237:8088/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-planeta" tvg-logo="https://iptvxcdn.ml/match-planeta.png",Матч! Планета HD
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5455
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-nash-sport" tvg-logo="https://iptvxcdn.ml/match-strana.png",Матч! Страна
-http://212.73.81.237:8088/play/MatchStrana/index.m3u8
+https://bal.varcdn.top/matchstrana/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-nash-sport" tvg-logo="https://iptvxcdn.ml/match-strana.png",Матч! Страна HD
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 
@@ -349,8 +349,11 @@ http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5470
 #EXTINF:-1 group-title="Спортивные" tvg-id="russky-ekstrim" tvg-logo="https://iptvxcdn.ml/russky-ekstrim.png",Русский экстрим
 http://193.33.240.8:8080/rus-extrim/index.m3u8
 
+#EXTINF:-1 group-title="Спортивные" tvg-id="sport1-ua" tvg-logo="https://iptvxcdn.ml/sport1ua.png",Спорт 1 Украина
+https://bal.varcdn.top/sport1/index.m3u8
+
 #EXTINF:-1 group-title="Спортивные" tvg-id="sportivny" tvg-logo="https://iptvxcdn.ml/sportivny.png",Спортивный HD
-http://he11o.akadatel.com/iptv/9PKHZRBEQ3CVNV/10057/index.m3u8
+http://gmediatv.nl/op/ZW5nek56YzJOVFJBWjIxaGFXd3VZMjl0/2436.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="start" tvg-logo="https://iptvxcdn.ml/start.png",Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
@@ -373,20 +376,34 @@ https://tv.a21network.ru/stream/37909/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="eurosport1" tvg-logo="https://iptvxcdn.ml/eurosport1.png",Eurosport 1
 http://myott.top/stream/P4H2M76YRH/176.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="eurosport1" tvg-logo="https://iptvxcdn.ml/eurosport1.png",Eurosport 1
+http://50.7.92.90/Eurosport_HD/mono.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport1" tvg-logo="https://iptvxcdn.ml/eurosport1.png",Eurosport 1
 https://livetv.mylifeisgood.ml/channels/eurosport1ru
 #EXTINF:-1 group-title="Спортивные" tvg-id="eurosport1" tvg-logo="https://iptvxcdn.ml/eurosport1.png",Eurosport 1
-http://50.7.92.90/Eurosport_HD/mono.m3u8
+https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport1" tvg-logo="https://iptvxcdn.ml/eurosport1.png",Eurosport 1
+https://bal.varcdn.top/Eurosport1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport1" tvg-logo="https://iptvxcdn.ml/eurosport1.png",Eurosport 1
+https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport1" tvg-logo="https://iptvxcdn.ml/eurosport1.png",Eurosport 1
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/216/stream.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="eurosport1" tvg-logo="https://iptvxcdn.ml/eurosport1.png",Eurosport 1
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5464
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="eurosport2" tvg-logo="https://iptvxcdn.ml/eurosport2.png",Eurosport 2
 http://myott.top/stream/P4H2M76YRH/192.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="eurosport2" tvg-logo="https://iptvxcdn.ml/eurosport2.png",Eurosport 2
-https://livetv.mylifeisgood.ml/channels/eurosport2
-#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport2" tvg-logo="https://iptvxcdn.ml/eurosport2.png",Eurosport 2
 http://50.7.92.90/Evrosport_2/mono.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="eurosport2" tvg-logo="https://iptvxcdn.ml/eurosport2.png",Eurosport 2
+https://livetv.mylifeisgood.ml/channels/eurosport2
+#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport2" tvg-logo="https://iptvxcdn.ml/eurosport2.png",Eurosport 2
 https://sc.id-tv.kz/Eurosport_2HD_34_35.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport2" tvg-logo="https://iptvxcdn.ml/eurosport2.png",Eurosport 2
+https://bal.varcdn.top/Eurosport2/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport2" tvg-logo="https://iptvxcdn.ml/eurosport2.png",Eurosport 2
+https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport2" tvg-logo="https://iptvxcdn.ml/eurosport2.png",Eurosport 2
+https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="extreme-sports" tvg-logo="https://iptvxcdn.ml/extreme-sports.png",Extreme Sports
 http://50.7.92.90/Extreme_Sports/mono.m3u8
@@ -409,182 +426,49 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="setanta-kz" tvg-logo="https://iptvxcdn.ml/setanta-kz.png",Setanta Qazaqstan
 https://bal.varcdn.top/rpl1/index.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports" tvg-logo="https://iptvxcdn.ml/setanta-sports1.png",Setanta Sports
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports-georgia" tvg-logo="https://iptvxcdn.ml/setanta-sports-georgia.png",Setanta Sports Georgia
+http://188.93.94.140/setanta_georgia/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports" tvg-logo="https://iptvxcdn.ml/setanta-sports1.png",Setanta Sports 1
 http://50.7.92.90/SetantaEurasia/mono.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports" tvg-logo="https://iptvxcdn.ml/setanta-sports1.png",Setanta Sports 1
 https://bal.varcdn.top/setanta1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports" tvg-logo="https://iptvxcdn.ml/setanta-sports1.png",Setanta Sports 1 HD
+https://livetv.mylifeisgood.ml/channels/setantahd
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports" tvg-logo="https://iptvxcdn.ml/setanta-sports1.png",Setanta Sports 1 HD
+http://195.2.74.99/channel/n1269af8b/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+
 #EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports-plus" tvg-logo="https://iptvxcdn.ml/setanta-sports2.png",Setanta Sports 2
 https://bal.varcdn.top/setanta2/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports-plus" tvg-logo="https://iptvxcdn.ml/setanta-sports2.png",Setanta Sports 2 HD
+https://livetv.mylifeisgood.ml/channels/setantaplus
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports-plus" tvg-logo="https://iptvxcdn.ml/setanta-sports2.png",Setanta Sports 2 HD
+http://195.2.74.99/channel/n12693b2c/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+
 #EXTINF:-1 group-title="Спортивные" tvg-id="setanta-ua" tvg-logo="https://iptvxcdn.ml/setanta-ua.png",Setanta Sports Ukraine
 https://bal.varcdn.top/setantasport/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-ua" tvg-logo="https://iptvxcdn.ml/setanta-ua.png",Setanta Sports Ukraine HD
+https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/291/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-ua" tvg-logo="https://iptvxcdn.ml/setanta-ua.png",Setanta Sports Ukraine HD
+http://91.213.59.156/play/6/index.m3u8
+
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://iptvxcdn.ml/setanta-sports2.png",Setanta Sports 2 Ukraine
+http://188.93.94.140/setanta_sports_plus_georgia/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+
 #EXTINF:-1 group-title="Спортивные" tvg-id="setanta-plus-ua" tvg-logo="https://iptvxcdn.ml/setanta-plus-ua.png",Setanta Sports+ Ukraine
 https://bal.varcdn.top/setantaplusukraina/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-plus-ua" tvg-logo="https://iptvxcdn.ml/setanta-plus-ua.png",Setanta Sports+ Ukraine HD
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4314/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-plus-ua" tvg-logo="https://iptvxcdn.ml/setanta-plus-ua.png",Setanta Sports+ Ukraine HD
+http://91.213.59.156/play/13/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="viasat-sport" tvg-logo="https://iptvxcdn.ml/viasat-sport.png",Viasat Sport HD
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 
+#EXTINF:-1 group-title="Спортивные" tvg-id="xsport-plus-ua" tvg-logo="https://iptvxcdn.ml/xsport-plus-ua.png",Xsport+ HD
+http://cdnua06.hls.tv/476/hls/ska3rf67h5znoquvc4ymptg2el018jd9/4807/stream.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-11-1787.png",11 International
-https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="2587" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-a-spor-653.png",A Spor
-https://mfe.cliptv.az/dash/A_Spor_HD.ism/playlist.mpd
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ad-sports-1-815.png",AD Sports 1 HD
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ad-sports-2-667.png",AD Sports 2 HD
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ad-sports-3-429.png",AD Sports 3 HD
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-asn-284.png",Adventure Sports Network
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://d2qbf73089ujv4.cloudfront.net/uploads/company/logo/38913/large_cropped_LHK-R9Hx_400x400.jpg",All Sports TV HD
-http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/bandw-rally-tv.webp",BandW Rally TV
-https://59d8c0cee6f3d.streamlock.net/bandw/bandw/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/bek-tv-sports.webp",BEK TV SPORTS
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/bike-tv.webp",Bike TV
-https://it.fms2.premio.link/bike/index.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://televizor.org/img/logopit/Canal+Motor.png",Canal Motor
-https://digicom.hls.iptvdc.com/motorstv/index.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cbc-sport-1188.png",CBC Sport HD
-https://mfe01.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/channel-fight-tv.webp",Channel Fight TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=113
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dd-sports-240.png",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://lh3.googleusercontent.com/2MgyAEIXRW98sSK_wnskX172SvQ26E0FGvG8hAytoc4BKGzefSeYJjlgKSNFrwoYRbo=s280",Distro TV
-https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/edge-sport.webp",EDGE Sport
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fight-sports-1046.png",FIGHT Sports
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_2.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://wholesalesneakerslist.com/images/partner5.png",Fox Sports News
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://seeklogo.com/images/F/fuel-tv-logo-3C3716497D-seeklogo.com.png",Fuel TV
-https://fueltv-fueltv-1-au.samsung.wurl.com/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://cdn.cleeng.com/event-ppv/E794046845_US/l/L-1462485148-hard-knocks-50.png",Hard Knocks
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://cdn.freelance.ru/img/portfolio/thumb/00/27/F5/2618816.png",High TV
-https://v2.catcast.tv/content/270/index.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://www.sgboutdoor.co.uk/wp-content/uploads/unnamed-76-300x112.png",Horizon Sports
-https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-az-idman-tv-1189.png",iDMAN TV
-https://mfe01.cliptv.az/dash/Idman_HD.ism/playlist.mpd
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-tv-57.png",Gol TV HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1090
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/lsn-tv.webp",LSN TV
-https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.it999.ru/img2/2312.png",MavTV Europe
-https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-max-sport-1-1445.png",MAX Sport 1 HD
-http://78.83.191.18:8000/play/a073
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-max-sport-2-1435.png",MAX Sport 2 HD
-http://78.83.191.18:8000/play/a074
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-max-sport-3-1608.png",MAX Sport 3 HD
-http://78.83.191.18:8000/play/a075
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-max-sport-4-1834.png",MAX Sport 4 HD
-http://78.83.191.18:8000/play/a07f
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://db.radioline.fr/pictures/podcast_d3bf5cb3ef3d43dfcef8c785ed7951a7/logo200.jpg",MMA Jankie HD
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://vhx.imgix.net/mmatv/assets/934c8894-7122-43d5-9e56-5d2d29a98245.jpg",MMA TV
-https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://57.img.avito.st/avatar/social/256x256/5443836557.jpg",motoRRacing
-https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-motorvision-tv-185.png",MotorVision HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1677
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-o2-tv-sport-565.png",O2 TV Sport HD
-http://84.42.140.148:8880/hdmi
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-real-madrid-tv-871.png",Real Madrid TV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
-
-#EXTINF:-1 group-title="Sport" tvg-id="6039" tvg-logo="https://smotret.tv/images/red-bull-tv.webp",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://forumimage.ru/uploads/20180718/153189691509664373.png",Sharjah Sports
-http://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.sport2u.tv/wp-content/uploads/2021/05/logo-sport2u.png",Sport 2U
-https://live.sport2u.tv/EvoLive/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/sportgrid-tv.webp",Sportgrid TV
-https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://www.tvlizer.com/wp-content/uploads/2015/08/sports-tonight-200x141.jpg",Sports Tonight
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-stadium-843.png",Stadium UFC
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/swiss-sport-tv.webp",Swiss-Sport.TV
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tennis-channel-63.png",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tigo-sports-1325.png",Tigo Sports HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1113
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tnt-sports-1694.png",TNT Sports
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="2598" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-trt-spor-645.png",TRT SPOR TR
-https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="3939" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-trt-spor-2-1934.png",TRT SPOR YILDIZ
-https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/b/b4/TurkmenistanSport.jpg/400px-TurkmenistanSport.jpg",Turkmenistan Sport
-https://alpha.tv.online.tm/hls/ch004.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://seeklogo.com/images/T/TV2-logo-3DEE300033-seeklogo.com.gif",TV 2 Sporten
-https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tyc-sports-1245.png",TyC Sports HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1115
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://all-t-shirts.ru/goods_images/ru136686II000c693a326fa68253c20d3eebe3c4d5425.jpg",UFС
-http://n2086.securepoint.io:25461/tduPtQeaWs/U9GTCHyUxa/109953
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://user-images.githubusercontent.com/16014375/42868322-8809ffa2-8a61-11e8-9161-ce6d697fe46c.png",World Of Free Sports TV
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.maineventtravel.com/media/tour_logo_11WPT-340x0.jpg",World Poker Tour
-https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://sun9-32.userapi.com/c837421/v837421277/3ce0f/ct5QxIGUo_Q.jpg",Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/xfc-tv-fightworld.webp",XFC TV Fightworld
-https://content-aeuf1.uplynk.com/channel/9164ea45449b4e7797da0246cf80f563.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cro-arena-sport-1-314.png",Arena Sport 1 HD HR
 http://46.29.169.15:4001/play/a00t/index.m3u8
@@ -604,6 +488,15 @@ http://46.29.169.15:4001/play/a00g/index.m3u8
 http://46.29.169.15:4001/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-premium-3-2698.png",Arena Sport 3 Premium HD SR
 http://46.29.169.15:4001/play/a00i/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-max-sport-1-1445.png",MAX Sport 1 HD
+http://78.83.191.18:8000/play/a073
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-max-sport-2-1435.png",MAX Sport 2 HD
+http://78.83.191.18:8000/play/a074
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-max-sport-3-1608.png",MAX Sport 3 HD
+http://78.83.191.18:8000/play/a075
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-max-sport-4-1834.png",MAX Sport 4 HD
+http://78.83.191.18:8000/play/a07f
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png",Barca TV
 http://93.152.174.144:4000/play/barcatv/index.m3u8
@@ -651,6 +544,162 @@ http://93.152.174.144:4000/play/sporttv1/index.m3u8
 http://93.152.174.144:4000/play/skysports5/index.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/WWE.png",WWE Network
 http://93.152.174.144:4000/play/WWE/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-11-1787.png",11 International
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-id="2587" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-a-spor-653.png",A Spor
+http://mfe.cliptv.az/dash/A_Spor_HD.ism/playlist.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ad-sports-1-815.png",AD Sports 1 HD
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ad-sports-2-667.png",AD Sports 2 HD
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://d2qbf73089ujv4.cloudfront.net/uploads/company/logo/38913/large_cropped_LHK-R9Hx_400x400.jpg",All Sports TV HD
+http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic171.jpg",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/bandw-rally-tv.webp",BandW Rally TV
+https://59d8c0cee6f3d.streamlock.net/bandw/bandw/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/bike-tv.webp",Bike TV
+https://it.fms2.premio.link/bike/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-haber-1086.png",beIN Sports Haber
+https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://televizor.org/img/logopit/Canal+Motor.png",Canal Motor
+https://digicom.hls.iptvdc.com/motorstv/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cbc-sport-1188.png",CBC Sport HD
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/channel-fight-tv.webp",Channel Fight TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=113
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dd-sports-240.png",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lh3.googleusercontent.com/2MgyAEIXRW98sSK_wnskX172SvQ26E0FGvG8hAytoc4BKGzefSeYJjlgKSNFrwoYRbo=s280",Distro TV
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/edge-sport.webp",EDGE Sport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fight-sports-1046.png",FIGHT Sports
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_2.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://seeklogo.com/images/F/fuel-tv-logo-3C3716497D-seeklogo.com.png",Fuel TV
+https://fueltv-fueltv-1-au.samsung.wurl.com/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/02/ftf-logo-sml-v2.png",FTF Sports
+https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cdn.freelance.ru/img/portfolio/thumb/00/27/F5/2618816.png",High TV
+https://v2.catcast.tv/content/270/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.sgboutdoor.co.uk/wp-content/uploads/unnamed-76-300x112.png",Horizon Sports
+https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-az-idman-tv-1189.png",iDMAN TV
+http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-tv-57.png",Gol TV HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1090
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/lsn-tv.webp",LSN TV
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.it999.ru/img2/2312.png",MavTV Europe
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://db.radioline.fr/pictures/podcast_d3bf5cb3ef3d43dfcef8c785ed7951a7/logo200.jpg",MMA Jankie HD
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://vhx.imgix.net/mmatv/assets/934c8894-7122-43d5-9e56-5d2d29a98245.jpg",MMATV Live
+https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://57.img.avito.st/avatar/social/256x256/5443836557.jpg",motoRRacing
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-motorvision-tv-185.png",MotorVision HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1677
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-o2-tv-sport-565.png",O2 TV Sport HD
+http://84.42.140.148:8880/hdmi
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/yaWTUE6.png",Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-real-madrid-tv-871.png",Real Madrid TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
+
+#EXTINF:-1 group-title="Sport" tvg-id="6039" tvg-logo="https://smotret.tv/images/red-bull-tv.webp",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rtsh-sport-1466.png",RTSH Sport
+http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://forumimage.ru/uploads/20180718/153189691509664373.png",Sharjah Sports
+http://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.sport2u.tv/wp-content/uploads/2021/05/logo-sport2u.png",Sport 2U
+https://live.sport2u.tv/EvoLive/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/sportgrid-tv.webp",Sportgrid TV
+https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.tvlizer.com/wp-content/uploads/2015/08/sports-tonight-200x141.jpg",Sports Tonight
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-hd-1-logo.jpg",Star Sports 1 HD
+http://208.86.19.13:81/710.stream/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/swiss-sport-tv.webp",Swiss-Sport.TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tennis-channel-63.png",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tnt-sports-1694.png",TNT Sports
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-id="2598" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-trt-spor-645.png",TRT SPOR TR
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="3939" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-trt-spor-2-1934.png",TRT SPOR YILDIZ
+https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/b/b4/TurkmenistanSport.jpg/400px-TurkmenistanSport.jpg",Turkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://seeklogo.com/images/T/TV2-logo-3DEE300033-seeklogo.com.gif",tv2 - Sport
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tyc-sports-1245.png",TyC Sports HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1115
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://all-t-shirts.ru/goods_images/ru136686II000c693a326fa68253c20d3eebe3c4d5425.jpg",UFС
+http://n2086.securepoint.io:25461/tduPtQeaWs/U9GTCHyUxa/109953
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/vivaro-tv.png",Vivaro sport
+http://212.73.81.237:8088/play/a004/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/vivaro-tv.png",Vivaro sport +
+http://212.73.81.237:8088/play/a005/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://user-images.githubusercontent.com/16014375/42868322-8809ffa2-8a61-11e8-9161-ce6d697fe46c.png",World Of Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.maineventtravel.com/media/tour_logo_11WPT-340x0.jpg",World Poker Tour
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://sun9-32.userapi.com/c837421/v837421277/3ce0f/ct5QxIGUo_Q.jpg",Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/xfc-tv-fightworld.webp",XFC TV Fightworld
+https://content-aeuf1.uplynk.com/channel/9164ea45449b4e7797da0246cf80f563.m3u8
 
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-turbo" tvg-logo="https://iptvxcdn.ml/sony-turbo.png",.black
@@ -786,10 +835,8 @@ http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5098
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="arsenaltv" tvg-logo="https://iptvxcdn.ml/arsenaltv.png",Арсенал HD
 http://81.177.139.240:8000/play/a001/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="blokbaster" tvg-logo="https://iptvxcdn.ml/blokbaster.png",Блокбастер
-http://91.219.23.234:8000/play/80/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="blokbaster" tvg-logo="https://iptvxcdn.ml/blokbaster.png",Блокбастер HD
-http://cdn.vimax.tv/vimax/ch197/video.m3u8?token=6abff8fd-6948-4fa9-83d7-2d60a291ae3d
+http://91.219.23.234:8000/play/80/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="domkino" tvg-logo="https://iptvxcdn.ml/domkino.png",Дом Кино
 https://pkvc-hls4.cdnvideo.ru/DK/smil:DK.smil/playlist.m3u8
@@ -864,7 +911,7 @@ http://iptv.mega.net.ru:8888/TVRU1/Lubimoe_kino/index.m3u8
 http://193.111.244.35:8001/mirseriala/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="mosfilm" tvg-logo="https://iptvxcdn.ml/mosfilm.png",Мосфильм. Золотая коллекция
-http://cdn.vimax.tv/vimax/ch217/video.m3u8?token=6abff8fd-6948-4fa9-83d7-2d60a291ae3d
+http://109.200.130.124:9100/play/a027/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="muzhskoe-kino" tvg-logo="https://iptvxcdn.ml/muzhskoe-kino.png",Мужское Кино
 http://50.7.188.186/Muzhskoe_kino/mono.m3u8
@@ -879,7 +926,7 @@ http://50.7.92.90/Nashe_HD/mono.m3u8
 http://91.219.23.234:8000/play/83/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="nashe-novoe-kino" tvg-logo="https://iptvxcdn.ml/nashe-novoe-kino.png",Наше Новое Кино
-http://185.32.44.186:8004/play/a01x/index.m3u8
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5068
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="nst" tvg-logo="https://iptvxcdn.ml/nst.png",НСТ
 http://50.7.188.186/NST/mono.m3u8
@@ -2134,7 +2181,7 @@ http://50.7.92.90/Ohotnik_i_Ryibolov_HD/mono.m3u8
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=firstspace
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="poexali" tvg-logo="https://iptvxcdn.ml/poexali.png",Поехали!
-http://83.234.104.142/poehali/playlist.m3u8
+http://109.200.130.124:9100/play/a02p/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="prikluchenia-hd" tvg-logo="https://iptvxcdn.ml/prikluchenia-hd.png",Приключения HD
 http://80.89.196.34:8085/travel/index.m3u8
